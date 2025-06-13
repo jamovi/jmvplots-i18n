@@ -1,0 +1,993 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
+"PO-Revision-Date: 2021-07-29 16:59:59+01000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: R/jmvbar.b.R
+msgid "{var} (mean{error})"
+msgstr ""
+
+#: jmvbar/ui/mode/continuous[1][0][0][0]/yAxisRangeType_ci/ciWidth.suffix
+#: jmvline/ui/mode/aggregate[0][1][0]/yAxisRangeType_ci/ciWidth.suffix
+msgid "%"
+msgstr ""
+
+#: jmvbar/ui[4][0][0][0]/xAxisLabelRotation.suffix
+#: jmvbar/ui[4][0][1][0]/yAxisLabelRotation.suffix
+#: jmvbox/ui[3][0][0][0]/xAxisLabelRotation.suffix
+#: jmvbox/ui[3][0][1][0]/yAxisLabelRotation.suffix
+#: jmvhist/ui[3][0][0][0]/xAxisLabelRotation.suffix
+#: jmvhist/ui[3][0][1][0]/yAxisLabelRotation.suffix
+#: jmvline/ui[5][0][0][0]/xAxisLabelRotation.suffix
+#: jmvline/ui[5][0][1][0]/yAxisLabelRotation.suffix
+#: jmvscatter/ui[3][0][0][0]/xAxisLabelRotation.suffix
+#: jmvscatter/ui[3][0][1][0]/yAxisLabelRotation.suffix
+msgid "°"
+msgstr ""
+
+#: jmvline/options/aggregateType.title
+#: jmvline/ui/mode/aggregate[0][0][0][0].label
+msgid "Aggregate"
+msgstr ""
+
+#: jmvline/ui/mode/aggregate[0].label
+msgid "Aggregate Options"
+msgstr ""
+
+#: jmvline/options/mode/aggregate.title
+msgid "Aggregated data"
+msgstr ""
+
+#: jmvbar/options/titleAlign.title
+#: jmvbar/options/subtitleAlign.title
+#: jmvbar/options/captionAlign.title
+#: jmvbar/options/xLabelAlign.title
+#: jmvbar/options/yLabelAlign.title
+#: jmvbox/options/titleAlign.title
+#: jmvbox/options/subtitleAlign.title
+#: jmvbox/options/captionAlign.title
+#: jmvbox/options/xLabelAlign.title
+#: jmvbox/options/yLabelAlign.title
+#: jmvhist/options/titleAlign.title
+#: jmvhist/options/subtitleAlign.title
+#: jmvhist/options/captionAlign.title
+#: jmvhist/options/xLabelAlign.title
+#: jmvhist/options/yLabelAlign.title
+#: jmvline/options/titleAlign.title
+#: jmvline/options/subtitleAlign.title
+#: jmvline/options/captionAlign.title
+#: jmvline/options/xLabelAlign.title
+#: jmvline/options/yLabelAlign.title
+#: jmvscatter/options/titleAlign.title
+#: jmvscatter/options/subtitleAlign.title
+#: jmvscatter/options/captionAlign.title
+#: jmvscatter/options/xLabelAlign.title
+#: jmvscatter/options/yLabelAlign.title
+msgid "Align"
+msgstr ""
+
+#: jmvbar/results/plot.description
+msgid "an image containing the bar plot"
+msgstr ""
+
+#: jmvbox/results/plot.description
+msgid "an image containing the box plot"
+msgstr ""
+
+#: jmvhist/results/plot.description
+msgid "an image containing the histogram"
+msgstr ""
+
+#: jmvline/results/plot.description
+msgid "an image containing the line plot"
+msgstr ""
+
+#: jmvscatter/results/plot.description
+msgid "an image containing the scatter plot"
+msgstr ""
+
+#: jmvbar/options/yAxisRangeType/auto.title
+#: jmvbox/options/yAxisRangeType/auto.title
+#: jmvhist/options/yAxisRangeType/auto.title
+#: jmvhist/options/xAxisRangeType/auto.title
+#: jmvline/options/yAxisRangeType/auto.title
+#: jmvscatter/options/yAxisRangeType/auto.title
+#: jmvscatter/options/xAxisRangeType/auto.title
+msgid "Auto"
+msgstr ""
+
+#: jmvbar/ui[4].label
+#: jmvbox/ui[3].label
+#: jmvhist/ui[3].label
+#: jmvline/ui[5].label
+#: jmvscatter/ui[3].label
+msgid "Axes"
+msgstr ""
+
+#: jmvbar/ui[1][0][0][0].label
+msgid "Bar"
+msgstr ""
+
+#: jmvbar/options/groupBarType.title
+msgid "Bar type"
+msgstr ""
+
+#: jmvbar/ui[2][0][0][0].label
+msgid "Bar Type"
+msgstr ""
+
+#: package/analyses/jmvbar.title
+#: package/analyses/jmvbar.menuTitle
+#: jmvbar/options.title
+#: jmvbar/ui.title
+#: jmvbar/results.title
+msgid "Barplot"
+msgstr ""
+
+#: jmvhist/options/binOpacity.title
+msgid "Bin opacity"
+msgstr ""
+
+#: jmvhist/options/binWidth.title
+msgid "Bin width"
+msgstr ""
+
+#: jmvbar/options/legendPosition/bottom.title
+#: jmvbar/options/legendJustification/bottom.title
+#: jmvbox/options/legendPosition/bottom.title
+#: jmvbox/options/legendJustification/bottom.title
+#: jmvhist/options/legendPosition/bottom.title
+#: jmvhist/options/legendJustification/bottom.title
+#: jmvline/options/legendPosition/bottom.title
+#: jmvline/options/legendJustification/bottom.title
+#: jmvscatter/options/legendPosition/bottom.title
+#: jmvscatter/options/legendJustification/bottom.title
+msgid "Bottom"
+msgstr ""
+
+#: jmvbox/ui[1][0][0][0].label
+msgid "Box Element"
+msgstr ""
+
+#: package/analyses/jmvbox.title
+#: package/analyses/jmvbox.menuTitle
+#: jmvbox/options.title
+#: jmvbox/ui.title
+#: jmvbox/results.title
+msgid "Boxplot"
+msgstr ""
+
+#: jmvbar/options/mode/categorical.title
+msgid "Categorical"
+msgstr ""
+
+#: jmvbar/options/catvar.title
+#: jmvbar/ui/mode/categorical[0][0].label
+msgid "Categorical Variable"
+msgstr ""
+
+#: jmvbar/options/titleAlign/center.title
+#: jmvbar/options/subtitleAlign/center.title
+#: jmvbar/options/captionAlign/center.title
+#: jmvbar/options/xLabelAlign/center.title
+#: jmvbar/options/yLabelAlign/center.title
+#: jmvbar/options/legendJustification/center.title
+#: jmvbox/options/titleAlign/center.title
+#: jmvbox/options/subtitleAlign/center.title
+#: jmvbox/options/captionAlign/center.title
+#: jmvbox/options/xLabelAlign/center.title
+#: jmvbox/options/yLabelAlign/center.title
+#: jmvbox/options/legendJustification/center.title
+#: jmvhist/options/titleAlign/center.title
+#: jmvhist/options/subtitleAlign/center.title
+#: jmvhist/options/captionAlign/center.title
+#: jmvhist/options/xLabelAlign/center.title
+#: jmvhist/options/yLabelAlign/center.title
+#: jmvhist/options/legendJustification/center.title
+#: jmvline/options/titleAlign/center.title
+#: jmvline/options/subtitleAlign/center.title
+#: jmvline/options/captionAlign/center.title
+#: jmvline/options/xLabelAlign/center.title
+#: jmvline/options/yLabelAlign/center.title
+#: jmvline/options/legendJustification/center.title
+#: jmvscatter/options/titleAlign/center.title
+#: jmvscatter/options/subtitleAlign/center.title
+#: jmvscatter/options/captionAlign/center.title
+#: jmvscatter/options/xLabelAlign/center.title
+#: jmvscatter/options/yLabelAlign/center.title
+#: jmvscatter/options/legendJustification/center.title
+msgid "Center"
+msgstr ""
+
+#: jmvbar/options/errorBars/ci.title
+#: jmvline/options/errorBars/ci.title
+msgid "Confidence interval"
+msgstr ""
+
+#: jmvbar/options/mode/continuous.title
+msgid "Continuous"
+msgstr ""
+
+#: jmvbar/ui/mode/continuous[1].label
+msgid "Continuous Options"
+msgstr ""
+
+#: jmvbar/options/convar.title
+#: jmvbar/ui/mode/continuous[0][0].label
+msgid "Continuous Variable"
+msgstr ""
+
+#: jmvbar/options/mode/counts.title
+#: jmvbar/options/counts.title
+#: jmvbar/ui/mode/counts[0][0].label
+msgid "Counts"
+msgstr ""
+
+#: package.title
+msgid "Create Elegant and Interactive Plots Built on 'ggplot2'"
+msgstr ""
+
+#: package.description
+msgid "Create elegant and interactive plots built on 'ggplot2'. The package is designed to provide a convencience layer to 'ggplot2' within jamovi."
+msgstr ""
+
+#: jmvline/options/mode.title
+msgid "Data display"
+msgstr ""
+
+#: jmvhist/ui[1][0][0][1].label
+msgid "Density"
+msgstr ""
+
+#: jmvhist/options/densityOpacity.title
+msgid "Density opacity"
+msgstr ""
+
+#: jmvline/options/groupColor.title
+msgid "Different colors"
+msgstr ""
+
+#: jmvline/options/groupLineType.title
+msgid "Different line types"
+msgstr ""
+
+#: jmvline/options/groupPointType.title
+msgid "Different point types"
+msgstr ""
+
+#: jmvbar/options/legendDirection.title
+#: jmvbox/options/legendDirection.title
+#: jmvhist/options/legendDirection.title
+#: jmvline/options/legendDirection.title
+#: jmvscatter/options/legendDirection.title
+msgid "Direction"
+msgstr ""
+
+#: jmvline/options/groupPositionDodge.title
+msgid "Dodge width"
+msgstr ""
+
+#: jmvbar/options/errorBarSize.title
+#: jmvline/options/errorBarSize.title
+msgid "Error bar line size"
+msgstr ""
+
+#: jmvbar/ui/mode/continuous[1][1][0].label
+#: jmvline/ui/mode/aggregate[0][1][1].label
+msgid "Error Bar Styling"
+msgstr ""
+
+#: jmvbar/options/errorBarWidth.title
+#: jmvline/options/errorBarWidth.title
+msgid "Error bar width"
+msgstr ""
+
+#: jmvbar/options/errorBars.title
+#: jmvline/options/errorBars.title
+msgid "Error bars"
+msgstr ""
+
+#: jmvbar/ui/mode/continuous[1][0][0][0].label
+#: jmvline/ui/mode/aggregate[0][1][0].label
+msgid "Error Bars"
+msgstr ""
+
+#: jmvbar/options/flipAxes.title
+#: jmvbox/options/flipAxes.title
+#: jmvhist/options/flipAxes.title
+#: jmvline/options/flipAxes.title
+#: jmvscatter/options/flipAxes.title
+msgid "Flip axes"
+msgstr ""
+
+#: jmvbar/options/titleFontSize.title
+#: jmvbar/options/subtitleFontSize.title
+#: jmvbar/options/captionFontSize.title
+#: jmvbar/options/xLabelFontSize.title
+#: jmvbar/options/yLabelFontSize.title
+#: jmvbox/options/titleFontSize.title
+#: jmvbox/options/subtitleFontSize.title
+#: jmvbox/options/captionFontSize.title
+#: jmvbox/options/xLabelFontSize.title
+#: jmvbox/options/yLabelFontSize.title
+#: jmvhist/options/titleFontSize.title
+#: jmvhist/options/subtitleFontSize.title
+#: jmvhist/options/captionFontSize.title
+#: jmvhist/options/xLabelFontSize.title
+#: jmvhist/options/yLabelFontSize.title
+#: jmvline/options/titleFontSize.title
+#: jmvline/options/subtitleFontSize.title
+#: jmvline/options/captionFontSize.title
+#: jmvline/options/xLabelFontSize.title
+#: jmvline/options/yLabelFontSize.title
+#: jmvscatter/options/titleFontSize.title
+#: jmvscatter/options/subtitleFontSize.title
+#: jmvscatter/options/captionFontSize.title
+#: jmvscatter/options/xLabelFontSize.title
+#: jmvscatter/options/yLabelFontSize.title
+msgid "Font size"
+msgstr ""
+
+#: R/jmvbar.b.R
+#: R/jmvhist.b.R
+msgid "Frequency (N)"
+msgstr ""
+
+#: jmvbar/ui[1].label
+#: jmvbox/ui[1].label
+#: jmvhist/ui[1].label
+#: jmvline/ui[2].label
+#: jmvscatter/ui[1].label
+msgid "General Options"
+msgstr ""
+
+#: jmvbar/ui[2].label
+#: jmvline/ui[3].label
+msgid "Group Options"
+msgstr ""
+
+#: jmvbar/options/groupBarType/grouped.title
+msgid "Grouped"
+msgstr ""
+
+#: jmvbar/options/catgroup.title
+#: jmvbar/options/countsgroup.title
+#: jmvbar/ui/mode/categorical[0][1].label
+#: jmvbar/ui/mode/counts[0][2].label
+#: jmvhist/options/group.title
+#: jmvhist/ui[0][1].label
+#: jmvline/options/group.title
+#: jmvline/ui[0][2].label
+#: jmvscatter/options/group.title
+#: jmvscatter/ui[0][2].label
+msgid "Grouping Variable"
+msgstr ""
+
+#: jmvbar/options/congroup1.title
+#: jmvbar/ui/mode/continuous[0][1].label
+#: jmvbox/options/group1.title
+#: jmvbox/ui[0][1].label
+msgid "Grouping Variable 1"
+msgstr ""
+
+#: jmvbar/options/congroup2.title
+#: jmvbar/ui/mode/continuous[0][2].label
+#: jmvbox/options/group2.title
+#: jmvbox/ui[0][2].label
+msgid "Grouping Variable 2"
+msgstr ""
+
+#: jmvbar/options/height.title
+#: jmvbox/options/height.title
+#: jmvhist/options/height.title
+#: jmvline/options/height.title
+#: jmvscatter/options/height.title
+msgid "Height"
+msgstr ""
+
+#: jmvbar/options/legenPositionType/hide.title
+#: jmvbox/options/legenPositionType/hide.title
+#: jmvhist/options/legenPositionType/hide.title
+#: jmvline/options/legenPositionType/hide.title
+#: jmvscatter/options/legenPositionType/hide.title
+msgid "Hide"
+msgstr ""
+
+#: package/analyses/jmvhist.title
+#: package/analyses/jmvhist.menuTitle
+#: jmvhist/options.title
+#: jmvhist/ui.title
+#: jmvhist/ui[1][0][0][0].label
+#: jmvhist/results.title
+msgid "Histogram"
+msgstr ""
+
+#: jmvbar/options/legendDirection/horizontal.title
+#: jmvbox/options/legendDirection/horizontal.title
+#: jmvhist/options/legendDirection/horizontal.title
+#: jmvline/options/legendDirection/horizontal.title
+#: jmvscatter/options/legendDirection/horizontal.title
+msgid "Horizontal"
+msgstr ""
+
+#: jmvline/options/mode/individual.title
+msgid "Individual points"
+msgstr ""
+
+#: jmvbar/options/legenPositionType/inside.title
+#: jmvbox/options/legenPositionType/inside.title
+#: jmvhist/options/legenPositionType/inside.title
+#: jmvline/options/legenPositionType/inside.title
+#: jmvscatter/options/legenPositionType/inside.title
+msgid "Inside"
+msgstr ""
+
+#: jmvbar/options/legendJustification.title
+#: jmvbox/options/legendJustification.title
+#: jmvhist/options/legendJustification.title
+#: jmvline/options/legendJustification.title
+#: jmvscatter/options/legendJustification.title
+msgid "Justification"
+msgstr ""
+
+#: jmvbar/options/legendKeyHeight.title
+#: jmvbox/options/legendKeyHeight.title
+#: jmvhist/options/legendKeyHeight.title
+#: jmvline/options/legendKeyHeight.title
+#: jmvscatter/options/legendKeyHeight.title
+msgid "Key height"
+msgstr ""
+
+#: jmvbar/options/legendKeyWidth.title
+#: jmvbox/options/legendKeyWidth.title
+#: jmvhist/options/legendKeyWidth.title
+#: jmvline/options/legendKeyWidth.title
+#: jmvscatter/options/legendKeyWidth.title
+msgid "Key width"
+msgstr ""
+
+#: jmvbar/options/yAxisLabelFontSize.title
+#: jmvbar/options/xAxisLabelFontSize.title
+#: jmvbar/options/legendLabelFontSize.title
+#: jmvbox/options/yAxisLabelFontSize.title
+#: jmvbox/options/xAxisLabelFontSize.title
+#: jmvbox/options/legendLabelFontSize.title
+#: jmvhist/options/yAxisLabelFontSize.title
+#: jmvhist/options/xAxisLabelFontSize.title
+#: jmvhist/options/legendLabelFontSize.title
+#: jmvline/options/yAxisLabelFontSize.title
+#: jmvline/options/xAxisLabelFontSize.title
+#: jmvline/options/legendLabelFontSize.title
+#: jmvscatter/options/yAxisLabelFontSize.title
+#: jmvscatter/options/xAxisLabelFontSize.title
+#: jmvscatter/options/legendLabelFontSize.title
+msgid "Label font size"
+msgstr ""
+
+#: jmvbar/options/yAxisLabelRotation.title
+#: jmvbar/options/xAxisLabelRotation.title
+#: jmvbox/options/yAxisLabelRotation.title
+#: jmvbox/options/xAxisLabelRotation.title
+#: jmvhist/options/yAxisLabelRotation.title
+#: jmvhist/options/xAxisLabelRotation.title
+#: jmvline/options/yAxisLabelRotation.title
+#: jmvline/options/xAxisLabelRotation.title
+#: jmvscatter/options/yAxisLabelRotation.title
+#: jmvscatter/options/xAxisLabelRotation.title
+msgid "Label rotation"
+msgstr ""
+
+#: jmvbar/options/countsLabels.title
+#: jmvbar/ui/mode/counts[0][1].label
+msgid "Labels"
+msgstr ""
+
+#: jmvbar/options/titleAlign/left.title
+#: jmvbar/options/subtitleAlign/left.title
+#: jmvbar/options/captionAlign/left.title
+#: jmvbar/options/xLabelAlign/left.title
+#: jmvbar/options/yLabelAlign/left.title
+#: jmvbar/options/legendPosition/left.title
+#: jmvbar/options/legendJustification/left.title
+#: jmvbox/options/titleAlign/left.title
+#: jmvbox/options/subtitleAlign/left.title
+#: jmvbox/options/captionAlign/left.title
+#: jmvbox/options/xLabelAlign/left.title
+#: jmvbox/options/yLabelAlign/left.title
+#: jmvbox/options/legendPosition/left.title
+#: jmvbox/options/legendJustification/left.title
+#: jmvhist/options/titleAlign/left.title
+#: jmvhist/options/subtitleAlign/left.title
+#: jmvhist/options/captionAlign/left.title
+#: jmvhist/options/xLabelAlign/left.title
+#: jmvhist/options/yLabelAlign/left.title
+#: jmvhist/options/legendPosition/left.title
+#: jmvhist/options/legendJustification/left.title
+#: jmvline/options/titleAlign/left.title
+#: jmvline/options/subtitleAlign/left.title
+#: jmvline/options/captionAlign/left.title
+#: jmvline/options/xLabelAlign/left.title
+#: jmvline/options/yLabelAlign/left.title
+#: jmvline/options/legendPosition/left.title
+#: jmvline/options/legendJustification/left.title
+#: jmvscatter/options/titleAlign/left.title
+#: jmvscatter/options/subtitleAlign/left.title
+#: jmvscatter/options/captionAlign/left.title
+#: jmvscatter/options/xLabelAlign/left.title
+#: jmvscatter/options/yLabelAlign/left.title
+#: jmvscatter/options/legendPosition/left.title
+#: jmvscatter/options/legendJustification/left.title
+msgid "Left"
+msgstr ""
+
+#: jmvbar/ui[5].label
+#: jmvbox/ui[4].label
+#: jmvhist/ui[4].label
+#: jmvline/ui[6].label
+#: jmvscatter/ui[4].label
+msgid "Legend"
+msgstr ""
+
+#: jmvbar/ui[5][0][1][0].label
+#: jmvbox/ui[4][0][1][0].label
+#: jmvhist/ui[4][0][1][0].label
+#: jmvline/ui[6][0][1][0].label
+#: jmvscatter/ui[4][0][1][0].label
+msgid "Legend Position"
+msgstr ""
+
+#: jmvbar/ui[5][0][0][1].label
+#: jmvbox/ui[4][0][0][1].label
+#: jmvhist/ui[4][0][0][1].label
+#: jmvline/ui[6][0][0][1].label
+#: jmvscatter/ui[4][0][0][1].label
+msgid "Legend Style"
+msgstr ""
+
+#: jmvbar/ui[5][0][0][0].label
+#: jmvbox/ui[4][0][0][0].label
+#: jmvhist/ui[4][0][0][0].label
+#: jmvline/ui[6][0][0][0].label
+#: jmvscatter/ui[4][0][0][0].label
+msgid "Legend Title"
+msgstr ""
+
+#: jmvline/ui[2][0][0][0].label
+msgid "Line"
+msgstr ""
+
+#: jmvline/ui[3][0][0][0].label
+msgid "Line & Point Style"
+msgstr ""
+
+#: jmvhist/options/lineSize.title
+#: jmvhist/options/densityLineSize.title
+#: jmvline/options/lineSize.title
+msgid "Line size"
+msgstr ""
+
+#: jmvscatter/options/lineMethod/lm.title
+msgid "Linear"
+msgstr ""
+
+#: package/analyses/jmvline.title
+#: package/analyses/jmvline.menuTitle
+#: jmvline/options.title
+#: jmvline/ui.title
+#: jmvline/results.title
+msgid "Lineplot"
+msgstr ""
+
+#: jmvbar/options/yAxisRangeType/manual.title
+#: jmvbox/options/yAxisRangeType/manual.title
+#: jmvhist/options/yAxisRangeType/manual.title
+#: jmvhist/options/xAxisRangeType/manual.title
+#: jmvline/options/yAxisRangeType/manual.title
+#: jmvscatter/options/yAxisRangeType/manual.title
+#: jmvscatter/options/xAxisRangeType/manual.title
+msgid "Manual"
+msgstr ""
+
+#: jmvbar/options/yAxisRangeMax.title
+#: jmvbox/options/yAxisRangeMax.title
+#: jmvhist/options/yAxisRangeMax.title
+#: jmvhist/options/xAxisRangeMax.title
+#: jmvline/options/yAxisRangeMax.title
+#: jmvscatter/options/yAxisRangeMax.title
+#: jmvscatter/options/xAxisRangeMax.title
+msgid "Max"
+msgstr ""
+
+#: jmvline/options/aggregateType/mean.title
+msgid "Mean"
+msgstr ""
+
+#: jmvline/options/aggregateType/median.title
+msgid "Median"
+msgstr ""
+
+#: jmvscatter/options/lineMethod.title
+msgid "Method"
+msgstr ""
+
+#: jmvbar/options/yAxisRangeMin.title
+#: jmvbox/options/yAxisRangeMin.title
+#: jmvhist/options/yAxisRangeMin.title
+#: jmvhist/options/xAxisRangeMin.title
+#: jmvline/options/yAxisRangeMin.title
+#: jmvscatter/options/yAxisRangeMin.title
+#: jmvscatter/options/xAxisRangeMin.title
+msgid "Min"
+msgstr ""
+
+#: jmvbar/options/errorBars/none.title
+#: jmvline/options/errorBars/none.title
+msgid "None"
+msgstr ""
+
+#: jmvbox/options/notch.title
+msgid "Notch"
+msgstr ""
+
+#: jmvbar/options/legenPositionType/outside.title
+#: jmvbox/options/legenPositionType/outside.title
+#: jmvhist/options/legenPositionType/outside.title
+#: jmvline/options/legenPositionType/outside.title
+#: jmvscatter/options/legenPositionType/outside.title
+msgid "Outside"
+msgstr ""
+
+#: jmvbar/ui[3].label
+#: jmvbox/ui[2].label
+#: jmvhist/ui[2].label
+#: jmvline/ui[4].label
+#: jmvscatter/ui[2].label
+msgid "Plot & Axis Titles"
+msgstr ""
+
+#: jmvbar/options/titleType/caption.title
+#: jmvbox/options/titleType/caption.title
+#: jmvhist/options/titleType/caption.title
+#: jmvline/options/titleType/caption.title
+#: jmvscatter/options/titleType/caption.title
+msgid "Plot Caption"
+msgstr ""
+
+#: jmvbar/ui[1][0][1][1].label
+#: jmvbox/ui[1][0][1][1].label
+#: jmvhist/ui[1][0][1][1].label
+#: jmvline/ui[2][0][1][1].label
+#: jmvscatter/ui[1][0][1][1].label
+msgid "Plot Orientation"
+msgstr ""
+
+#: jmvbar/ui[1][0][1][0].label
+#: jmvbox/ui[1][0][1][0].label
+#: jmvhist/ui[1][0][1][0].label
+#: jmvline/ui[2][0][1][0].label
+#: jmvscatter/ui[1][0][1][0].label
+msgid "Plot Size"
+msgstr ""
+
+#: jmvbar/options/titleType/subtitle.title
+#: jmvbox/options/titleType/subtitle.title
+#: jmvhist/options/titleType/subtitle.title
+#: jmvline/options/titleType/subtitle.title
+#: jmvscatter/options/titleType/subtitle.title
+msgid "Plot Subtitle"
+msgstr ""
+
+#: jmvbar/options/titleType/title.title
+#: jmvbox/options/titleType/title.title
+#: jmvhist/options/titleType/title.title
+#: jmvline/options/titleType/title.title
+#: jmvscatter/options/titleType/title.title
+msgid "Plot Title"
+msgstr ""
+
+#: jmvline/ui[2][0][0][1].label
+msgid "Point"
+msgstr ""
+
+#: jmvline/ui[3][0][1][0].label
+msgid "Point Dodging"
+msgstr ""
+
+#: jmvline/options/pointSize.title
+#: jmvscatter/options/pointSize.title
+msgid "Point size"
+msgstr ""
+
+#: jmvbar/options/legendPosition.title
+#: jmvbox/options/legendPosition.title
+#: jmvhist/options/legendPosition.title
+#: jmvline/options/legendPosition.title
+#: jmvscatter/options/legendPosition.title
+msgid "Position"
+msgstr ""
+
+#: jmvbar/ui[4][0][1][1].label
+#: jmvbox/ui[3][0][1][1].label
+#: jmvhist/ui[3][0][0][1].label
+#: jmvhist/ui[3][0][1][1].label
+#: jmvline/ui[5][0][1][1].label
+#: jmvscatter/ui[3][0][0][1].label
+#: jmvscatter/ui[3][0][1][1].label
+msgid "Range"
+msgstr ""
+
+#: jmvscatter/ui[1][0][0][1].label
+msgid "Regression Line"
+msgstr ""
+
+#: jmvbar/options/xAxisLabelFontSizeRevLabels.title
+#: jmvbox/options/xAxisLabelFontSizeRevLabels.title
+msgid "Reverse labels"
+msgstr ""
+
+#: jmvbar/options/titleAlign/right.title
+#: jmvbar/options/subtitleAlign/right.title
+#: jmvbar/options/captionAlign/right.title
+#: jmvbar/options/xLabelAlign/right.title
+#: jmvbar/options/yLabelAlign/right.title
+#: jmvbar/options/legendPosition/right.title
+#: jmvbar/options/legendJustification/right.title
+#: jmvbox/options/titleAlign/right.title
+#: jmvbox/options/subtitleAlign/right.title
+#: jmvbox/options/captionAlign/right.title
+#: jmvbox/options/xLabelAlign/right.title
+#: jmvbox/options/yLabelAlign/right.title
+#: jmvbox/options/legendPosition/right.title
+#: jmvbox/options/legendJustification/right.title
+#: jmvhist/options/titleAlign/right.title
+#: jmvhist/options/subtitleAlign/right.title
+#: jmvhist/options/captionAlign/right.title
+#: jmvhist/options/xLabelAlign/right.title
+#: jmvhist/options/yLabelAlign/right.title
+#: jmvhist/options/legendPosition/right.title
+#: jmvhist/options/legendJustification/right.title
+#: jmvline/options/titleAlign/right.title
+#: jmvline/options/subtitleAlign/right.title
+#: jmvline/options/captionAlign/right.title
+#: jmvline/options/xLabelAlign/right.title
+#: jmvline/options/yLabelAlign/right.title
+#: jmvline/options/legendPosition/right.title
+#: jmvline/options/legendJustification/right.title
+#: jmvscatter/options/titleAlign/right.title
+#: jmvscatter/options/subtitleAlign/right.title
+#: jmvscatter/options/captionAlign/right.title
+#: jmvscatter/options/xLabelAlign/right.title
+#: jmvscatter/options/yLabelAlign/right.title
+#: jmvscatter/options/legendPosition/right.title
+#: jmvscatter/options/legendJustification/right.title
+msgid "Right"
+msgstr ""
+
+#: jmvscatter/ui[1][0][0][0].label
+msgid "Scatter"
+msgstr ""
+
+#: package/analyses/jmvscatter.title
+#: package/analyses/jmvscatter.menuTitle
+#: jmvscatter/options.title
+#: jmvscatter/ui.title
+#: jmvscatter/results.title
+msgid "Scatterplot"
+msgstr ""
+
+#: jmvhist/options/bins.title
+msgid "Show bins"
+msgstr ""
+
+#: jmvhist/options/density.title
+msgid "Show density"
+msgstr ""
+
+#: jmvhist/options/line.title
+#: jmvscatter/options/line.title
+msgid "Show line"
+msgstr ""
+
+#: jmvline/options/line.title
+msgid "Show lines"
+msgstr ""
+
+#: jmvbox/options/outliers.title
+msgid "Show outliers"
+msgstr ""
+
+#: jmvline/options/point.title
+msgid "Show points"
+msgstr ""
+
+#: jmvscatter/options/lineMethod/loess.title
+msgid "Smooth"
+msgstr ""
+
+#: jmvbar/options/groupBarType/stacked.title
+msgid "Stacked"
+msgstr ""
+
+#: jmvbar/options/errorBars/sd.title
+#: jmvline/options/errorBars/sd.title
+msgid "Standard deviation"
+msgstr ""
+
+#: jmvbar/options/errorBars/se.title
+#: jmvline/options/errorBars/se.title
+#: jmvscatter/options/lineSE.title
+msgid "Standard error"
+msgstr ""
+
+#: R/jmvbar.b.R
+#: R/jmvbox.b.R
+#: R/jmvhist.b.R
+#: R/jmvline.b.R
+#: R/jmvscatter.b.R
+msgid "Syntax mode for plots is not yet available."
+msgstr ""
+
+#: jmvbar/options/legendTitleFontSize.title
+#: jmvbox/options/legendTitleFontSize.title
+#: jmvhist/options/legendTitleFontSize.title
+#: jmvline/options/legendTitleFontSize.title
+#: jmvscatter/options/legendTitleFontSize.title
+msgid "Title font size"
+msgstr ""
+
+#: jmvbar/options/title.title
+#: jmvbar/options/subtitle.title
+#: jmvbar/options/caption.title
+#: jmvbar/options/xLabel.title
+#: jmvbar/options/yLabel.title
+#: jmvbar/options/legendTitle.title
+#: jmvbox/options/title.title
+#: jmvbox/options/subtitle.title
+#: jmvbox/options/caption.title
+#: jmvbox/options/xLabel.title
+#: jmvbox/options/yLabel.title
+#: jmvbox/options/legendTitle.title
+#: jmvhist/options/title.title
+#: jmvhist/options/subtitle.title
+#: jmvhist/options/caption.title
+#: jmvhist/options/xLabel.title
+#: jmvhist/options/yLabel.title
+#: jmvhist/options/legendTitle.title
+#: jmvline/options/title.title
+#: jmvline/options/subtitle.title
+#: jmvline/options/caption.title
+#: jmvline/options/xLabel.title
+#: jmvline/options/yLabel.title
+#: jmvline/options/legendTitle.title
+#: jmvscatter/options/title.title
+#: jmvscatter/options/subtitle.title
+#: jmvscatter/options/caption.title
+#: jmvscatter/options/xLabel.title
+#: jmvscatter/options/yLabel.title
+#: jmvscatter/options/legendTitle.title
+msgid "Title text"
+msgstr ""
+
+#: jmvbar/options/legendPosition/top.title
+#: jmvbar/options/legendJustification/top.title
+#: jmvbox/options/legendPosition/top.title
+#: jmvbox/options/legendJustification/top.title
+#: jmvhist/options/legendPosition/top.title
+#: jmvhist/options/legendJustification/top.title
+#: jmvline/options/legendPosition/top.title
+#: jmvline/options/legendJustification/top.title
+#: jmvscatter/options/legendPosition/top.title
+#: jmvscatter/options/legendJustification/top.title
+msgid "Top"
+msgstr ""
+
+#: jmvbar/options/valueLabels.title
+msgid "Value labels"
+msgstr ""
+
+#: jmvbox/options/var.title
+#: jmvbox/ui[0][0].label
+#: jmvhist/options/var.title
+#: jmvhist/ui[0][0].label
+msgid "Variable"
+msgstr ""
+
+#: jmvbar/options/mode.title
+msgid "Variable type"
+msgstr ""
+
+#: jmvbar/options/legendDirection/vertical.title
+#: jmvbox/options/legendDirection/vertical.title
+#: jmvhist/options/legendDirection/vertical.title
+#: jmvline/options/legendDirection/vertical.title
+#: jmvscatter/options/legendDirection/vertical.title
+msgid "Vertical"
+msgstr ""
+
+#: jmvbar/options/barWidth.title
+#: jmvbar/options/width.title
+#: jmvbar/options/ciWidth.title
+#: jmvbox/options/boxWidth.title
+#: jmvbox/options/width.title
+#: jmvhist/options/width.title
+#: jmvline/options/width.title
+#: jmvline/options/ciWidth.title
+#: jmvscatter/options/width.title
+msgid "Width"
+msgstr ""
+
+#: jmvbar/ui[4][0][0][0].label
+#: jmvbox/ui[3][0][0][0].label
+#: jmvhist/ui[3][0][0][0].label
+#: jmvline/options/x.title
+#: jmvline/ui[0][0].label
+#: jmvline/ui[5][0][0][0].label
+#: jmvscatter/options/x.title
+#: jmvscatter/ui[0][0].label
+#: jmvscatter/ui[3][0][0][0].label
+msgid "X-Axis"
+msgstr ""
+
+#: jmvhist/options/xAxisRangeType.title
+#: jmvscatter/options/xAxisRangeType.title
+msgid "X-Axis Range"
+msgstr ""
+
+#: jmvbar/options/titleType/xTitle.title
+#: jmvbox/options/titleType/xTitle.title
+#: jmvhist/options/titleType/xTitle.title
+#: jmvline/options/titleType/xTitle.title
+#: jmvscatter/options/titleType/xTitle.title
+msgid "X-Axis Title"
+msgstr ""
+
+#: jmvbar/options/legendPositionX.title
+#: jmvbox/options/legendPositionX.title
+#: jmvhist/options/legendPositionX.title
+#: jmvline/options/legendPositionX.title
+#: jmvscatter/options/legendPositionX.title
+msgid "X-position"
+msgstr ""
+
+#: jmvbar/ui[4][0][1][0].label
+#: jmvbox/ui[3][0][1][0].label
+#: jmvhist/ui[3][0][1][0].label
+#: jmvline/options/y.title
+#: jmvline/ui[0][1].label
+#: jmvline/ui[5][0][1][0].label
+#: jmvscatter/options/y.title
+#: jmvscatter/ui[0][1].label
+#: jmvscatter/ui[3][0][1][0].label
+msgid "Y-Axis"
+msgstr ""
+
+#: jmvbar/options/yAxisRangeType.title
+#: jmvbox/options/yAxisRangeType.title
+#: jmvhist/options/yAxisRangeType.title
+#: jmvline/options/yAxisRangeType.title
+#: jmvscatter/options/yAxisRangeType.title
+msgid "Y-Axis Range"
+msgstr ""
+
+#: jmvbar/options/titleType/yTitle.title
+#: jmvbox/options/titleType/yTitle.title
+#: jmvhist/options/titleType/yTitle.title
+#: jmvline/options/titleType/yTitle.title
+#: jmvscatter/options/titleType/yTitle.title
+msgid "Y-Axis Title"
+msgstr ""
+
+#: jmvbar/options/legendPositionY.title
+#: jmvbox/options/legendPositionY.title
+#: jmvhist/options/legendPositionY.title
+#: jmvline/options/legendPositionY.title
+#: jmvscatter/options/legendPositionY.title
+msgid "Y-position"
+msgstr ""
