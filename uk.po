@@ -1,24 +1,26 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2021-07-29 16:59:59+01000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-06-14 09:01+0000\n"
+"Last-Translator: Максим Горпиніч <maksimgorpinic4@gmail.com>\n"
+"Language-Team: Ukrainian <https://hosted.weblate.org/projects/jamovi/"
+"jmvplots-i18n/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #: R/jmvbar.b.R
 msgid "{var} (mean{error})"
-msgstr ""
+msgstr "{var} (mean{помилка})"
 
 #: jmvbar/ui/mode/continuous[1][0][0][0]/yAxisRangeType_ci/ciWidth.suffix
 #: jmvline/ui/mode/aggregate[0][1][0]/yAxisRangeType_ci/ciWidth.suffix
 msgid "%"
-msgstr ""
+msgstr "%"
 
 #: jmvbar/ui[4][0][0][0]/xAxisLabelRotation.suffix
 #: jmvbar/ui[4][0][1][0]/yAxisLabelRotation.suffix
@@ -31,20 +33,20 @@ msgstr ""
 #: jmvscatter/ui[3][0][0][0]/xAxisLabelRotation.suffix
 #: jmvscatter/ui[3][0][1][0]/yAxisLabelRotation.suffix
 msgid "°"
-msgstr ""
+msgstr "°"
 
 #: jmvline/options/aggregateType.title
 #: jmvline/ui/mode/aggregate[0][0][0][0].label
 msgid "Aggregate"
-msgstr ""
+msgstr "Агрегат"
 
 #: jmvline/ui/mode/aggregate[0].label
 msgid "Aggregate Options"
-msgstr ""
+msgstr "Агреговані параметри"
 
 #: jmvline/options/mode/aggregate.title
 msgid "Aggregated data"
-msgstr ""
+msgstr "Агреговані дані"
 
 #: jmvbar/options/titleAlign.title
 #: jmvbar/options/subtitleAlign.title
@@ -72,27 +74,27 @@ msgstr ""
 #: jmvscatter/options/xLabelAlign.title
 #: jmvscatter/options/yLabelAlign.title
 msgid "Align"
-msgstr ""
+msgstr "Вирівняти"
 
 #: jmvbar/results/plot.description
 msgid "an image containing the bar plot"
-msgstr ""
+msgstr "зображення, що містить стовпчасту діаграму"
 
 #: jmvbox/results/plot.description
 msgid "an image containing the box plot"
-msgstr ""
+msgstr "зображення, що містить коробчасту діаграму"
 
 #: jmvhist/results/plot.description
 msgid "an image containing the histogram"
-msgstr ""
+msgstr "зображення, що містить гістограму"
 
 #: jmvline/results/plot.description
 msgid "an image containing the line plot"
-msgstr ""
+msgstr "зображення, що містить лінійну діаграму"
 
 #: jmvscatter/results/plot.description
 msgid "an image containing the scatter plot"
-msgstr ""
+msgstr "зображення, що містить діаграму розсіювання"
 
 #: jmvbar/options/yAxisRangeType/auto.title
 #: jmvbox/options/yAxisRangeType/auto.title
@@ -102,7 +104,7 @@ msgstr ""
 #: jmvscatter/options/yAxisRangeType/auto.title
 #: jmvscatter/options/xAxisRangeType/auto.title
 msgid "Auto"
-msgstr ""
+msgstr "Авто"
 
 #: jmvbar/ui[4].label
 #: jmvbox/ui[3].label
@@ -110,19 +112,19 @@ msgstr ""
 #: jmvline/ui[5].label
 #: jmvscatter/ui[3].label
 msgid "Axes"
-msgstr ""
+msgstr "Сокири"
 
 #: jmvbar/ui[1][0][0][0].label
 msgid "Bar"
-msgstr ""
+msgstr "Бар"
 
 #: jmvbar/options/groupBarType.title
 msgid "Bar type"
-msgstr ""
+msgstr "Тип бару"
 
 #: jmvbar/ui[2][0][0][0].label
 msgid "Bar Type"
-msgstr ""
+msgstr "Тип бари"
 
 #: package/analyses/jmvbar.title
 #: package/analyses/jmvbar.menuTitle
@@ -130,15 +132,15 @@ msgstr ""
 #: jmvbar/ui.title
 #: jmvbar/results.title
 msgid "Barplot"
-msgstr ""
+msgstr "Барплот"
 
 #: jmvhist/options/binOpacity.title
 msgid "Bin opacity"
-msgstr ""
+msgstr "Непрозорість контейнера"
 
 #: jmvhist/options/binWidth.title
 msgid "Bin width"
-msgstr ""
+msgstr "Ширина контейнера"
 
 #: jmvbar/options/legendPosition/bottom.title
 #: jmvbar/options/legendJustification/bottom.title
@@ -151,11 +153,11 @@ msgstr ""
 #: jmvscatter/options/legendPosition/bottom.title
 #: jmvscatter/options/legendJustification/bottom.title
 msgid "Bottom"
-msgstr ""
+msgstr "Вниз"
 
 #: jmvbox/ui[1][0][0][0].label
 msgid "Box Element"
-msgstr ""
+msgstr "Елемент коробки"
 
 #: package/analyses/jmvbox.title
 #: package/analyses/jmvbox.menuTitle
@@ -163,16 +165,16 @@ msgstr ""
 #: jmvbox/ui.title
 #: jmvbox/results.title
 msgid "Boxplot"
-msgstr ""
+msgstr "Коробчаста діаграма"
 
 #: jmvbar/options/mode/categorical.title
 msgid "Categorical"
-msgstr ""
+msgstr "Категоричний"
 
 #: jmvbar/options/catvar.title
 #: jmvbar/ui/mode/categorical[0][0].label
 msgid "Categorical Variable"
-msgstr ""
+msgstr "Категорична змінна"
 
 #: jmvbar/options/titleAlign/center.title
 #: jmvbar/options/subtitleAlign/center.title
@@ -205,63 +207,65 @@ msgstr ""
 #: jmvscatter/options/yLabelAlign/center.title
 #: jmvscatter/options/legendJustification/center.title
 msgid "Center"
-msgstr ""
+msgstr "Центр"
 
 #: jmvbar/options/errorBars/ci.title
 #: jmvline/options/errorBars/ci.title
 msgid "Confidence interval"
-msgstr ""
+msgstr "Довірчий інтервал"
 
 #: jmvbar/options/mode/continuous.title
 msgid "Continuous"
-msgstr ""
+msgstr "Безперервний"
 
 #: jmvbar/ui/mode/continuous[1].label
 msgid "Continuous Options"
-msgstr ""
+msgstr "Безперервні параметри"
 
 #: jmvbar/options/convar.title
 #: jmvbar/ui/mode/continuous[0][0].label
 msgid "Continuous Variable"
-msgstr ""
+msgstr "Безперервна змінна"
 
 #: jmvbar/options/mode/counts.title
 #: jmvbar/options/counts.title
 #: jmvbar/ui/mode/counts[0][0].label
 msgid "Counts"
-msgstr ""
+msgstr "Кількість"
 
 #: package.title
 msgid "Create Elegant and Interactive Plots Built on 'ggplot2'"
-msgstr ""
+msgstr "Створюйте елегантні та інтерактивні сюжети на основі 'ggplot2'"
 
 #: package.description
 msgid "Create elegant and interactive plots built on 'ggplot2'. The package is designed to provide a convencience layer to 'ggplot2' within jamovi."
 msgstr ""
+"Створюйте елегантні та інтерактивні графіки на основі «ggplot2». Пакет "
+"розроблено для забезпечення зручності використання «ggplot2» в jamovi."
 
 #: jmvline/options/mode.title
 msgid "Data display"
-msgstr ""
+msgstr "Відображення даних"
 
 #: jmvhist/ui[1][0][0][1].label
 msgid "Density"
-msgstr ""
+msgstr "Щільність"
 
 #: jmvhist/options/densityOpacity.title
 msgid "Density opacity"
-msgstr ""
+msgstr "Непрозорість щільності"
 
 #: jmvline/options/groupColor.title
 msgid "Different colors"
-msgstr ""
+msgstr "Різні кольори"
 
 #: jmvline/options/groupLineType.title
 msgid "Different line types"
-msgstr ""
+msgstr "Різні типи ліній"
 
 #: jmvline/options/groupPointType.title
 msgid "Different point types"
-msgstr ""
+msgstr "Різні типи точок"
 
 #: jmvbar/options/legendDirection.title
 #: jmvbox/options/legendDirection.title
@@ -269,36 +273,36 @@ msgstr ""
 #: jmvline/options/legendDirection.title
 #: jmvscatter/options/legendDirection.title
 msgid "Direction"
-msgstr ""
+msgstr "Напрямок"
 
 #: jmvline/options/groupPositionDodge.title
 msgid "Dodge width"
-msgstr ""
+msgstr "Ширина доджа"
 
 #: jmvbar/options/errorBarSize.title
 #: jmvline/options/errorBarSize.title
 msgid "Error bar line size"
-msgstr ""
+msgstr "Розмір лінії похибки"
 
 #: jmvbar/ui/mode/continuous[1][1][0].label
 #: jmvline/ui/mode/aggregate[0][1][1].label
 msgid "Error Bar Styling"
-msgstr ""
+msgstr "Стиль панелі помилок"
 
 #: jmvbar/options/errorBarWidth.title
 #: jmvline/options/errorBarWidth.title
 msgid "Error bar width"
-msgstr ""
+msgstr "Ширина смуги похибок"
 
 #: jmvbar/options/errorBars.title
 #: jmvline/options/errorBars.title
 msgid "Error bars"
-msgstr ""
+msgstr "Смуги помилок"
 
 #: jmvbar/ui/mode/continuous[1][0][0][0].label
 #: jmvline/ui/mode/aggregate[0][1][0].label
 msgid "Error Bars"
-msgstr ""
+msgstr "Помилка Бари"
 
 #: jmvbar/options/flipAxes.title
 #: jmvbox/options/flipAxes.title
@@ -306,7 +310,7 @@ msgstr ""
 #: jmvline/options/flipAxes.title
 #: jmvscatter/options/flipAxes.title
 msgid "Flip axes"
-msgstr ""
+msgstr "Перевернути осі"
 
 #: jmvbar/options/titleFontSize.title
 #: jmvbar/options/subtitleFontSize.title
@@ -334,12 +338,12 @@ msgstr ""
 #: jmvscatter/options/xLabelFontSize.title
 #: jmvscatter/options/yLabelFontSize.title
 msgid "Font size"
-msgstr ""
+msgstr "Розмір шрифту"
 
 #: R/jmvbar.b.R
 #: R/jmvhist.b.R
 msgid "Frequency (N)"
-msgstr ""
+msgstr "Частота (N)"
 
 #: jmvbar/ui[1].label
 #: jmvbox/ui[1].label
@@ -347,16 +351,16 @@ msgstr ""
 #: jmvline/ui[2].label
 #: jmvscatter/ui[1].label
 msgid "General Options"
-msgstr ""
+msgstr "Загальні параметри"
 
 #: jmvbar/ui[2].label
 #: jmvline/ui[3].label
 msgid "Group Options"
-msgstr ""
+msgstr "Параметри групи"
 
 #: jmvbar/options/groupBarType/grouped.title
 msgid "Grouped"
-msgstr ""
+msgstr "Згруповані"
 
 #: jmvbar/options/catgroup.title
 #: jmvbar/options/countsgroup.title
@@ -369,21 +373,21 @@ msgstr ""
 #: jmvscatter/options/group.title
 #: jmvscatter/ui[0][2].label
 msgid "Grouping Variable"
-msgstr ""
+msgstr "Групування змінних"
 
 #: jmvbar/options/congroup1.title
 #: jmvbar/ui/mode/continuous[0][1].label
 #: jmvbox/options/group1.title
 #: jmvbox/ui[0][1].label
 msgid "Grouping Variable 1"
-msgstr ""
+msgstr "Групування змінної 1"
 
 #: jmvbar/options/congroup2.title
 #: jmvbar/ui/mode/continuous[0][2].label
 #: jmvbox/options/group2.title
 #: jmvbox/ui[0][2].label
 msgid "Grouping Variable 2"
-msgstr ""
+msgstr "Групування змінної 2"
 
 #: jmvbar/options/height.title
 #: jmvbox/options/height.title
@@ -391,7 +395,7 @@ msgstr ""
 #: jmvline/options/height.title
 #: jmvscatter/options/height.title
 msgid "Height"
-msgstr ""
+msgstr "Висота"
 
 #: jmvbar/options/legenPositionType/hide.title
 #: jmvbox/options/legenPositionType/hide.title
@@ -399,7 +403,7 @@ msgstr ""
 #: jmvline/options/legenPositionType/hide.title
 #: jmvscatter/options/legenPositionType/hide.title
 msgid "Hide"
-msgstr ""
+msgstr "Приховати"
 
 #: package/analyses/jmvhist.title
 #: package/analyses/jmvhist.menuTitle
@@ -408,7 +412,7 @@ msgstr ""
 #: jmvhist/ui[1][0][0][0].label
 #: jmvhist/results.title
 msgid "Histogram"
-msgstr ""
+msgstr "Гістограма"
 
 #: jmvbar/options/legendDirection/horizontal.title
 #: jmvbox/options/legendDirection/horizontal.title
@@ -416,11 +420,11 @@ msgstr ""
 #: jmvline/options/legendDirection/horizontal.title
 #: jmvscatter/options/legendDirection/horizontal.title
 msgid "Horizontal"
-msgstr ""
+msgstr "Горизонтальний"
 
 #: jmvline/options/mode/individual.title
 msgid "Individual points"
-msgstr ""
+msgstr "Окремі бали"
 
 #: jmvbar/options/legenPositionType/inside.title
 #: jmvbox/options/legenPositionType/inside.title
@@ -428,7 +432,7 @@ msgstr ""
 #: jmvline/options/legenPositionType/inside.title
 #: jmvscatter/options/legenPositionType/inside.title
 msgid "Inside"
-msgstr ""
+msgstr "Всередині"
 
 #: jmvbar/options/legendJustification.title
 #: jmvbox/options/legendJustification.title
@@ -436,7 +440,7 @@ msgstr ""
 #: jmvline/options/legendJustification.title
 #: jmvscatter/options/legendJustification.title
 msgid "Justification"
-msgstr ""
+msgstr "Обґрунтування"
 
 #: jmvbar/options/legendKeyHeight.title
 #: jmvbox/options/legendKeyHeight.title
@@ -444,7 +448,7 @@ msgstr ""
 #: jmvline/options/legendKeyHeight.title
 #: jmvscatter/options/legendKeyHeight.title
 msgid "Key height"
-msgstr ""
+msgstr "Висота клавіші"
 
 #: jmvbar/options/legendKeyWidth.title
 #: jmvbox/options/legendKeyWidth.title
@@ -452,7 +456,7 @@ msgstr ""
 #: jmvline/options/legendKeyWidth.title
 #: jmvscatter/options/legendKeyWidth.title
 msgid "Key width"
-msgstr ""
+msgstr "Ширина ключа"
 
 #: jmvbar/options/yAxisLabelFontSize.title
 #: jmvbar/options/xAxisLabelFontSize.title
@@ -470,7 +474,7 @@ msgstr ""
 #: jmvscatter/options/xAxisLabelFontSize.title
 #: jmvscatter/options/legendLabelFontSize.title
 msgid "Label font size"
-msgstr ""
+msgstr "Розмір шрифту мітки"
 
 #: jmvbar/options/yAxisLabelRotation.title
 #: jmvbar/options/xAxisLabelRotation.title
@@ -483,12 +487,12 @@ msgstr ""
 #: jmvscatter/options/yAxisLabelRotation.title
 #: jmvscatter/options/xAxisLabelRotation.title
 msgid "Label rotation"
-msgstr ""
+msgstr "Обертання міток"
 
 #: jmvbar/options/countsLabels.title
 #: jmvbar/ui/mode/counts[0][1].label
 msgid "Labels"
-msgstr ""
+msgstr "Мітки"
 
 #: jmvbar/options/titleAlign/left.title
 #: jmvbar/options/subtitleAlign/left.title
@@ -526,7 +530,7 @@ msgstr ""
 #: jmvscatter/options/legendPosition/left.title
 #: jmvscatter/options/legendJustification/left.title
 msgid "Left"
-msgstr ""
+msgstr "Ліворуч"
 
 #: jmvbar/ui[5].label
 #: jmvbox/ui[4].label
@@ -534,7 +538,7 @@ msgstr ""
 #: jmvline/ui[6].label
 #: jmvscatter/ui[4].label
 msgid "Legend"
-msgstr ""
+msgstr "Легенда"
 
 #: jmvbar/ui[5][0][1][0].label
 #: jmvbox/ui[4][0][1][0].label
@@ -542,7 +546,7 @@ msgstr ""
 #: jmvline/ui[6][0][1][0].label
 #: jmvscatter/ui[4][0][1][0].label
 msgid "Legend Position"
-msgstr ""
+msgstr "Положення легенди"
 
 #: jmvbar/ui[5][0][0][1].label
 #: jmvbox/ui[4][0][0][1].label
@@ -550,7 +554,7 @@ msgstr ""
 #: jmvline/ui[6][0][0][1].label
 #: jmvscatter/ui[4][0][0][1].label
 msgid "Legend Style"
-msgstr ""
+msgstr "Стиль легенди"
 
 #: jmvbar/ui[5][0][0][0].label
 #: jmvbox/ui[4][0][0][0].label
@@ -558,25 +562,25 @@ msgstr ""
 #: jmvline/ui[6][0][0][0].label
 #: jmvscatter/ui[4][0][0][0].label
 msgid "Legend Title"
-msgstr ""
+msgstr "Назва легенди"
 
 #: jmvline/ui[2][0][0][0].label
 msgid "Line"
-msgstr ""
+msgstr "Лінія"
 
 #: jmvline/ui[3][0][0][0].label
 msgid "Line & Point Style"
-msgstr ""
+msgstr "Стиль лінії та точки"
 
 #: jmvhist/options/lineSize.title
 #: jmvhist/options/densityLineSize.title
 #: jmvline/options/lineSize.title
 msgid "Line size"
-msgstr ""
+msgstr "Розмір рядка"
 
 #: jmvscatter/options/lineMethod/lm.title
 msgid "Linear"
-msgstr ""
+msgstr "Лінійний"
 
 #: package/analyses/jmvline.title
 #: package/analyses/jmvline.menuTitle
@@ -584,7 +588,7 @@ msgstr ""
 #: jmvline/ui.title
 #: jmvline/results.title
 msgid "Lineplot"
-msgstr ""
+msgstr "Лінійна діаграма"
 
 #: jmvbar/options/yAxisRangeType/manual.title
 #: jmvbox/options/yAxisRangeType/manual.title
@@ -594,7 +598,7 @@ msgstr ""
 #: jmvscatter/options/yAxisRangeType/manual.title
 #: jmvscatter/options/xAxisRangeType/manual.title
 msgid "Manual"
-msgstr ""
+msgstr "Ручний"
 
 #: jmvbar/options/yAxisRangeMax.title
 #: jmvbox/options/yAxisRangeMax.title
@@ -604,19 +608,19 @@ msgstr ""
 #: jmvscatter/options/yAxisRangeMax.title
 #: jmvscatter/options/xAxisRangeMax.title
 msgid "Max"
-msgstr ""
+msgstr "Макс"
 
 #: jmvline/options/aggregateType/mean.title
 msgid "Mean"
-msgstr ""
+msgstr "Середнє значення"
 
 #: jmvline/options/aggregateType/median.title
 msgid "Median"
-msgstr ""
+msgstr "Медіана"
 
 #: jmvscatter/options/lineMethod.title
 msgid "Method"
-msgstr ""
+msgstr "Метод"
 
 #: jmvbar/options/yAxisRangeMin.title
 #: jmvbox/options/yAxisRangeMin.title
@@ -626,16 +630,16 @@ msgstr ""
 #: jmvscatter/options/yAxisRangeMin.title
 #: jmvscatter/options/xAxisRangeMin.title
 msgid "Min"
-msgstr ""
+msgstr "Мін"
 
 #: jmvbar/options/errorBars/none.title
 #: jmvline/options/errorBars/none.title
 msgid "None"
-msgstr ""
+msgstr "Жоден"
 
 #: jmvbox/options/notch.title
 msgid "Notch"
-msgstr ""
+msgstr "Виїмка"
 
 #: jmvbar/options/legenPositionType/outside.title
 #: jmvbox/options/legenPositionType/outside.title
@@ -643,7 +647,7 @@ msgstr ""
 #: jmvline/options/legenPositionType/outside.title
 #: jmvscatter/options/legenPositionType/outside.title
 msgid "Outside"
-msgstr ""
+msgstr "Зовні"
 
 #: jmvbar/ui[3].label
 #: jmvbox/ui[2].label
@@ -651,7 +655,7 @@ msgstr ""
 #: jmvline/ui[4].label
 #: jmvscatter/ui[2].label
 msgid "Plot & Axis Titles"
-msgstr ""
+msgstr "Назви сюжету та осей"
 
 #: jmvbar/options/titleType/caption.title
 #: jmvbox/options/titleType/caption.title
@@ -659,7 +663,7 @@ msgstr ""
 #: jmvline/options/titleType/caption.title
 #: jmvscatter/options/titleType/caption.title
 msgid "Plot Caption"
-msgstr ""
+msgstr "Підпис до сюжету"
 
 #: jmvbar/ui[1][0][1][1].label
 #: jmvbox/ui[1][0][1][1].label
@@ -667,7 +671,7 @@ msgstr ""
 #: jmvline/ui[2][0][1][1].label
 #: jmvscatter/ui[1][0][1][1].label
 msgid "Plot Orientation"
-msgstr ""
+msgstr "Орієнтація ділянки"
 
 #: jmvbar/ui[1][0][1][0].label
 #: jmvbox/ui[1][0][1][0].label
@@ -675,7 +679,7 @@ msgstr ""
 #: jmvline/ui[2][0][1][0].label
 #: jmvscatter/ui[1][0][1][0].label
 msgid "Plot Size"
-msgstr ""
+msgstr "Розмір ділянки"
 
 #: jmvbar/options/titleType/subtitle.title
 #: jmvbox/options/titleType/subtitle.title
@@ -683,7 +687,7 @@ msgstr ""
 #: jmvline/options/titleType/subtitle.title
 #: jmvscatter/options/titleType/subtitle.title
 msgid "Plot Subtitle"
-msgstr ""
+msgstr "Підзаголовок сюжету"
 
 #: jmvbar/options/titleType/title.title
 #: jmvbox/options/titleType/title.title
@@ -691,20 +695,20 @@ msgstr ""
 #: jmvline/options/titleType/title.title
 #: jmvscatter/options/titleType/title.title
 msgid "Plot Title"
-msgstr ""
+msgstr "Назва сюжету"
 
 #: jmvline/ui[2][0][0][1].label
 msgid "Point"
-msgstr ""
+msgstr "Точка"
 
 #: jmvline/ui[3][0][1][0].label
 msgid "Point Dodging"
-msgstr ""
+msgstr "Ухилення від точок"
 
 #: jmvline/options/pointSize.title
 #: jmvscatter/options/pointSize.title
 msgid "Point size"
-msgstr ""
+msgstr "Розмір пункту"
 
 #: jmvbar/options/legendPosition.title
 #: jmvbox/options/legendPosition.title
@@ -712,7 +716,7 @@ msgstr ""
 #: jmvline/options/legendPosition.title
 #: jmvscatter/options/legendPosition.title
 msgid "Position"
-msgstr ""
+msgstr "Позиція"
 
 #: jmvbar/ui[4][0][1][1].label
 #: jmvbox/ui[3][0][1][1].label
@@ -722,16 +726,16 @@ msgstr ""
 #: jmvscatter/ui[3][0][0][1].label
 #: jmvscatter/ui[3][0][1][1].label
 msgid "Range"
-msgstr ""
+msgstr "Діапазон"
 
 #: jmvscatter/ui[1][0][0][1].label
 msgid "Regression Line"
-msgstr ""
+msgstr "Лінія регресії"
 
 #: jmvbar/options/xAxisLabelFontSizeRevLabels.title
 #: jmvbox/options/xAxisLabelFontSizeRevLabels.title
 msgid "Reverse labels"
-msgstr ""
+msgstr "Зворотні мітки"
 
 #: jmvbar/options/titleAlign/right.title
 #: jmvbar/options/subtitleAlign/right.title
@@ -769,11 +773,11 @@ msgstr ""
 #: jmvscatter/options/legendPosition/right.title
 #: jmvscatter/options/legendJustification/right.title
 msgid "Right"
-msgstr ""
+msgstr "Праворуч"
 
 #: jmvscatter/ui[1][0][0][0].label
 msgid "Scatter"
-msgstr ""
+msgstr "Розсіювання"
 
 #: package/analyses/jmvscatter.title
 #: package/analyses/jmvscatter.menuTitle
@@ -781,51 +785,51 @@ msgstr ""
 #: jmvscatter/ui.title
 #: jmvscatter/results.title
 msgid "Scatterplot"
-msgstr ""
+msgstr "Точкова діаграма"
 
 #: jmvhist/options/bins.title
 msgid "Show bins"
-msgstr ""
+msgstr "Показати контейнери"
 
 #: jmvhist/options/density.title
 msgid "Show density"
-msgstr ""
+msgstr "Показати щільність"
 
 #: jmvhist/options/line.title
 #: jmvscatter/options/line.title
 msgid "Show line"
-msgstr ""
+msgstr "Показати лінію"
 
 #: jmvline/options/line.title
 msgid "Show lines"
-msgstr ""
+msgstr "Показати лінії"
 
 #: jmvbox/options/outliers.title
 msgid "Show outliers"
-msgstr ""
+msgstr "Показати винятки"
 
 #: jmvline/options/point.title
 msgid "Show points"
-msgstr ""
+msgstr "Показати бали"
 
 #: jmvscatter/options/lineMethod/loess.title
 msgid "Smooth"
-msgstr ""
+msgstr "Гладкий"
 
 #: jmvbar/options/groupBarType/stacked.title
 msgid "Stacked"
-msgstr ""
+msgstr "Складені"
 
 #: jmvbar/options/errorBars/sd.title
 #: jmvline/options/errorBars/sd.title
 msgid "Standard deviation"
-msgstr ""
+msgstr "Стандартне відхилення"
 
 #: jmvbar/options/errorBars/se.title
 #: jmvline/options/errorBars/se.title
 #: jmvscatter/options/lineSE.title
 msgid "Standard error"
-msgstr ""
+msgstr "Стандартна помилки"
 
 #: R/jmvbar.b.R
 #: R/jmvbox.b.R
@@ -833,7 +837,7 @@ msgstr ""
 #: R/jmvline.b.R
 #: R/jmvscatter.b.R
 msgid "Syntax mode for plots is not yet available."
-msgstr ""
+msgstr "Режим синтаксису для графіків ще недоступний."
 
 #: jmvbar/options/legendTitleFontSize.title
 #: jmvbox/options/legendTitleFontSize.title
@@ -841,7 +845,7 @@ msgstr ""
 #: jmvline/options/legendTitleFontSize.title
 #: jmvscatter/options/legendTitleFontSize.title
 msgid "Title font size"
-msgstr ""
+msgstr "Розмір шрифту заголовка"
 
 #: jmvbar/options/title.title
 #: jmvbar/options/subtitle.title
@@ -874,7 +878,7 @@ msgstr ""
 #: jmvscatter/options/yLabel.title
 #: jmvscatter/options/legendTitle.title
 msgid "Title text"
-msgstr ""
+msgstr "Текст заголовка"
 
 #: jmvbar/options/legendPosition/top.title
 #: jmvbar/options/legendJustification/top.title
@@ -887,22 +891,22 @@ msgstr ""
 #: jmvscatter/options/legendPosition/top.title
 #: jmvscatter/options/legendJustification/top.title
 msgid "Top"
-msgstr ""
+msgstr "Верх"
 
 #: jmvbar/options/valueLabels.title
 msgid "Value labels"
-msgstr ""
+msgstr "Мітки значень"
 
 #: jmvbox/options/var.title
 #: jmvbox/ui[0][0].label
 #: jmvhist/options/var.title
 #: jmvhist/ui[0][0].label
 msgid "Variable"
-msgstr ""
+msgstr "Змінна"
 
 #: jmvbar/options/mode.title
 msgid "Variable type"
-msgstr ""
+msgstr "Тип змінної"
 
 #: jmvbar/options/legendDirection/vertical.title
 #: jmvbox/options/legendDirection/vertical.title
@@ -910,7 +914,7 @@ msgstr ""
 #: jmvline/options/legendDirection/vertical.title
 #: jmvscatter/options/legendDirection/vertical.title
 msgid "Vertical"
-msgstr ""
+msgstr "Вертикальний"
 
 #: jmvbar/options/barWidth.title
 #: jmvbar/options/width.title
@@ -922,7 +926,7 @@ msgstr ""
 #: jmvline/options/ciWidth.title
 #: jmvscatter/options/width.title
 msgid "Width"
-msgstr ""
+msgstr "Ширина"
 
 #: jmvbar/ui[4][0][0][0].label
 #: jmvbox/ui[3][0][0][0].label
@@ -934,12 +938,12 @@ msgstr ""
 #: jmvscatter/ui[0][0].label
 #: jmvscatter/ui[3][0][0][0].label
 msgid "X-Axis"
-msgstr ""
+msgstr "Вісь X"
 
 #: jmvhist/options/xAxisRangeType.title
 #: jmvscatter/options/xAxisRangeType.title
 msgid "X-Axis Range"
-msgstr ""
+msgstr "Діапазон осі X"
 
 #: jmvbar/options/titleType/xTitle.title
 #: jmvbox/options/titleType/xTitle.title
@@ -947,7 +951,7 @@ msgstr ""
 #: jmvline/options/titleType/xTitle.title
 #: jmvscatter/options/titleType/xTitle.title
 msgid "X-Axis Title"
-msgstr ""
+msgstr "Назва осі X"
 
 #: jmvbar/options/legendPositionX.title
 #: jmvbox/options/legendPositionX.title
@@ -955,7 +959,7 @@ msgstr ""
 #: jmvline/options/legendPositionX.title
 #: jmvscatter/options/legendPositionX.title
 msgid "X-position"
-msgstr ""
+msgstr "X-позиція"
 
 #: jmvbar/ui[4][0][1][0].label
 #: jmvbox/ui[3][0][1][0].label
@@ -967,7 +971,7 @@ msgstr ""
 #: jmvscatter/ui[0][1].label
 #: jmvscatter/ui[3][0][1][0].label
 msgid "Y-Axis"
-msgstr ""
+msgstr "Вісь Y"
 
 #: jmvbar/options/yAxisRangeType.title
 #: jmvbox/options/yAxisRangeType.title
@@ -975,7 +979,7 @@ msgstr ""
 #: jmvline/options/yAxisRangeType.title
 #: jmvscatter/options/yAxisRangeType.title
 msgid "Y-Axis Range"
-msgstr ""
+msgstr "Діапазон осі Y"
 
 #: jmvbar/options/titleType/yTitle.title
 #: jmvbox/options/titleType/yTitle.title
@@ -983,7 +987,7 @@ msgstr ""
 #: jmvline/options/titleType/yTitle.title
 #: jmvscatter/options/titleType/yTitle.title
 msgid "Y-Axis Title"
-msgstr ""
+msgstr "Назва осі Y"
 
 #: jmvbar/options/legendPositionY.title
 #: jmvbox/options/legendPositionY.title
@@ -991,4 +995,4 @@ msgstr ""
 #: jmvline/options/legendPositionY.title
 #: jmvscatter/options/legendPositionY.title
 msgid "Y-position"
-msgstr ""
+msgstr "Y-позиція"
