@@ -1,24 +1,26 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2021-07-29 16:59:59+01000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-06-17 11:02+0000\n"
+"Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
+"Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
+"jmvplots-i18n/he/>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
+"X-Generator: Weblate 5.12.1\n"
 
 #: R/jmvbar.b.R
 msgid "{var} (mean{error})"
-msgstr ""
+msgstr "{var} (ממוצע{error})"
 
 #: jmvbar/ui/mode/continuous[1][0][0][0]/yAxisRangeType_ci/ciWidth.suffix
 #: jmvline/ui/mode/aggregate[0][1][0]/yAxisRangeType_ci/ciWidth.suffix
 msgid "%"
-msgstr ""
+msgstr "%"
 
 #: jmvbar/ui[4][0][0][0]/xAxisLabelRotation.suffix
 #: jmvbar/ui[4][0][1][0]/yAxisLabelRotation.suffix
@@ -31,20 +33,20 @@ msgstr ""
 #: jmvscatter/ui[3][0][0][0]/xAxisLabelRotation.suffix
 #: jmvscatter/ui[3][0][1][0]/yAxisLabelRotation.suffix
 msgid "°"
-msgstr ""
+msgstr "°"
 
 #: jmvline/options/aggregateType.title
 #: jmvline/ui/mode/aggregate[0][0][0][0].label
 msgid "Aggregate"
-msgstr ""
+msgstr "מצרף"
 
 #: jmvline/ui/mode/aggregate[0].label
 msgid "Aggregate Options"
-msgstr ""
+msgstr "אפשרות מצרף"
 
 #: jmvline/options/mode/aggregate.title
 msgid "Aggregated data"
-msgstr ""
+msgstr "נתונים מצרפיים"
 
 #: jmvbar/options/titleAlign.title
 #: jmvbar/options/subtitleAlign.title
@@ -72,27 +74,27 @@ msgstr ""
 #: jmvscatter/options/xLabelAlign.title
 #: jmvscatter/options/yLabelAlign.title
 msgid "Align"
-msgstr ""
+msgstr "יישור"
 
 #: jmvbar/results/plot.description
 msgid "an image containing the bar plot"
-msgstr ""
+msgstr "תמונה המכילה את תרשים העמודות"
 
 #: jmvbox/results/plot.description
 msgid "an image containing the box plot"
-msgstr ""
+msgstr "תמונה המכילה את תרשים הקופסות"
 
 #: jmvhist/results/plot.description
 msgid "an image containing the histogram"
-msgstr ""
+msgstr "תמונה המכילה את ההיסטוגרמה"
 
 #: jmvline/results/plot.description
 msgid "an image containing the line plot"
-msgstr ""
+msgstr "תמונה המכילה את תרשים הקווים"
 
 #: jmvscatter/results/plot.description
 msgid "an image containing the scatter plot"
-msgstr ""
+msgstr "תמונה המכילה את תרשים הפיזור"
 
 #: jmvbar/options/yAxisRangeType/auto.title
 #: jmvbox/options/yAxisRangeType/auto.title
@@ -102,7 +104,7 @@ msgstr ""
 #: jmvscatter/options/yAxisRangeType/auto.title
 #: jmvscatter/options/xAxisRangeType/auto.title
 msgid "Auto"
-msgstr ""
+msgstr "אוטומטי"
 
 #: jmvbar/ui[4].label
 #: jmvbox/ui[3].label
@@ -110,19 +112,19 @@ msgstr ""
 #: jmvline/ui[5].label
 #: jmvscatter/ui[3].label
 msgid "Axes"
-msgstr ""
+msgstr "צירים"
 
 #: jmvbar/ui[1][0][0][0].label
 msgid "Bar"
-msgstr ""
+msgstr "עמודה"
 
 #: jmvbar/options/groupBarType.title
 msgid "Bar type"
-msgstr ""
+msgstr "סוג העמודה"
 
 #: jmvbar/ui[2][0][0][0].label
 msgid "Bar Type"
-msgstr ""
+msgstr "סוג העמודה"
 
 #: package/analyses/jmvbar.title
 #: package/analyses/jmvbar.menuTitle
@@ -130,15 +132,15 @@ msgstr ""
 #: jmvbar/ui.title
 #: jmvbar/results.title
 msgid "Barplot"
-msgstr ""
+msgstr "תרשים עמודות"
 
 #: jmvhist/options/binOpacity.title
 msgid "Bin opacity"
-msgstr ""
+msgstr "שקיפות מכל (bin)"
 
 #: jmvhist/options/binWidth.title
 msgid "Bin width"
-msgstr ""
+msgstr "רוחב מכל (bin)"
 
 #: jmvbar/options/legendPosition/bottom.title
 #: jmvbar/options/legendJustification/bottom.title
@@ -151,11 +153,11 @@ msgstr ""
 #: jmvscatter/options/legendPosition/bottom.title
 #: jmvscatter/options/legendJustification/bottom.title
 msgid "Bottom"
-msgstr ""
+msgstr "תחתון"
 
 #: jmvbox/ui[1][0][0][0].label
 msgid "Box Element"
-msgstr ""
+msgstr "מרכיב הקופסה"
 
 #: package/analyses/jmvbox.title
 #: package/analyses/jmvbox.menuTitle
@@ -163,16 +165,16 @@ msgstr ""
 #: jmvbox/ui.title
 #: jmvbox/results.title
 msgid "Boxplot"
-msgstr ""
+msgstr "תרשים קופסות"
 
 #: jmvbar/options/mode/categorical.title
 msgid "Categorical"
-msgstr ""
+msgstr "איכותי"
 
 #: jmvbar/options/catvar.title
 #: jmvbar/ui/mode/categorical[0][0].label
 msgid "Categorical Variable"
-msgstr ""
+msgstr "משתנה איכותי"
 
 #: jmvbar/options/titleAlign/center.title
 #: jmvbar/options/subtitleAlign/center.title
@@ -205,63 +207,65 @@ msgstr ""
 #: jmvscatter/options/yLabelAlign/center.title
 #: jmvscatter/options/legendJustification/center.title
 msgid "Center"
-msgstr ""
+msgstr "מרכז"
 
 #: jmvbar/options/errorBars/ci.title
 #: jmvline/options/errorBars/ci.title
 msgid "Confidence interval"
-msgstr ""
+msgstr "רווח סמך"
 
 #: jmvbar/options/mode/continuous.title
 msgid "Continuous"
-msgstr ""
+msgstr "רציף"
 
 #: jmvbar/ui/mode/continuous[1].label
 msgid "Continuous Options"
-msgstr ""
+msgstr "אפשרויות רציף"
 
 #: jmvbar/options/convar.title
 #: jmvbar/ui/mode/continuous[0][0].label
 msgid "Continuous Variable"
-msgstr ""
+msgstr "משתנה רציף"
 
 #: jmvbar/options/mode/counts.title
 #: jmvbar/options/counts.title
 #: jmvbar/ui/mode/counts[0][0].label
 msgid "Counts"
-msgstr ""
+msgstr "ספירות"
 
 #: package.title
 msgid "Create Elegant and Interactive Plots Built on 'ggplot2'"
-msgstr ""
+msgstr "יצירת תרשים נאה והידודי (אינטראקטיבי) הבנוי בעזרת ”ggplot2“"
 
 #: package.description
 msgid "Create elegant and interactive plots built on 'ggplot2'. The package is designed to provide a convencience layer to 'ggplot2' within jamovi."
 msgstr ""
+"יצירת תרשים נאה והידודי (אינטראקטיבי) הבנוי בעזרת ”ggplot2“. החבילה מיועדת "
+"לספק שכבת נוחות ל”ggplot2“ בתוך jamovi."
 
 #: jmvline/options/mode.title
 msgid "Data display"
-msgstr ""
+msgstr "הצגת הנתונים"
 
 #: jmvhist/ui[1][0][0][1].label
 msgid "Density"
-msgstr ""
+msgstr "צפיפות"
 
 #: jmvhist/options/densityOpacity.title
 msgid "Density opacity"
-msgstr ""
+msgstr "צפיפות השקיפות"
 
 #: jmvline/options/groupColor.title
 msgid "Different colors"
-msgstr ""
+msgstr "צבעים שונים"
 
 #: jmvline/options/groupLineType.title
 msgid "Different line types"
-msgstr ""
+msgstr "סוגי שורות שונים"
 
 #: jmvline/options/groupPointType.title
 msgid "Different point types"
-msgstr ""
+msgstr "סוגי נקודות שונים"
 
 #: jmvbar/options/legendDirection.title
 #: jmvbox/options/legendDirection.title
@@ -269,7 +273,7 @@ msgstr ""
 #: jmvline/options/legendDirection.title
 #: jmvscatter/options/legendDirection.title
 msgid "Direction"
-msgstr ""
+msgstr "כיוון"
 
 #: jmvline/options/groupPositionDodge.title
 msgid "Dodge width"
@@ -278,27 +282,27 @@ msgstr ""
 #: jmvbar/options/errorBarSize.title
 #: jmvline/options/errorBarSize.title
 msgid "Error bar line size"
-msgstr ""
+msgstr "גודל קו עמודת השגיאה"
 
 #: jmvbar/ui/mode/continuous[1][1][0].label
 #: jmvline/ui/mode/aggregate[0][1][1].label
 msgid "Error Bar Styling"
-msgstr ""
+msgstr "עיצוב עמודת השגיאה"
 
 #: jmvbar/options/errorBarWidth.title
 #: jmvline/options/errorBarWidth.title
 msgid "Error bar width"
-msgstr ""
+msgstr "רוחב עמודת השגיאה"
 
 #: jmvbar/options/errorBars.title
 #: jmvline/options/errorBars.title
 msgid "Error bars"
-msgstr ""
+msgstr "עמודות שגיאה"
 
 #: jmvbar/ui/mode/continuous[1][0][0][0].label
 #: jmvline/ui/mode/aggregate[0][1][0].label
 msgid "Error Bars"
-msgstr ""
+msgstr "עמודות שגיאה"
 
 #: jmvbar/options/flipAxes.title
 #: jmvbox/options/flipAxes.title
@@ -306,7 +310,7 @@ msgstr ""
 #: jmvline/options/flipAxes.title
 #: jmvscatter/options/flipAxes.title
 msgid "Flip axes"
-msgstr ""
+msgstr "היפוך הצירים"
 
 #: jmvbar/options/titleFontSize.title
 #: jmvbar/options/subtitleFontSize.title
@@ -334,12 +338,12 @@ msgstr ""
 #: jmvscatter/options/xLabelFontSize.title
 #: jmvscatter/options/yLabelFontSize.title
 msgid "Font size"
-msgstr ""
+msgstr "גודל הגופן"
 
 #: R/jmvbar.b.R
 #: R/jmvhist.b.R
 msgid "Frequency (N)"
-msgstr ""
+msgstr "תדירות (N)"
 
 #: jmvbar/ui[1].label
 #: jmvbox/ui[1].label
@@ -347,16 +351,16 @@ msgstr ""
 #: jmvline/ui[2].label
 #: jmvscatter/ui[1].label
 msgid "General Options"
-msgstr ""
+msgstr "אפשרויות כלליות"
 
 #: jmvbar/ui[2].label
 #: jmvline/ui[3].label
 msgid "Group Options"
-msgstr ""
+msgstr "אפשרויות קבוצה"
 
 #: jmvbar/options/groupBarType/grouped.title
 msgid "Grouped"
-msgstr ""
+msgstr "קיבוץ"
 
 #: jmvbar/options/catgroup.title
 #: jmvbar/options/countsgroup.title
@@ -369,21 +373,21 @@ msgstr ""
 #: jmvscatter/options/group.title
 #: jmvscatter/ui[0][2].label
 msgid "Grouping Variable"
-msgstr ""
+msgstr "משתנה הקבצה"
 
 #: jmvbar/options/congroup1.title
 #: jmvbar/ui/mode/continuous[0][1].label
 #: jmvbox/options/group1.title
 #: jmvbox/ui[0][1].label
 msgid "Grouping Variable 1"
-msgstr ""
+msgstr "משתנה הקבצה 1"
 
 #: jmvbar/options/congroup2.title
 #: jmvbar/ui/mode/continuous[0][2].label
 #: jmvbox/options/group2.title
 #: jmvbox/ui[0][2].label
 msgid "Grouping Variable 2"
-msgstr ""
+msgstr "משתנה הקבצה 2"
 
 #: jmvbar/options/height.title
 #: jmvbox/options/height.title
@@ -391,7 +395,7 @@ msgstr ""
 #: jmvline/options/height.title
 #: jmvscatter/options/height.title
 msgid "Height"
-msgstr ""
+msgstr "גובה"
 
 #: jmvbar/options/legenPositionType/hide.title
 #: jmvbox/options/legenPositionType/hide.title
@@ -399,7 +403,7 @@ msgstr ""
 #: jmvline/options/legenPositionType/hide.title
 #: jmvscatter/options/legenPositionType/hide.title
 msgid "Hide"
-msgstr ""
+msgstr "הסתרה"
 
 #: package/analyses/jmvhist.title
 #: package/analyses/jmvhist.menuTitle
@@ -408,7 +412,7 @@ msgstr ""
 #: jmvhist/ui[1][0][0][0].label
 #: jmvhist/results.title
 msgid "Histogram"
-msgstr ""
+msgstr "היסטוגרמה"
 
 #: jmvbar/options/legendDirection/horizontal.title
 #: jmvbox/options/legendDirection/horizontal.title
@@ -416,11 +420,11 @@ msgstr ""
 #: jmvline/options/legendDirection/horizontal.title
 #: jmvscatter/options/legendDirection/horizontal.title
 msgid "Horizontal"
-msgstr ""
+msgstr "אופקי"
 
 #: jmvline/options/mode/individual.title
 msgid "Individual points"
-msgstr ""
+msgstr "נקודות נפרדות"
 
 #: jmvbar/options/legenPositionType/inside.title
 #: jmvbox/options/legenPositionType/inside.title
@@ -428,7 +432,7 @@ msgstr ""
 #: jmvline/options/legenPositionType/inside.title
 #: jmvscatter/options/legenPositionType/inside.title
 msgid "Inside"
-msgstr ""
+msgstr "בפנים"
 
 #: jmvbar/options/legendJustification.title
 #: jmvbox/options/legendJustification.title
@@ -436,7 +440,7 @@ msgstr ""
 #: jmvline/options/legendJustification.title
 #: jmvscatter/options/legendJustification.title
 msgid "Justification"
-msgstr ""
+msgstr "צידוק"
 
 #: jmvbar/options/legendKeyHeight.title
 #: jmvbox/options/legendKeyHeight.title
@@ -444,7 +448,7 @@ msgstr ""
 #: jmvline/options/legendKeyHeight.title
 #: jmvscatter/options/legendKeyHeight.title
 msgid "Key height"
-msgstr ""
+msgstr "מפתח הגובה"
 
 #: jmvbar/options/legendKeyWidth.title
 #: jmvbox/options/legendKeyWidth.title
@@ -452,7 +456,7 @@ msgstr ""
 #: jmvline/options/legendKeyWidth.title
 #: jmvscatter/options/legendKeyWidth.title
 msgid "Key width"
-msgstr ""
+msgstr "מפתח הרוחב"
 
 #: jmvbar/options/yAxisLabelFontSize.title
 #: jmvbar/options/xAxisLabelFontSize.title
@@ -470,7 +474,7 @@ msgstr ""
 #: jmvscatter/options/xAxisLabelFontSize.title
 #: jmvscatter/options/legendLabelFontSize.title
 msgid "Label font size"
-msgstr ""
+msgstr "גודל גופן התוויות"
 
 #: jmvbar/options/yAxisLabelRotation.title
 #: jmvbar/options/xAxisLabelRotation.title
@@ -483,12 +487,12 @@ msgstr ""
 #: jmvscatter/options/yAxisLabelRotation.title
 #: jmvscatter/options/xAxisLabelRotation.title
 msgid "Label rotation"
-msgstr ""
+msgstr "תווית הרוטציה"
 
 #: jmvbar/options/countsLabels.title
 #: jmvbar/ui/mode/counts[0][1].label
 msgid "Labels"
-msgstr ""
+msgstr "תוויות"
 
 #: jmvbar/options/titleAlign/left.title
 #: jmvbar/options/subtitleAlign/left.title
@@ -526,7 +530,7 @@ msgstr ""
 #: jmvscatter/options/legendPosition/left.title
 #: jmvscatter/options/legendJustification/left.title
 msgid "Left"
-msgstr ""
+msgstr "שמאל"
 
 #: jmvbar/ui[5].label
 #: jmvbox/ui[4].label
@@ -534,7 +538,7 @@ msgstr ""
 #: jmvline/ui[6].label
 #: jmvscatter/ui[4].label
 msgid "Legend"
-msgstr ""
+msgstr "מקרא"
 
 #: jmvbar/ui[5][0][1][0].label
 #: jmvbox/ui[4][0][1][0].label
@@ -542,7 +546,7 @@ msgstr ""
 #: jmvline/ui[6][0][1][0].label
 #: jmvscatter/ui[4][0][1][0].label
 msgid "Legend Position"
-msgstr ""
+msgstr "מיקום המקרא"
 
 #: jmvbar/ui[5][0][0][1].label
 #: jmvbox/ui[4][0][0][1].label
@@ -550,7 +554,7 @@ msgstr ""
 #: jmvline/ui[6][0][0][1].label
 #: jmvscatter/ui[4][0][0][1].label
 msgid "Legend Style"
-msgstr ""
+msgstr "סגנון המקרא"
 
 #: jmvbar/ui[5][0][0][0].label
 #: jmvbox/ui[4][0][0][0].label
@@ -558,25 +562,25 @@ msgstr ""
 #: jmvline/ui[6][0][0][0].label
 #: jmvscatter/ui[4][0][0][0].label
 msgid "Legend Title"
-msgstr ""
+msgstr "כותרת המקרא"
 
 #: jmvline/ui[2][0][0][0].label
 msgid "Line"
-msgstr ""
+msgstr "קו"
 
 #: jmvline/ui[3][0][0][0].label
 msgid "Line & Point Style"
-msgstr ""
+msgstr "סגנונות קו ונקודה"
 
 #: jmvhist/options/lineSize.title
 #: jmvhist/options/densityLineSize.title
 #: jmvline/options/lineSize.title
 msgid "Line size"
-msgstr ""
+msgstr "גודל הקו"
 
 #: jmvscatter/options/lineMethod/lm.title
 msgid "Linear"
-msgstr ""
+msgstr "קווי"
 
 #: package/analyses/jmvline.title
 #: package/analyses/jmvline.menuTitle
@@ -584,7 +588,7 @@ msgstr ""
 #: jmvline/ui.title
 #: jmvline/results.title
 msgid "Lineplot"
-msgstr ""
+msgstr "תרשים קו"
 
 #: jmvbar/options/yAxisRangeType/manual.title
 #: jmvbox/options/yAxisRangeType/manual.title
@@ -594,7 +598,7 @@ msgstr ""
 #: jmvscatter/options/yAxisRangeType/manual.title
 #: jmvscatter/options/xAxisRangeType/manual.title
 msgid "Manual"
-msgstr ""
+msgstr "מדריך"
 
 #: jmvbar/options/yAxisRangeMax.title
 #: jmvbox/options/yAxisRangeMax.title
@@ -604,19 +608,19 @@ msgstr ""
 #: jmvscatter/options/yAxisRangeMax.title
 #: jmvscatter/options/xAxisRangeMax.title
 msgid "Max"
-msgstr ""
+msgstr "מקסימום"
 
 #: jmvline/options/aggregateType/mean.title
 msgid "Mean"
-msgstr ""
+msgstr "ממוצע"
 
 #: jmvline/options/aggregateType/median.title
 msgid "Median"
-msgstr ""
+msgstr "חציון"
 
 #: jmvscatter/options/lineMethod.title
 msgid "Method"
-msgstr ""
+msgstr "שיטה"
 
 #: jmvbar/options/yAxisRangeMin.title
 #: jmvbox/options/yAxisRangeMin.title
@@ -626,12 +630,12 @@ msgstr ""
 #: jmvscatter/options/yAxisRangeMin.title
 #: jmvscatter/options/xAxisRangeMin.title
 msgid "Min"
-msgstr ""
+msgstr "מינימום"
 
 #: jmvbar/options/errorBars/none.title
 #: jmvline/options/errorBars/none.title
 msgid "None"
-msgstr ""
+msgstr "כלום"
 
 #: jmvbox/options/notch.title
 msgid "Notch"
@@ -643,7 +647,7 @@ msgstr ""
 #: jmvline/options/legenPositionType/outside.title
 #: jmvscatter/options/legenPositionType/outside.title
 msgid "Outside"
-msgstr ""
+msgstr "בחוץ"
 
 #: jmvbar/ui[3].label
 #: jmvbox/ui[2].label
@@ -651,7 +655,7 @@ msgstr ""
 #: jmvline/ui[4].label
 #: jmvscatter/ui[2].label
 msgid "Plot & Axis Titles"
-msgstr ""
+msgstr "כותרות התרשים והצירים"
 
 #: jmvbar/options/titleType/caption.title
 #: jmvbox/options/titleType/caption.title
@@ -659,7 +663,7 @@ msgstr ""
 #: jmvline/options/titleType/caption.title
 #: jmvscatter/options/titleType/caption.title
 msgid "Plot Caption"
-msgstr ""
+msgstr "כתוביות התרשים"
 
 #: jmvbar/ui[1][0][1][1].label
 #: jmvbox/ui[1][0][1][1].label
@@ -667,7 +671,7 @@ msgstr ""
 #: jmvline/ui[2][0][1][1].label
 #: jmvscatter/ui[1][0][1][1].label
 msgid "Plot Orientation"
-msgstr ""
+msgstr "מגמת התרשים"
 
 #: jmvbar/ui[1][0][1][0].label
 #: jmvbox/ui[1][0][1][0].label
@@ -675,7 +679,7 @@ msgstr ""
 #: jmvline/ui[2][0][1][0].label
 #: jmvscatter/ui[1][0][1][0].label
 msgid "Plot Size"
-msgstr ""
+msgstr "גודל התרשים"
 
 #: jmvbar/options/titleType/subtitle.title
 #: jmvbox/options/titleType/subtitle.title
@@ -683,7 +687,7 @@ msgstr ""
 #: jmvline/options/titleType/subtitle.title
 #: jmvscatter/options/titleType/subtitle.title
 msgid "Plot Subtitle"
-msgstr ""
+msgstr "כותרת משנה של התרשים"
 
 #: jmvbar/options/titleType/title.title
 #: jmvbox/options/titleType/title.title
@@ -691,11 +695,11 @@ msgstr ""
 #: jmvline/options/titleType/title.title
 #: jmvscatter/options/titleType/title.title
 msgid "Plot Title"
-msgstr ""
+msgstr "כותרת התרשים"
 
 #: jmvline/ui[2][0][0][1].label
 msgid "Point"
-msgstr ""
+msgstr "נקודה"
 
 #: jmvline/ui[3][0][1][0].label
 msgid "Point Dodging"
@@ -704,7 +708,7 @@ msgstr ""
 #: jmvline/options/pointSize.title
 #: jmvscatter/options/pointSize.title
 msgid "Point size"
-msgstr ""
+msgstr "גודל הנקודה"
 
 #: jmvbar/options/legendPosition.title
 #: jmvbox/options/legendPosition.title
@@ -712,7 +716,7 @@ msgstr ""
 #: jmvline/options/legendPosition.title
 #: jmvscatter/options/legendPosition.title
 msgid "Position"
-msgstr ""
+msgstr "מיקום"
 
 #: jmvbar/ui[4][0][1][1].label
 #: jmvbox/ui[3][0][1][1].label
@@ -722,16 +726,16 @@ msgstr ""
 #: jmvscatter/ui[3][0][0][1].label
 #: jmvscatter/ui[3][0][1][1].label
 msgid "Range"
-msgstr ""
+msgstr "טווח"
 
 #: jmvscatter/ui[1][0][0][1].label
 msgid "Regression Line"
-msgstr ""
+msgstr "קו רגרסיה"
 
 #: jmvbar/options/xAxisLabelFontSizeRevLabels.title
 #: jmvbox/options/xAxisLabelFontSizeRevLabels.title
 msgid "Reverse labels"
-msgstr ""
+msgstr "תוויות מהופכות"
 
 #: jmvbar/options/titleAlign/right.title
 #: jmvbar/options/subtitleAlign/right.title
@@ -769,11 +773,11 @@ msgstr ""
 #: jmvscatter/options/legendPosition/right.title
 #: jmvscatter/options/legendJustification/right.title
 msgid "Right"
-msgstr ""
+msgstr "ימין"
 
 #: jmvscatter/ui[1][0][0][0].label
 msgid "Scatter"
-msgstr ""
+msgstr "פיזור"
 
 #: package/analyses/jmvscatter.title
 #: package/analyses/jmvscatter.menuTitle
@@ -781,51 +785,51 @@ msgstr ""
 #: jmvscatter/ui.title
 #: jmvscatter/results.title
 msgid "Scatterplot"
-msgstr ""
+msgstr "תרשים פיזור"
 
 #: jmvhist/options/bins.title
 msgid "Show bins"
-msgstr ""
+msgstr "הצגת המכלים (bins)"
 
 #: jmvhist/options/density.title
 msgid "Show density"
-msgstr ""
+msgstr "הצגת הצפיפות"
 
 #: jmvhist/options/line.title
 #: jmvscatter/options/line.title
 msgid "Show line"
-msgstr ""
+msgstr "הצגת הקו"
 
 #: jmvline/options/line.title
 msgid "Show lines"
-msgstr ""
+msgstr "הצגת הקווים"
 
 #: jmvbox/options/outliers.title
 msgid "Show outliers"
-msgstr ""
+msgstr "הצגת החריגויות"
 
 #: jmvline/options/point.title
 msgid "Show points"
-msgstr ""
+msgstr "הצגת הנקודות"
 
 #: jmvscatter/options/lineMethod/loess.title
 msgid "Smooth"
-msgstr ""
+msgstr "החלקה"
 
 #: jmvbar/options/groupBarType/stacked.title
 msgid "Stacked"
-msgstr ""
+msgstr "מעורם"
 
 #: jmvbar/options/errorBars/sd.title
 #: jmvline/options/errorBars/sd.title
 msgid "Standard deviation"
-msgstr ""
+msgstr "סטיית תקן"
 
 #: jmvbar/options/errorBars/se.title
 #: jmvline/options/errorBars/se.title
 #: jmvscatter/options/lineSE.title
 msgid "Standard error"
-msgstr ""
+msgstr "טעות תקן"
 
 #: R/jmvbar.b.R
 #: R/jmvbox.b.R
@@ -833,7 +837,7 @@ msgstr ""
 #: R/jmvline.b.R
 #: R/jmvscatter.b.R
 msgid "Syntax mode for plots is not yet available."
-msgstr ""
+msgstr "מצב תחביר לתרשימים עדיין לא זמין."
 
 #: jmvbar/options/legendTitleFontSize.title
 #: jmvbox/options/legendTitleFontSize.title
@@ -841,7 +845,7 @@ msgstr ""
 #: jmvline/options/legendTitleFontSize.title
 #: jmvscatter/options/legendTitleFontSize.title
 msgid "Title font size"
-msgstr ""
+msgstr "גודל גופן הכותרת"
 
 #: jmvbar/options/title.title
 #: jmvbar/options/subtitle.title
@@ -874,7 +878,7 @@ msgstr ""
 #: jmvscatter/options/yLabel.title
 #: jmvscatter/options/legendTitle.title
 msgid "Title text"
-msgstr ""
+msgstr "טקסט הכותרת"
 
 #: jmvbar/options/legendPosition/top.title
 #: jmvbar/options/legendJustification/top.title
@@ -887,22 +891,22 @@ msgstr ""
 #: jmvscatter/options/legendPosition/top.title
 #: jmvscatter/options/legendJustification/top.title
 msgid "Top"
-msgstr ""
+msgstr "עליון"
 
 #: jmvbar/options/valueLabels.title
 msgid "Value labels"
-msgstr ""
+msgstr "תוויות הערכים"
 
 #: jmvbox/options/var.title
 #: jmvbox/ui[0][0].label
 #: jmvhist/options/var.title
 #: jmvhist/ui[0][0].label
 msgid "Variable"
-msgstr ""
+msgstr "משתנה"
 
 #: jmvbar/options/mode.title
 msgid "Variable type"
-msgstr ""
+msgstr "סוג המשתנה"
 
 #: jmvbar/options/legendDirection/vertical.title
 #: jmvbox/options/legendDirection/vertical.title
@@ -910,7 +914,7 @@ msgstr ""
 #: jmvline/options/legendDirection/vertical.title
 #: jmvscatter/options/legendDirection/vertical.title
 msgid "Vertical"
-msgstr ""
+msgstr "אנכי"
 
 #: jmvbar/options/barWidth.title
 #: jmvbar/options/width.title
@@ -922,7 +926,7 @@ msgstr ""
 #: jmvline/options/ciWidth.title
 #: jmvscatter/options/width.title
 msgid "Width"
-msgstr ""
+msgstr "רוחב"
 
 #: jmvbar/ui[4][0][0][0].label
 #: jmvbox/ui[3][0][0][0].label
@@ -934,12 +938,12 @@ msgstr ""
 #: jmvscatter/ui[0][0].label
 #: jmvscatter/ui[3][0][0][0].label
 msgid "X-Axis"
-msgstr ""
+msgstr "ציר X"
 
 #: jmvhist/options/xAxisRangeType.title
 #: jmvscatter/options/xAxisRangeType.title
 msgid "X-Axis Range"
-msgstr ""
+msgstr "טווח ציר X"
 
 #: jmvbar/options/titleType/xTitle.title
 #: jmvbox/options/titleType/xTitle.title
@@ -947,7 +951,7 @@ msgstr ""
 #: jmvline/options/titleType/xTitle.title
 #: jmvscatter/options/titleType/xTitle.title
 msgid "X-Axis Title"
-msgstr ""
+msgstr "כותרת ציר X"
 
 #: jmvbar/options/legendPositionX.title
 #: jmvbox/options/legendPositionX.title
@@ -955,7 +959,7 @@ msgstr ""
 #: jmvline/options/legendPositionX.title
 #: jmvscatter/options/legendPositionX.title
 msgid "X-position"
-msgstr ""
+msgstr "מיקום X"
 
 #: jmvbar/ui[4][0][1][0].label
 #: jmvbox/ui[3][0][1][0].label
@@ -967,7 +971,7 @@ msgstr ""
 #: jmvscatter/ui[0][1].label
 #: jmvscatter/ui[3][0][1][0].label
 msgid "Y-Axis"
-msgstr ""
+msgstr "ציר Y"
 
 #: jmvbar/options/yAxisRangeType.title
 #: jmvbox/options/yAxisRangeType.title
@@ -975,7 +979,7 @@ msgstr ""
 #: jmvline/options/yAxisRangeType.title
 #: jmvscatter/options/yAxisRangeType.title
 msgid "Y-Axis Range"
-msgstr ""
+msgstr "טווח ציר Y"
 
 #: jmvbar/options/titleType/yTitle.title
 #: jmvbox/options/titleType/yTitle.title
@@ -983,7 +987,7 @@ msgstr ""
 #: jmvline/options/titleType/yTitle.title
 #: jmvscatter/options/titleType/yTitle.title
 msgid "Y-Axis Title"
-msgstr ""
+msgstr "כותרת ציר Y"
 
 #: jmvbar/options/legendPositionY.title
 #: jmvbox/options/legendPositionY.title
@@ -991,4 +995,4 @@ msgstr ""
 #: jmvline/options/legendPositionY.title
 #: jmvscatter/options/legendPositionY.title
 msgid "Y-position"
-msgstr ""
+msgstr "מיקום Y"
