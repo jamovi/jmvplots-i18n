@@ -1,14 +1,16 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2021-07-29 16:59:59+01000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-06-23 19:01+0000\n"
+"Last-Translator: Albert Coll i Bordas <acollbordas@gmail.com>\n"
+"Language-Team: Catalan <https://hosted.weblate.org/projects/jamovi/"
+"jmvplots-i18n/ca/>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: R/jmvbar.b.R
 msgid "{var} (mean{error})"
@@ -721,7 +723,7 @@ msgstr ""
 #: jmvscatter/ui[3][0][0][1].label
 #: jmvscatter/ui[3][0][1][1].label
 msgid "Range"
-msgstr ""
+msgstr "Recorregut"
 
 #: jmvscatter/ui[1][0][0][1].label
 msgid "Regression Line"
@@ -897,7 +899,7 @@ msgstr ""
 #: jmvhist/options/var.title
 #: jmvhist/ui[0][0].label
 msgid "Variable"
-msgstr ""
+msgstr "Variable"
 
 #: jmvbar/options/mode.title
 msgid "Variable type"
