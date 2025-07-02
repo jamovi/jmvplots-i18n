@@ -116,11 +116,11 @@ msgstr "Achsen"
 
 #: jmvbar/ui[1][0][0][0].label
 msgid "Bar"
-msgstr "Säule"
+msgstr "Balken"
 
 #: jmvbar/options/groupBarType.title
 msgid "Bar type"
-msgstr "Säulentyp"
+msgstr "Balkentyp"
 
 #: jmvbar/ui[2][0][0][0].label
 #, fuzzy
@@ -133,15 +133,15 @@ msgstr "Balkentyp"
 #: jmvbar/ui.title
 #: jmvbar/results.title
 msgid "Barplot"
-msgstr ""
+msgstr "Balkendiagramm"
 
 #: jmvhist/options/binOpacity.title
 msgid "Bin opacity"
-msgstr ""
+msgstr "Opazität der Säulen"
 
 #: jmvhist/options/binWidth.title
 msgid "Bin width"
-msgstr ""
+msgstr "Säulenbreite"
 
 #: jmvbar/options/legendPosition/bottom.title
 #: jmvbar/options/legendJustification/bottom.title
@@ -154,7 +154,7 @@ msgstr ""
 #: jmvscatter/options/legendPosition/bottom.title
 #: jmvscatter/options/legendJustification/bottom.title
 msgid "Bottom"
-msgstr ""
+msgstr "Unten"
 
 #: jmvbox/ui[1][0][0][0].label
 msgid "Box Element"
