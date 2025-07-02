@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-06-26 02:03+0000\n"
+"PO-Revision-Date: 2025-07-02 18:01+0000\n"
 "Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jamovi/"
 "jmvplots-i18n/pl/>\n"
@@ -136,11 +136,11 @@ msgstr "Wykres słupkowy"
 
 #: jmvhist/options/binOpacity.title
 msgid "Bin opacity"
-msgstr ""
+msgstr "Widoczność słupka"
 
 #: jmvhist/options/binWidth.title
 msgid "Bin width"
-msgstr ""
+msgstr "Szerokość słupka"
 
 #: jmvbar/options/legendPosition/bottom.title
 #: jmvbar/options/legendJustification/bottom.title
@@ -277,7 +277,7 @@ msgstr "Kierunek"
 
 #: jmvline/options/groupPositionDodge.title
 msgid "Dodge width"
-msgstr ""
+msgstr "Szerokość odstępów"
 
 #: jmvbar/options/errorBarSize.title
 #: jmvline/options/errorBarSize.title
@@ -448,7 +448,7 @@ msgstr "Uzasadnienie"
 #: jmvline/options/legendKeyHeight.title
 #: jmvscatter/options/legendKeyHeight.title
 msgid "Key height"
-msgstr ""
+msgstr "Wysokość klucza"
 
 #: jmvbar/options/legendKeyWidth.title
 #: jmvbox/options/legendKeyWidth.title
@@ -456,7 +456,7 @@ msgstr ""
 #: jmvline/options/legendKeyWidth.title
 #: jmvscatter/options/legendKeyWidth.title
 msgid "Key width"
-msgstr ""
+msgstr "Szerokość klucza"
 
 #: jmvbar/options/yAxisLabelFontSize.title
 #: jmvbar/options/xAxisLabelFontSize.title
@@ -663,7 +663,7 @@ msgstr "Tytuły wykresów i osi"
 #: jmvline/options/titleType/caption.title
 #: jmvscatter/options/titleType/caption.title
 msgid "Plot Caption"
-msgstr ""
+msgstr "Tytuł wykresu"
 
 #: jmvbar/ui[1][0][1][1].label
 #: jmvbox/ui[1][0][1][1].label
@@ -703,7 +703,7 @@ msgstr "Punkt"
 
 #: jmvline/ui[3][0][1][0].label
 msgid "Point Dodging"
-msgstr ""
+msgstr "Odstęp między punktami"
 
 #: jmvline/options/pointSize.title
 #: jmvscatter/options/pointSize.title
@@ -789,7 +789,7 @@ msgstr "Wykres rozrzutu"
 
 #: jmvhist/options/bins.title
 msgid "Show bins"
-msgstr ""
+msgstr "Pokaż słupki"
 
 #: jmvhist/options/density.title
 msgid "Show density"
@@ -959,7 +959,7 @@ msgstr "Tytuł osi X"
 #: jmvline/options/legendPositionX.title
 #: jmvscatter/options/legendPositionX.title
 msgid "X-position"
-msgstr ""
+msgstr "Pozycja X"
 
 #: jmvbar/ui[4][0][1][0].label
 #: jmvbox/ui[3][0][1][0].label
@@ -995,4 +995,4 @@ msgstr "Tytuł osi Y"
 #: jmvline/options/legendPositionY.title
 #: jmvscatter/options/legendPositionY.title
 msgid "Y-position"
-msgstr ""
+msgstr "Pozycja Y"
