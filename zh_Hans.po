@@ -14,7 +14,7 @@ msgstr ""
 
 #: R/jmvbar.b.R
 msgid "{var} (mean{error})"
-msgstr "{var} (平均值 {error})"
+msgstr "{var} (平均 {error})"
 
 #: jmvbar/ui/mode/continuous[1][0][0][0]/yAxisRangeType_ci/ciWidth.suffix
 #: jmvline/ui/mode/aggregate[0][1][0]/yAxisRangeType_ci/ciWidth.suffix
