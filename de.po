@@ -77,23 +77,24 @@ msgstr "Ausrichtung"
 
 #: jmvbar/results/plot.description
 msgid "an image containing the bar plot"
-msgstr "ein Bild, welches das Balkendiagramm enthält"
+msgstr "ein Bild, das das Balkendiagramm enthält"
 
 #: jmvbox/results/plot.description
 msgid "an image containing the box plot"
-msgstr "ein Bild, welches den Boxplot enthält"
+msgstr "ein Bild, das den Boxplot enthält"
 
 #: jmvhist/results/plot.description
 msgid "an image containing the histogram"
 msgstr "ein Bild, das das Histogramm enthält"
 
 #: jmvline/results/plot.description
+#, fuzzy
 msgid "an image containing the line plot"
-msgstr ""
+msgstr "ein Bild, das das Liniendiagramm enthält"
 
 #: jmvscatter/results/plot.description
 msgid "an image containing the scatter plot"
-msgstr ""
+msgstr "ein Bild, das das Streudiagramm enthält"
 
 #: jmvbar/options/yAxisRangeType/auto.title
 #: jmvbox/options/yAxisRangeType/auto.title
@@ -103,7 +104,7 @@ msgstr ""
 #: jmvscatter/options/yAxisRangeType/auto.title
 #: jmvscatter/options/xAxisRangeType/auto.title
 msgid "Auto"
-msgstr ""
+msgstr "Auto"
 
 #: jmvbar/ui[4].label
 #: jmvbox/ui[3].label
@@ -111,19 +112,20 @@ msgstr ""
 #: jmvline/ui[5].label
 #: jmvscatter/ui[3].label
 msgid "Axes"
-msgstr ""
+msgstr "Achsen"
 
 #: jmvbar/ui[1][0][0][0].label
 msgid "Bar"
-msgstr ""
+msgstr "Säule"
 
 #: jmvbar/options/groupBarType.title
 msgid "Bar type"
-msgstr ""
+msgstr "Säulentyp"
 
 #: jmvbar/ui[2][0][0][0].label
+#, fuzzy
 msgid "Bar Type"
-msgstr ""
+msgstr "Balkentyp"
 
 #: package/analyses/jmvbar.title
 #: package/analyses/jmvbar.menuTitle
