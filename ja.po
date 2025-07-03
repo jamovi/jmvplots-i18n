@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-06-22 04:01+0000\n"
+"PO-Revision-Date: 2025-07-04 08:01+0000\n"
 "Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/jamovi/"
 "jmvplots-i18n/ja/>\n"
@@ -13,7 +13,6 @@ msgstr ""
 "X-Generator: Weblate 5.13-dev\n"
 
 #: R/jmvbar.b.R
-#, fuzzy
 msgid "{var} (mean{error})"
 msgstr "{var} (mean{error})"
 
@@ -32,7 +31,6 @@ msgstr "%"
 #: jmvline/ui[5][0][1][0]/yAxisLabelRotation.suffix
 #: jmvscatter/ui[3][0][0][0]/xAxisLabelRotation.suffix
 #: jmvscatter/ui[3][0][1][0]/yAxisLabelRotation.suffix
-#, fuzzy
 msgid "°"
 msgstr "°"
 
