@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-07-26 19:05+0000\n"
+"PO-Revision-Date: 2025-07-28 05:02+0000\n"
 "Last-Translator: \"Dr. Chinchu C.\" <chinchu.c@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "jmvplots-i18n/ml/>\n"
@@ -47,11 +47,11 @@ msgstr ""
 
 #: jmvline/ui/mode/aggregate[0].label
 msgid "Aggregate Options"
-msgstr ""
+msgstr "അഗ്രഗേറ്റ് ഓപ്ഷനുകൾ"
 
 #: jmvline/options/mode/aggregate.title
 msgid "Aggregated data"
-msgstr ""
+msgstr "അഗ്രഗേറ്റ് ചെയ്ത ഡേറ്റ"
 
 #: jmvbar/options/titleAlign.title
 #: jmvbar/options/subtitleAlign.title
@@ -84,27 +84,27 @@ msgstr ""
 #: scat/options/xLabelAlign.title
 #: scat/options/yLabelAlign.title
 msgid "Align"
-msgstr ""
+msgstr "അലൈൻ"
 
 #: jmvbar/results/plot.description
 msgid "an image containing the bar plot"
-msgstr ""
+msgstr "ബാർ പ്ലോട്ട് ഉൾക്കൊള്ളുന്ന ഒരു ചിത്രം"
 
 #: jmvbox/results/plot.description
 msgid "an image containing the box plot"
-msgstr ""
+msgstr "ബോക്സ് പ്ലോട്ട് ഉൾക്കൊള്ളുന്ന ഒരു ചിത്രം"
 
 #: jmvhist/results/plot.description
 msgid "an image containing the histogram"
-msgstr ""
+msgstr "ഹിസ്റ്റോഗ്രാം അടങ്ങിയ ഒരു ചിത്രം"
 
 #: jmvline/results/plot.description
 msgid "an image containing the line plot"
-msgstr ""
+msgstr "ലൈൻ പ്ലോട്ട് ഉള്ള ഒരു ചിത്രം"
 
 #: scat/results/plot.description
 msgid "an image containing the scatter plot"
-msgstr ""
+msgstr "സ്കാറ്റർ പ്ലോട്ട് ഉള്ള ഒരു ചിത്രം"
 
 #: jmvbar/options/yAxisRangeType/auto.title
 #: jmvbox/options/yAxisRangeType/auto.title
@@ -115,7 +115,7 @@ msgstr ""
 #: scat/options/yAxisRangeType/auto.title
 #: scat/options/xAxisRangeType/auto.title
 msgid "Auto"
-msgstr ""
+msgstr "ഓട്ടോ"
 
 #: jmvbar/ui[4].label
 #: jmvbox/ui[3].label
@@ -124,7 +124,7 @@ msgstr ""
 #: pareto/ui[3].label
 #: scat/ui[3].label
 msgid "Axes"
-msgstr ""
+msgstr "അച്ചുതണ്ടുകൾ"
 
 #: jmvbar/ui[1][0][0][0].label
 #: pareto/ui[1][0][0][0].label
@@ -171,7 +171,7 @@ msgstr ""
 #: scat/options/legendPosition/bottom.title
 #: scat/options/legendJustification/bottom.title
 msgid "Bottom"
-msgstr ""
+msgstr "താഴെ"
 
 #: jmvbox/ui[1][0][0][0].label
 msgid "Box Element"
@@ -192,7 +192,7 @@ msgstr ""
 #: jmvbar/options/catvar.title
 #: jmvbar/ui/mode/categorical[0][0].label
 msgid "Categorical Variable"
-msgstr ""
+msgstr "വർഗ്ഗീകൃത (categorical) വേരിയബിൾ"
 
 #: jmvbar/options/titleAlign/center.title
 #: jmvbar/options/subtitleAlign/center.title
@@ -230,31 +230,31 @@ msgstr ""
 #: scat/options/yLabelAlign/center.title
 #: scat/options/legendJustification/center.title
 msgid "Center"
-msgstr ""
+msgstr "സെന്റർ"
 
 #: jmvbar/options/errorBars/ci.title
 #: jmvline/options/errorBars/ci.title
 msgid "Confidence interval"
-msgstr ""
+msgstr "കോൺഫിഡൻസ് ഇടവേള"
 
 #: jmvbar/options/mode/continuous.title
 msgid "Continuous"
-msgstr ""
+msgstr "തുടർച്ചയായ"
 
 #: jmvbar/ui/mode/continuous[1].label
 msgid "Continuous Options"
-msgstr ""
+msgstr "തുടർച്ചയായ ഓപ്ഷനുകൾ"
 
 #: jmvbar/options/convar.title
 #: jmvbar/ui/mode/continuous[0][0].label
 msgid "Continuous Variable"
-msgstr ""
+msgstr "തുടർച്ചയായ വേരിയബിൾ"
 
 #: jmvbar/options/mode/counts.title
 #: jmvbar/options/counts.title
 #: jmvbar/ui/mode/counts[0][0].label
 msgid "Counts"
-msgstr ""
+msgstr "എണ്ണങ്ങൾ"
 
 #: pareto/options/counts.title
 #: pareto/ui[0][1].label
@@ -411,7 +411,7 @@ msgstr ""
 #: scat/options/group.title
 #: scat/ui[0][2].label
 msgid "Grouping Variable"
-msgstr ""
+msgstr "ഗ്രൂപ്പിങ്ങ് വേരിയബിൾ"
 
 #: jmvbar/options/congroup1.title
 #: jmvbar/ui/mode/continuous[0][1].label
@@ -801,7 +801,7 @@ msgstr ""
 
 #: scat/ui[1][0][0][1].label
 msgid "Regression Line"
-msgstr ""
+msgstr "റിഗ്രഷൻ ലൈൻ"
 
 #: jmvbar/options/xAxisLabelFontSizeRevLabels.title
 #: jmvbox/options/xAxisLabelFontSizeRevLabels.title
@@ -854,7 +854,7 @@ msgstr ""
 #: package/analyses/scat.menuSubgroup
 #: package/analyses/pareto.menuSubgroup
 msgid "scatr"
-msgstr ""
+msgstr "scatr"
 
 #: scat/ui[1][0][0][0].label
 msgid "Scatter"
@@ -895,7 +895,7 @@ msgstr ""
 
 #: scat/options/lineMethod/loess.title
 msgid "Smooth"
-msgstr ""
+msgstr "സ്മൂത്ത്"
 
 #: jmvbar/options/groupBarType/stacked.title
 msgid "Stacked"
