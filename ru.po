@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-07-26 19:05+0000\n"
+"PO-Revision-Date: 2025-07-29 07:11+0000\n"
 "Last-Translator: Yuri Smolyakov <smolyakov@rambler.ru>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/jamovi/"
 "jmvplots-i18n/ru/>\n"
@@ -138,7 +138,7 @@ msgstr "Столбик"
 #: jmvbar/ui.title
 #: jmvbar/results.title
 msgid "Bar Plot"
-msgstr "Столбиковый график"
+msgstr "Столбиковый"
 
 #: jmvbar/options/groupBarType.title
 msgid "Bar type"
@@ -630,7 +630,7 @@ msgstr "Стиль линий и точек"
 #: jmvline/ui.title
 #: jmvline/results.title
 msgid "Line Plot"
-msgstr "Линейный график"
+msgstr "Линейный"
 
 #: jmvhist/options/lineSize.title
 #: jmvhist/options/densityLineSize.title
@@ -688,7 +688,7 @@ msgstr "Мин"
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup
 msgid "More"
-msgstr "Больше"
+msgstr "Другие"
 
 #: jmvbar/options/errorBars/none.title
 #: jmvline/options/errorBars/none.title
@@ -713,7 +713,7 @@ msgstr "Вне"
 #: pareto/ui.title
 #: pareto/results.title
 msgid "Pareto Plot"
-msgstr "Диаграмма Парето"
+msgstr "Парето"
 
 #: jmvbar/ui[3].label
 #: jmvbox/ui[2].label
@@ -870,7 +870,7 @@ msgstr "Разброс"
 #: scat/ui.title
 #: scat/results.title
 msgid "Scatter Plot"
-msgstr "Диаграмма рассеяния"
+msgstr "Рассеяние"
 
 #: jmvhist/options/bins.title
 msgid "Show bins"
