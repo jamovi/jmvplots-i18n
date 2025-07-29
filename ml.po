@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-07-29 07:11+0000\n"
+"PO-Revision-Date: 2025-07-30 10:25+0000\n"
 "Last-Translator: \"Dr. Chinchu C.\" <chinchu.c@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "jmvplots-i18n/ml/>\n"
@@ -137,7 +137,7 @@ msgstr ""
 #: jmvbar/ui.title
 #: jmvbar/results.title
 msgid "Bar Plot"
-msgstr ""
+msgstr "ബാർ പ്ലോട്ട്"
 
 #: jmvbar/options/groupBarType.title
 msgid "Bar type"
@@ -145,7 +145,7 @@ msgstr ""
 
 #: jmvbar/ui[2][0][0][0].label
 msgid "Bar Type"
-msgstr ""
+msgstr "ബാർ തരം"
 
 #: jmvhist/options/binOpacity.title
 msgid "Bin opacity"
@@ -766,20 +766,20 @@ msgstr ""
 
 #: package.title
 msgid "Plots bundled with jamovi"
-msgstr ""
+msgstr "ജമോവിയോടൊപ്പം വരുന്ന പ്ലോട്ടുകൾ"
 
 #: jmvline/ui[2][0][0][1].label
 msgid "Point"
-msgstr ""
+msgstr "പോയിൻ്റ്"
 
 #: jmvline/ui[3][0][1][0].label
 msgid "Point Dodging"
-msgstr ""
+msgstr "പോയിൻ്റ് ഡോഡ്ജിങ്ങ്"
 
 #: jmvline/options/pointSize.title
 #: scat/options/pointSize.title
 msgid "Point size"
-msgstr ""
+msgstr "പോയിൻ്റ് സൈസ്"
 
 #: jmvbar/options/legendPosition.title
 #: jmvbox/options/legendPosition.title
@@ -787,7 +787,7 @@ msgstr ""
 #: jmvline/options/legendPosition.title
 #: scat/options/legendPosition.title
 msgid "Position"
-msgstr ""
+msgstr "സ്ഥാനം"
 
 #: jmvbar/ui[4][0][1][1].label
 #: jmvbox/ui[3][0][1][1].label
@@ -797,7 +797,7 @@ msgstr ""
 #: scat/ui[3][0][0][1].label
 #: scat/ui[3][0][1][1].label
 msgid "Range"
-msgstr ""
+msgstr "റേഞ്ച്"
 
 #: scat/ui[1][0][0][1].label
 msgid "Regression Line"
@@ -806,7 +806,7 @@ msgstr "റിഗ്രഷൻ ലൈൻ"
 #: jmvbar/options/xAxisLabelFontSizeRevLabels.title
 #: jmvbox/options/xAxisLabelFontSizeRevLabels.title
 msgid "Reverse labels"
-msgstr ""
+msgstr "ലേബലുകൾ തിരിച്ചിടുക"
 
 #: jmvbar/options/titleAlign/right.title
 #: jmvbar/options/subtitleAlign/right.title
@@ -849,7 +849,7 @@ msgstr ""
 #: scat/options/legendPosition/right.title
 #: scat/options/legendJustification/right.title
 msgid "Right"
-msgstr ""
+msgstr "വലത്"
 
 #: package/analyses/scat.menuSubgroup
 #: package/analyses/pareto.menuSubgroup
@@ -858,7 +858,7 @@ msgstr "scatr"
 
 #: scat/ui[1][0][0][0].label
 msgid "Scatter"
-msgstr ""
+msgstr "സ്കാറ്റർ"
 
 #: package/analyses/scat.title
 #: package/analyses/scat.menuTitle
@@ -927,7 +927,7 @@ msgstr ""
 #: jmvline/options/legendTitleFontSize.title
 #: scat/options/legendTitleFontSize.title
 msgid "Title font size"
-msgstr ""
+msgstr "ടൈറ്റിൽ ഫോണ്ട് വലിപ്പം"
 
 #: jmvbar/options/title.title
 #: jmvbar/options/subtitle.title
@@ -965,7 +965,7 @@ msgstr ""
 #: scat/options/yLabel.title
 #: scat/options/legendTitle.title
 msgid "Title text"
-msgstr ""
+msgstr "ടൈറ്റിൽ ടെക്സ്റ്റ്"
 
 #: jmvbar/options/legendPosition/top.title
 #: jmvbar/options/legendJustification/top.title
@@ -989,11 +989,11 @@ msgstr ""
 #: jmvhist/options/var.title
 #: jmvhist/ui[0][0].label
 msgid "Variable"
-msgstr ""
+msgstr "വേരിയബിൾ"
 
 #: jmvbar/options/mode.title
 msgid "Variable type"
-msgstr ""
+msgstr "വേരിയബിൾ തരം"
 
 #: jmvbar/options/legendDirection/vertical.title
 #: jmvbox/options/legendDirection/vertical.title
@@ -1001,7 +1001,7 @@ msgstr ""
 #: jmvline/options/legendDirection/vertical.title
 #: scat/options/legendDirection/vertical.title
 msgid "Vertical"
-msgstr ""
+msgstr "ലംബം"
 
 #: jmvbar/options/barWidth.title
 #: jmvbar/options/width.title
@@ -1015,7 +1015,7 @@ msgstr ""
 #: pareto/options/width.title
 #: scat/options/width.title
 msgid "Width"
-msgstr ""
+msgstr "വീതി"
 
 #: jmvbar/ui[4][0][0][0].label
 #: jmvbox/ui[3][0][0][0].label
@@ -1030,12 +1030,12 @@ msgstr ""
 #: scat/ui[0][0].label
 #: scat/ui[3][0][0][0].label
 msgid "X-Axis"
-msgstr ""
+msgstr "X-അക്ഷം"
 
 #: jmvhist/options/xAxisRangeType.title
 #: scat/options/xAxisRangeType.title
 msgid "X-Axis Range"
-msgstr ""
+msgstr "X-അക്ഷ റേഞ്ച്"
 
 #: jmvbar/options/titleType/xTitle.title
 #: jmvbox/options/titleType/xTitle.title
@@ -1044,7 +1044,7 @@ msgstr ""
 #: pareto/options/titleType/xTitle.title
 #: scat/options/titleType/xTitle.title
 msgid "X-Axis Title"
-msgstr ""
+msgstr "X-അക്ഷത്തിന്റെ തലക്കെട്ട്"
 
 #: jmvbar/options/legendPositionX.title
 #: jmvbox/options/legendPositionX.title
@@ -1052,7 +1052,7 @@ msgstr ""
 #: jmvline/options/legendPositionX.title
 #: scat/options/legendPositionX.title
 msgid "X-position"
-msgstr ""
+msgstr "X-സ്ഥാനം"
 
 #: jmvbar/ui[4][0][1][0].label
 #: jmvbox/ui[3][0][1][0].label
