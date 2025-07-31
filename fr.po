@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-07-28 05:02+0000\n"
-"Last-Translator: aazes <aazes012@gmail.com>\n"
+"PO-Revision-Date: 2025-08-01 13:02+0000\n"
+"Last-Translator: Charly Marie <charly.marie.pro@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/jamovi/"
 "jmvplots-i18n/fr/>\n"
 "Language: fr\n"
@@ -14,7 +14,7 @@ msgstr ""
 
 #: R/jmvbar.b.R
 msgid "{var} (mean{error})"
-msgstr ""
+msgstr "{var} (moyenne{error})"
 
 #: jmvbar/ui/mode/continuous[1][0][0][0]/yAxisRangeType_ci/ciWidth.suffix
 #: jmvline/ui/mode/aggregate[0][1][0]/yAxisRangeType_ci/ciWidth.suffix
@@ -38,7 +38,7 @@ msgstr "°"
 
 #: pareto/results/plot.description
 msgid "a Pareto chart"
-msgstr ""
+msgstr "un diagramme de Pareto"
 
 #: jmvline/options/aggregateType.title
 #: jmvline/ui/mode/aggregate[0][0][0][0].label
@@ -84,7 +84,7 @@ msgstr ""
 #: scat/options/xLabelAlign.title
 #: scat/options/yLabelAlign.title
 msgid "Align"
-msgstr ""
+msgstr "Aligner"
 
 #: jmvbar/results/plot.description
 msgid "an image containing the bar plot"
@@ -137,7 +137,7 @@ msgstr ""
 #: jmvbar/ui.title
 #: jmvbar/results.title
 msgid "Bar Plot"
-msgstr ""
+msgstr "Diagramme en barres"
 
 #: jmvbar/options/groupBarType.title
 msgid "Bar type"
@@ -183,7 +183,7 @@ msgstr ""
 #: jmvbox/ui.title
 #: jmvbox/results.title
 msgid "Box Plot"
-msgstr ""
+msgstr "Boîte à moustaches"
 
 #: jmvbar/options/mode/categorical.title
 msgid "Categorical"
@@ -192,7 +192,7 @@ msgstr ""
 #: jmvbar/options/catvar.title
 #: jmvbar/ui/mode/categorical[0][0].label
 msgid "Categorical Variable"
-msgstr ""
+msgstr "Variable Catégorielle"
 
 #: jmvbar/options/titleAlign/center.title
 #: jmvbar/options/subtitleAlign/center.title
@@ -235,7 +235,7 @@ msgstr ""
 #: jmvbar/options/errorBars/ci.title
 #: jmvline/options/errorBars/ci.title
 msgid "Confidence interval"
-msgstr ""
+msgstr "Intervalle de confiance"
 
 #: jmvbar/options/mode/continuous.title
 msgid "Continuous"
