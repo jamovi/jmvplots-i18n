@@ -1,12 +1,17 @@
 msgid ""
 msgstr ""
+"POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
+"PO-Revision-Date: 2025-08-07 16:01+0000\n"
+"Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
+"Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
+"jmvplots-i18n/he/>\n"
+"Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2021-07-29 16:59:59+01000\n"
-"Language: he\n"
-"Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && n % 10 == 0) ? 2 : 3));\n"
+"Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
+"n % 10 == 0) ? 2 : 3));\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: R/jmvbar.b.R
 msgid "{var} (mean{error})"
@@ -34,7 +39,7 @@ msgstr "°"
 
 #: pareto/results/plot.description
 msgid "a Pareto chart"
-msgstr ""
+msgstr "תרשים פארטו"
 
 #: jmvline/options/aggregateType.title
 #: jmvline/ui/mode/aggregate[0][0][0][0].label
@@ -255,15 +260,17 @@ msgstr "ספירות"
 #: pareto/options/counts.title
 #: pareto/ui[0][1].label
 msgid "Counts (optional)"
-msgstr ""
+msgstr "ספירות (רשות)"
 
 #: package.description
 msgid "Create elegant and interactive plots built on 'ggplot2'. The package is designed to provide a convenience layer to 'ggplot2' within jamovi."
 msgstr ""
+"יצירת תרשימים יפים ואינטראקטיביים הבנויים על ”ggplot2“. החבילה נוצרה כדי "
+"להוסיף שכבת נוחות ל”ggplot2“ בתוך jamovi."
 
 #: R/pareto.b.R
 msgid "Cumulative Percentage"
-msgstr ""
+msgstr "אחוז מצטבר"
 
 #: jmvline/options/mode.title
 msgid "Data display"
@@ -329,7 +336,7 @@ msgstr "עמודות שגיאה"
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
 msgid "Exploration"
-msgstr ""
+msgstr "סקירה"
 
 #: jmvbar/options/flipAxes.title
 #: jmvbox/options/flipAxes.title
@@ -680,7 +687,7 @@ msgstr "מינימום"
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup
 msgid "More"
-msgstr ""
+msgstr "עוד"
 
 #: jmvbar/options/errorBars/none.title
 #: jmvline/options/errorBars/none.title
@@ -705,7 +712,7 @@ msgstr "בחוץ"
 #: pareto/ui.title
 #: pareto/results.title
 msgid "Pareto Plot"
-msgstr ""
+msgstr "תרשים פארטו"
 
 #: jmvbar/ui[3].label
 #: jmvbox/ui[2].label
@@ -762,7 +769,7 @@ msgstr "כותרת התרשים"
 
 #: package.title
 msgid "Plots bundled with jamovi"
-msgstr ""
+msgstr "התרשימים מגיעים כחלק מ־jamovi"
 
 #: jmvline/ui[2][0][0][1].label
 msgid "Point"
@@ -850,7 +857,7 @@ msgstr "ימין"
 #: package/analyses/scat.menuSubgroup
 #: package/analyses/pareto.menuSubgroup
 msgid "scatr"
-msgstr ""
+msgstr "scatr"
 
 #: scat/ui[1][0][0][0].label
 msgid "Scatter"
