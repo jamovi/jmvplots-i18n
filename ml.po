@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-08-01 13:02+0000\n"
+"PO-Revision-Date: 2025-08-10 03:24+0000\n"
 "Last-Translator: \"Dr. Chinchu C.\" <chinchu.c@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "jmvplots-i18n/ml/>\n"
@@ -333,7 +333,7 @@ msgstr ""
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
 msgid "Exploration"
-msgstr ""
+msgstr "കണ്ടെത്തൽ"
 
 #: jmvbar/options/flipAxes.title
 #: jmvbox/options/flipAxes.title
