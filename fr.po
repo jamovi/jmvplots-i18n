@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-08-01 13:02+0000\n"
-"Last-Translator: Charly Marie <charly.marie.pro@gmail.com>\n"
+"PO-Revision-Date: 2025-08-12 11:01+0000\n"
+"Last-Translator: Simeon Tthhuueett <simeontthhuueett@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/jamovi/"
 "jmvplots-i18n/fr/>\n"
 "Language: fr\n"
@@ -115,7 +115,7 @@ msgstr ""
 #: scat/options/yAxisRangeType/auto.title
 #: scat/options/xAxisRangeType/auto.title
 msgid "Auto"
-msgstr ""
+msgstr "Auto"
 
 #: jmvbar/ui[4].label
 #: jmvbox/ui[3].label
@@ -239,7 +239,7 @@ msgstr "Intervalle de confiance"
 
 #: jmvbar/options/mode/continuous.title
 msgid "Continuous"
-msgstr ""
+msgstr "Continu"
 
 #: jmvbar/ui/mode/continuous[1].label
 msgid "Continuous Options"
