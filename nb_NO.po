@@ -1,12 +1,16 @@
 msgid ""
 msgstr ""
+"POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
+"PO-Revision-Date: 2025-09-09 05:02+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/jamovi/"
+"jmvplots-i18n/nb_NO/>\n"
+"Language: nb_NO\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2021-07-29 16:59:59+01000\n"
-"Language: nb_no\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.14-dev\n"
 
 #: R/jmvbar.b.R
 msgid "{var} (mean{error})"
@@ -141,7 +145,7 @@ msgstr ""
 
 #: jmvbar/ui[2][0][0][0].label
 msgid "Bar Type"
-msgstr ""
+msgstr "Stolpetype"
 
 #: jmvhist/options/binOpacity.title
 msgid "Bin opacity"
@@ -231,7 +235,7 @@ msgstr ""
 #: jmvbar/options/errorBars/ci.title
 #: jmvline/options/errorBars/ci.title
 msgid "Confidence interval"
-msgstr ""
+msgstr "Konfidensintervall"
 
 #: jmvbar/options/mode/continuous.title
 msgid "Continuous"
@@ -250,7 +254,7 @@ msgstr ""
 #: jmvbar/options/counts.title
 #: jmvbar/ui/mode/counts[0][0].label
 msgid "Counts"
-msgstr ""
+msgstr "Antall"
 
 #: pareto/options/counts.title
 #: pareto/ui[0][1].label
@@ -271,7 +275,7 @@ msgstr ""
 
 #: jmvhist/ui[1][0][0][2].label
 msgid "Density"
-msgstr ""
+msgstr "Tetthet"
 
 #: jmvhist/options/densityOpacity.title
 msgid "Density opacity"
@@ -329,7 +333,7 @@ msgstr ""
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
 msgid "Exploration"
-msgstr ""
+msgstr "Eksplorasjon"
 
 #: jmvbar/options/flipAxes.title
 #: jmvbox/options/flipAxes.title
@@ -657,7 +661,7 @@ msgstr ""
 
 #: jmvline/options/aggregateType/mean.title
 msgid "Mean"
-msgstr ""
+msgstr "Gjennomsnitt"
 
 #: jmvline/options/aggregateType/median.title
 msgid "Median"
@@ -793,11 +797,11 @@ msgstr ""
 #: scat/ui[3][0][0][1].label
 #: scat/ui[3][0][1][1].label
 msgid "Range"
-msgstr ""
+msgstr "Variasjonsbredde"
 
 #: scat/ui[1][0][0][1].label
 msgid "Regression Line"
-msgstr ""
+msgstr "Regresjonslinje"
 
 #: jmvbar/options/xAxisLabelFontSizeRevLabels.title
 #: jmvbox/options/xAxisLabelFontSizeRevLabels.title
@@ -850,7 +854,7 @@ msgstr ""
 #: package/analyses/scat.menuSubgroup
 #: package/analyses/pareto.menuSubgroup
 msgid "scatr"
-msgstr ""
+msgstr "scatr"
 
 #: scat/ui[1][0][0][0].label
 msgid "Scatter"
@@ -906,7 +910,7 @@ msgstr ""
 #: jmvline/options/errorBars/se.title
 #: scat/options/lineSE.title
 msgid "Standard error"
-msgstr ""
+msgstr "Standardfeil"
 
 #: R/jmvbar.b.R
 #: R/jmvbox.b.R
@@ -985,7 +989,7 @@ msgstr ""
 #: jmvhist/options/var.title
 #: jmvhist/ui[0][0].label
 msgid "Variable"
-msgstr ""
+msgstr "Variabel"
 
 #: jmvbar/options/mode.title
 msgid "Variable type"
@@ -1026,7 +1030,7 @@ msgstr ""
 #: scat/ui[0][0].label
 #: scat/ui[3][0][0][0].label
 msgid "X-Axis"
-msgstr ""
+msgstr "x-akse"
 
 #: jmvhist/options/xAxisRangeType.title
 #: scat/options/xAxisRangeType.title
@@ -1061,7 +1065,7 @@ msgstr ""
 #: scat/ui[0][1].label
 #: scat/ui[3][0][1][0].label
 msgid "Y-Axis"
-msgstr ""
+msgstr "y-akse"
 
 #: jmvbar/options/yAxisRangeType.title
 #: jmvbox/options/yAxisRangeType.title
