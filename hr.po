@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-09-12 10:01+0000\n"
+"PO-Revision-Date: 2025-09-12 16:45+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "jmvplots-i18n/hr/>\n"
@@ -184,7 +184,7 @@ msgstr ""
 #: jmvbox/ui.title
 #: jmvbox/results.title
 msgid "Box Plot"
-msgstr ""
+msgstr "Box dijagram"
 
 #: jmvbar/options/mode/categorical.title
 msgid "Categorical"
@@ -690,7 +690,7 @@ msgstr ""
 #: jmvbar/options/errorBars/none.title
 #: jmvline/options/errorBars/none.title
 msgid "None"
-msgstr ""
+msgstr "Ništa"
 
 #: jmvbox/options/notch.title
 msgid "Notch"
