@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-08-20 01:02+0000\n"
+"PO-Revision-Date: 2025-09-21 01:01+0000\n"
 "Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/jamovi/"
 "jmvplots-i18n/ja/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13\n"
+"X-Generator: Weblate 5.14-dev\n"
 
 #: R/jmvbar.b.R
 msgid "{var} (mean{error})"
@@ -687,7 +687,7 @@ msgstr "最小値"
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup
 msgid "More"
-msgstr ""
+msgstr "その他"
 
 #: jmvbar/options/errorBars/none.title
 #: jmvline/options/errorBars/none.title
@@ -857,7 +857,7 @@ msgstr "右"
 #: package/analyses/scat.menuSubgroup
 #: package/analyses/pareto.menuSubgroup
 msgid "scatr"
-msgstr ""
+msgstr "scatr"
 
 #: scat/ui[1][0][0][0].label
 msgid "Scatter"
