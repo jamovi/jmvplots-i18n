@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-09-22 12:01+0000\n"
+"PO-Revision-Date: 2025-09-25 11:01+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "jmvplots-i18n/hr/>\n"
@@ -266,7 +266,7 @@ msgstr "Brojevi (opcionalno)"
 msgid "Create elegant and interactive plots built on 'ggplot2'. The package is designed to provide a convenience layer to 'ggplot2' within jamovi."
 msgstr ""
 "Stvori elegantne i interaktivne dijagrame na temelju 'ggplot2'. Paket je "
-"osmišljen kao sloj pogodnosti za 'ggplot2' unutar aplikacije jamovi."
+"osmišljen da pruža sloj pogodnosti za 'ggplot2' unutar aplikacije jamovi."
 
 #: R/pareto.b.R
 msgid "Cumulative Percentage"
