@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-08-26 04:02+0000\n"
-"Last-Translator: kawasashock <kawasashock@users.noreply.hosted.weblate.org>\n"
+"PO-Revision-Date: 2025-10-06 20:19+0000\n"
+"Last-Translator: Hamza Yalçin <h.yalcin08@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/jamovi/"
 "jmvplots-i18n/tr/>\n"
 "Language: tr\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13\n"
+"X-Generator: Weblate 5.14-dev\n"
 
 #: R/jmvbar.b.R
 msgid "{var} (mean{error})"
@@ -19,7 +19,7 @@ msgstr "Hata"
 #: jmvbar/ui/mode/continuous[1][0][0][0]/yAxisRangeType_ci/ciWidth.suffix
 #: jmvline/ui/mode/aggregate[0][1][0]/yAxisRangeType_ci/ciWidth.suffix
 msgid "%"
-msgstr ""
+msgstr "%"
 
 #: jmvbar/ui[4][0][0][0]/xAxisLabelRotation.suffix
 #: jmvbar/ui[4][0][1][0]/yAxisLabelRotation.suffix
@@ -171,7 +171,7 @@ msgstr ""
 #: scat/options/legendPosition/bottom.title
 #: scat/options/legendJustification/bottom.title
 msgid "Bottom"
-msgstr ""
+msgstr "Alt"
 
 #: jmvbox/ui[1][0][0][0].label
 msgid "Box Element"
@@ -235,7 +235,7 @@ msgstr ""
 #: jmvbar/options/errorBars/ci.title
 #: jmvline/options/errorBars/ci.title
 msgid "Confidence interval"
-msgstr ""
+msgstr "Güven aralığı"
 
 #: jmvbar/options/mode/continuous.title
 msgid "Continuous"
@@ -299,7 +299,7 @@ msgstr ""
 #: jmvline/options/legendDirection.title
 #: scat/options/legendDirection.title
 msgid "Direction"
-msgstr ""
+msgstr "Yön"
 
 #: jmvline/options/groupPositionDodge.title
 msgid "Dodge width"
@@ -661,15 +661,15 @@ msgstr ""
 
 #: jmvline/options/aggregateType/mean.title
 msgid "Mean"
-msgstr ""
+msgstr "Ortalama"
 
 #: jmvline/options/aggregateType/median.title
 msgid "Median"
-msgstr ""
+msgstr "Medyan"
 
 #: scat/options/lineMethod.title
 msgid "Method"
-msgstr ""
+msgstr "Yöntem"
 
 #: jmvbar/options/yAxisRangeMin.title
 #: jmvbox/options/yAxisRangeMin.title
@@ -689,7 +689,7 @@ msgstr ""
 #: jmvbar/options/errorBars/none.title
 #: jmvline/options/errorBars/none.title
 msgid "None"
-msgstr ""
+msgstr "Hiçbiri"
 
 #: jmvbox/options/notch.title
 msgid "Notch"
@@ -849,7 +849,7 @@ msgstr ""
 #: scat/options/legendPosition/right.title
 #: scat/options/legendJustification/right.title
 msgid "Right"
-msgstr ""
+msgstr "Sağ"
 
 #: package/analyses/scat.menuSubgroup
 #: package/analyses/pareto.menuSubgroup
@@ -989,7 +989,7 @@ msgstr ""
 #: jmvhist/options/var.title
 #: jmvhist/ui[0][0].label
 msgid "Variable"
-msgstr ""
+msgstr "Değişken"
 
 #: jmvbar/options/mode.title
 msgid "Variable type"
