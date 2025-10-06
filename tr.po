@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-10-06 20:19+0000\n"
+"PO-Revision-Date: 2025-10-07 21:02+0000\n"
 "Last-Translator: Hamza Yalçin <h.yalcin08@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/jamovi/"
 "jmvplots-i18n/tr/>\n"
@@ -14,7 +14,7 @@ msgstr ""
 
 #: R/jmvbar.b.R
 msgid "{var} (mean{error})"
-msgstr "Hata"
+msgstr "{var} (ortalama{error})"
 
 #: jmvbar/ui/mode/continuous[1][0][0][0]/yAxisRangeType_ci/ciWidth.suffix
 #: jmvline/ui/mode/aggregate[0][1][0]/yAxisRangeType_ci/ciWidth.suffix
@@ -38,20 +38,20 @@ msgstr "°"
 
 #: pareto/results/plot.description
 msgid "a Pareto chart"
-msgstr ""
+msgstr "bir Pareto grafiği"
 
 #: jmvline/options/aggregateType.title
 #: jmvline/ui/mode/aggregate[0][0][0][0].label
 msgid "Aggregate"
-msgstr "Toplam"
+msgstr "Toplulaştır"
 
 #: jmvline/ui/mode/aggregate[0].label
 msgid "Aggregate Options"
-msgstr ""
+msgstr "Toplulaştırma Seçenekleri"
 
 #: jmvline/options/mode/aggregate.title
 msgid "Aggregated data"
-msgstr ""
+msgstr "Toplulaştırılmış veri"
 
 #: jmvbar/options/titleAlign.title
 #: jmvbar/options/subtitleAlign.title
@@ -84,27 +84,27 @@ msgstr ""
 #: scat/options/xLabelAlign.title
 #: scat/options/yLabelAlign.title
 msgid "Align"
-msgstr ""
+msgstr "Hizala"
 
 #: jmvbar/results/plot.description
 msgid "an image containing the bar plot"
-msgstr ""
+msgstr "çubuk grafiği içeren bir görsel"
 
 #: jmvbox/results/plot.description
 msgid "an image containing the box plot"
-msgstr ""
+msgstr "kutu grafiği içeren bir görsel"
 
 #: jmvhist/results/plot.description
 msgid "an image containing the histogram"
-msgstr ""
+msgstr "histogram içeren bir görsel"
 
 #: jmvline/results/plot.description
 msgid "an image containing the line plot"
-msgstr ""
+msgstr "çizgi grafiği içeren bir görsel"
 
 #: scat/results/plot.description
 msgid "an image containing the scatter plot"
-msgstr ""
+msgstr "saçılım grafiği içeren bir görsel"
 
 #: jmvbar/options/yAxisRangeType/auto.title
 #: jmvbox/options/yAxisRangeType/auto.title
@@ -115,7 +115,7 @@ msgstr ""
 #: scat/options/yAxisRangeType/auto.title
 #: scat/options/xAxisRangeType/auto.title
 msgid "Auto"
-msgstr ""
+msgstr "Otomatik"
 
 #: jmvbar/ui[4].label
 #: jmvbox/ui[3].label
@@ -124,12 +124,12 @@ msgstr ""
 #: pareto/ui[3].label
 #: scat/ui[3].label
 msgid "Axes"
-msgstr ""
+msgstr "Eksenler"
 
 #: jmvbar/ui[1][0][0][0].label
 #: pareto/ui[1][0][0][0].label
 msgid "Bar"
-msgstr ""
+msgstr "Çubuk"
 
 #: package/analyses/jmvbar.title
 #: package/analyses/jmvbar.menuTitle
@@ -137,28 +137,28 @@ msgstr ""
 #: jmvbar/ui.title
 #: jmvbar/results.title
 msgid "Bar Plot"
-msgstr ""
+msgstr "Çubuk Grafik"
 
 #: jmvbar/options/groupBarType.title
 msgid "Bar type"
-msgstr ""
+msgstr "Çubuk türü"
 
 #: jmvbar/ui[2][0][0][0].label
 msgid "Bar Type"
-msgstr ""
+msgstr "Çubuk Türü"
 
 #: jmvhist/options/binOpacity.title
 msgid "Bin opacity"
-msgstr ""
+msgstr "Sınıf opaklığı"
 
 #: jmvhist/options/binWidth.title
 msgid "Bin width"
-msgstr ""
+msgstr "Sınıf genişliği"
 
 #: jmvhist/options/binWidthType.title
 #: jmvhist/ui[1][0][0][0].label
 msgid "Bin Width"
-msgstr ""
+msgstr "Sınıf Genişliği"
 
 #: jmvbar/options/legendPosition/bottom.title
 #: jmvbar/options/legendJustification/bottom.title
@@ -175,7 +175,7 @@ msgstr "Alt"
 
 #: jmvbox/ui[1][0][0][0].label
 msgid "Box Element"
-msgstr ""
+msgstr "Kutu Öğesi"
 
 #: package/analyses/jmvbox.title
 #: package/analyses/jmvbox.menuTitle
@@ -183,16 +183,16 @@ msgstr ""
 #: jmvbox/ui.title
 #: jmvbox/results.title
 msgid "Box Plot"
-msgstr ""
+msgstr "Kutu Grafik"
 
 #: jmvbar/options/mode/categorical.title
 msgid "Categorical"
-msgstr ""
+msgstr "Kategorik"
 
 #: jmvbar/options/catvar.title
 #: jmvbar/ui/mode/categorical[0][0].label
 msgid "Categorical Variable"
-msgstr ""
+msgstr "Kategorik Değişken"
 
 #: jmvbar/options/titleAlign/center.title
 #: jmvbar/options/subtitleAlign/center.title
@@ -230,7 +230,7 @@ msgstr ""
 #: scat/options/yLabelAlign/center.title
 #: scat/options/legendJustification/center.title
 msgid "Center"
-msgstr ""
+msgstr "Merkez"
 
 #: jmvbar/options/errorBars/ci.title
 #: jmvline/options/errorBars/ci.title
@@ -239,59 +239,62 @@ msgstr "Güven aralığı"
 
 #: jmvbar/options/mode/continuous.title
 msgid "Continuous"
-msgstr ""
+msgstr "Sürekli"
 
 #: jmvbar/ui/mode/continuous[1].label
 msgid "Continuous Options"
-msgstr ""
+msgstr "Sürekli Seçenekler"
 
 #: jmvbar/options/convar.title
 #: jmvbar/ui/mode/continuous[0][0].label
 msgid "Continuous Variable"
-msgstr ""
+msgstr "Sürekli Değişken"
 
 #: jmvbar/options/mode/counts.title
 #: jmvbar/options/counts.title
 #: jmvbar/ui/mode/counts[0][0].label
 msgid "Counts"
-msgstr "Sayımlar"
+msgstr "Sayılar"
 
 #: pareto/options/counts.title
 #: pareto/ui[0][1].label
 msgid "Counts (optional)"
-msgstr ""
+msgstr "Sayılar (isteğe bağlı)"
 
 #: package.description
 msgid "Create elegant and interactive plots built on 'ggplot2'. The package is designed to provide a convenience layer to 'ggplot2' within jamovi."
 msgstr ""
+"'ggplot2' üzerine inşa edilmiş zarif ve etkileşimli grafikler oluşturun. Bu "
+"paket, jamovi içinde 'ggplot2' için bir kolaylık katmanı sağlamak üzere "
+"tasarlanmıştır."
 
 #: R/pareto.b.R
 msgid "Cumulative Percentage"
-msgstr ""
+msgstr "Kümülatif Yüzde"
 
 #: jmvline/options/mode.title
 msgid "Data display"
-msgstr ""
+msgstr "Veri görüntüleme"
 
 #: jmvhist/ui[1][0][0][2].label
 msgid "Density"
-msgstr ""
+msgstr "Yoğunluk"
 
 #: jmvhist/options/densityOpacity.title
 msgid "Density opacity"
-msgstr ""
+msgstr "Yoğunluk opaklığı"
 
 #: jmvline/options/groupColor.title
 msgid "Different colors"
-msgstr ""
+msgstr "Farklı renkler"
 
 #: jmvline/options/groupLineType.title
 msgid "Different line types"
-msgstr ""
+msgstr "Farklı çizgi türleri"
 
 #: jmvline/options/groupPointType.title
 msgid "Different point types"
-msgstr ""
+msgstr "Farklı nokta türleri"
 
 #: jmvbar/options/legendDirection.title
 #: jmvbox/options/legendDirection.title
@@ -303,32 +306,32 @@ msgstr "Yön"
 
 #: jmvline/options/groupPositionDodge.title
 msgid "Dodge width"
-msgstr ""
+msgstr "Kaçırma genişliği"
 
 #: jmvbar/options/errorBarSize.title
 #: jmvline/options/errorBarSize.title
 msgid "Error bar line size"
-msgstr ""
+msgstr "Hata çubuğu çizgi boyutu"
 
 #: jmvbar/ui/mode/continuous[1][1][0].label
 #: jmvline/ui/mode/aggregate[0][1][1].label
 msgid "Error Bar Styling"
-msgstr ""
+msgstr "Hata Çubuğu Stili"
 
 #: jmvbar/options/errorBarWidth.title
 #: jmvline/options/errorBarWidth.title
 msgid "Error bar width"
-msgstr ""
+msgstr "Hata çubuğu genişliği"
 
 #: jmvbar/options/errorBars.title
 #: jmvline/options/errorBars.title
 msgid "Error bars"
-msgstr ""
+msgstr "Hata çubukları"
 
 #: jmvbar/ui/mode/continuous[1][0][0][0].label
 #: jmvline/ui/mode/aggregate[0][1][0].label
 msgid "Error Bars"
-msgstr ""
+msgstr "Hata Çubukları"
 
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
@@ -341,7 +344,7 @@ msgstr "Keşif"
 #: jmvline/options/flipAxes.title
 #: scat/options/flipAxes.title
 msgid "Flip axes"
-msgstr ""
+msgstr "Eksenleri çevir"
 
 #: jmvbar/options/titleFontSize.title
 #: jmvbar/options/subtitleFontSize.title
@@ -374,13 +377,13 @@ msgstr ""
 #: scat/options/xLabelFontSize.title
 #: scat/options/yLabelFontSize.title
 msgid "Font size"
-msgstr ""
+msgstr "Yazı boyutu"
 
 #: R/jmvbar.b.R
 #: R/jmvhist.b.R
 #: R/pareto.b.R
 msgid "Frequency (N)"
-msgstr ""
+msgstr "Frekans (N)"
 
 #: jmvbar/ui[1].label
 #: jmvbox/ui[1].label
@@ -389,16 +392,16 @@ msgstr ""
 #: pareto/ui[1].label
 #: scat/ui[1].label
 msgid "General Options"
-msgstr ""
+msgstr "Genel Seçenekler"
 
 #: jmvbar/ui[2].label
 #: jmvline/ui[3].label
 msgid "Group Options"
-msgstr ""
+msgstr "Grup Seçenekleri"
 
 #: jmvbar/options/groupBarType/grouped.title
 msgid "Grouped"
-msgstr ""
+msgstr "Gruplanmış"
 
 #: jmvbar/options/catgroup.title
 #: jmvbar/options/countsgroup.title
@@ -418,14 +421,14 @@ msgstr "Gruplama Değişkeni"
 #: jmvbox/options/group1.title
 #: jmvbox/ui[0][1].label
 msgid "Grouping Variable 1"
-msgstr ""
+msgstr "Gruplama Değişkeni 1"
 
 #: jmvbar/options/congroup2.title
 #: jmvbar/ui/mode/continuous[0][2].label
 #: jmvbox/options/group2.title
 #: jmvbox/ui[0][2].label
 msgid "Grouping Variable 2"
-msgstr ""
+msgstr "Gruplama Değişkeni 2"
 
 #: jmvbar/options/height.title
 #: jmvbox/options/height.title
@@ -434,7 +437,7 @@ msgstr ""
 #: pareto/options/height.title
 #: scat/options/height.title
 msgid "Height"
-msgstr ""
+msgstr "Yükseklik"
 
 #: jmvbar/options/legenPositionType/hide.title
 #: jmvbox/options/legenPositionType/hide.title
@@ -442,7 +445,7 @@ msgstr ""
 #: jmvline/options/legenPositionType/hide.title
 #: scat/options/legenPositionType/hide.title
 msgid "Hide"
-msgstr ""
+msgstr "Gizle"
 
 #: package/analyses/jmvhist.title
 #: package/analyses/jmvhist.menuTitle
@@ -451,7 +454,7 @@ msgstr ""
 #: jmvhist/ui[1][0][0][1].label
 #: jmvhist/results.title
 msgid "Histogram"
-msgstr ""
+msgstr "Histogram"
 
 #: jmvbar/options/legendDirection/horizontal.title
 #: jmvbox/options/legendDirection/horizontal.title
@@ -459,11 +462,11 @@ msgstr ""
 #: jmvline/options/legendDirection/horizontal.title
 #: scat/options/legendDirection/horizontal.title
 msgid "Horizontal"
-msgstr ""
+msgstr "Yatay"
 
 #: jmvline/options/mode/individual.title
 msgid "Individual points"
-msgstr ""
+msgstr "Bireysel noktalar"
 
 #: jmvbar/options/legenPositionType/inside.title
 #: jmvbox/options/legenPositionType/inside.title
@@ -471,7 +474,7 @@ msgstr ""
 #: jmvline/options/legenPositionType/inside.title
 #: scat/options/legenPositionType/inside.title
 msgid "Inside"
-msgstr ""
+msgstr "İçeride"
 
 #: jmvbar/options/legendJustification.title
 #: jmvbox/options/legendJustification.title
@@ -479,7 +482,7 @@ msgstr ""
 #: jmvline/options/legendJustification.title
 #: scat/options/legendJustification.title
 msgid "Justification"
-msgstr ""
+msgstr "Konumlandırma"
 
 #: jmvbar/options/legendKeyHeight.title
 #: jmvbox/options/legendKeyHeight.title
@@ -487,7 +490,7 @@ msgstr ""
 #: jmvline/options/legendKeyHeight.title
 #: scat/options/legendKeyHeight.title
 msgid "Key height"
-msgstr ""
+msgstr "Anahtar yüksekliği"
 
 #: jmvbar/options/legendKeyWidth.title
 #: jmvbox/options/legendKeyWidth.title
@@ -495,7 +498,7 @@ msgstr ""
 #: jmvline/options/legendKeyWidth.title
 #: scat/options/legendKeyWidth.title
 msgid "Key width"
-msgstr ""
+msgstr "Anahtar genişliği"
 
 #: jmvbar/options/yAxisLabelFontSize.title
 #: jmvbar/options/xAxisLabelFontSize.title
@@ -515,7 +518,7 @@ msgstr ""
 #: scat/options/xAxisLabelFontSize.title
 #: scat/options/legendLabelFontSize.title
 msgid "Label font size"
-msgstr ""
+msgstr "Etiket yazı boyutu"
 
 #: jmvbar/options/yAxisLabelRotation.title
 #: jmvbar/options/xAxisLabelRotation.title
@@ -530,12 +533,12 @@ msgstr ""
 #: scat/options/yAxisLabelRotation.title
 #: scat/options/xAxisLabelRotation.title
 msgid "Label rotation"
-msgstr ""
+msgstr "Etiket döndürme"
 
 #: jmvbar/options/countsLabels.title
 #: jmvbar/ui/mode/counts[0][1].label
 msgid "Labels"
-msgstr ""
+msgstr "Etiketler"
 
 #: jmvbar/options/titleAlign/left.title
 #: jmvbar/options/subtitleAlign/left.title
@@ -578,7 +581,7 @@ msgstr ""
 #: scat/options/legendPosition/left.title
 #: scat/options/legendJustification/left.title
 msgid "Left"
-msgstr ""
+msgstr "Sol"
 
 #: jmvbar/ui[5].label
 #: jmvbox/ui[4].label
@@ -586,7 +589,7 @@ msgstr ""
 #: jmvline/ui[6].label
 #: scat/ui[4].label
 msgid "Legend"
-msgstr ""
+msgstr "Gösterge"
 
 #: jmvbar/ui[5][0][1][0].label
 #: jmvbox/ui[4][0][1][0].label
@@ -594,7 +597,7 @@ msgstr ""
 #: jmvline/ui[6][0][1][0].label
 #: scat/ui[4][0][1][0].label
 msgid "Legend Position"
-msgstr ""
+msgstr "Gösterge Konumu"
 
 #: jmvbar/ui[5][0][0][1].label
 #: jmvbox/ui[4][0][0][1].label
@@ -602,7 +605,7 @@ msgstr ""
 #: jmvline/ui[6][0][0][1].label
 #: scat/ui[4][0][0][1].label
 msgid "Legend Style"
-msgstr ""
+msgstr "Gösterge Stili"
 
 #: jmvbar/ui[5][0][0][0].label
 #: jmvbox/ui[4][0][0][0].label
@@ -610,15 +613,15 @@ msgstr ""
 #: jmvline/ui[6][0][0][0].label
 #: scat/ui[4][0][0][0].label
 msgid "Legend Title"
-msgstr ""
+msgstr "Gösterge Başlığı"
 
 #: jmvline/ui[2][0][0][0].label
 msgid "Line"
-msgstr ""
+msgstr "Çizgi"
 
 #: jmvline/ui[3][0][0][0].label
 msgid "Line & Point Style"
-msgstr ""
+msgstr "Çizgi ve Nokta Stili"
 
 #: package/analyses/jmvline.title
 #: package/analyses/jmvline.menuTitle
@@ -626,17 +629,17 @@ msgstr ""
 #: jmvline/ui.title
 #: jmvline/results.title
 msgid "Line Plot"
-msgstr ""
+msgstr "Çizgi Grafik"
 
 #: jmvhist/options/lineSize.title
 #: jmvhist/options/densityLineSize.title
 #: jmvline/options/lineSize.title
 msgid "Line size"
-msgstr ""
+msgstr "Çizgi boyutu"
 
 #: scat/options/lineMethod/lm.title
 msgid "Linear"
-msgstr ""
+msgstr "Doğrusal"
 
 #: jmvbar/options/yAxisRangeType/manual.title
 #: jmvbox/options/yAxisRangeType/manual.title
@@ -647,7 +650,7 @@ msgstr ""
 #: scat/options/yAxisRangeType/manual.title
 #: scat/options/xAxisRangeType/manual.title
 msgid "Manual"
-msgstr ""
+msgstr "Manuel"
 
 #: jmvbar/options/yAxisRangeMax.title
 #: jmvbox/options/yAxisRangeMax.title
@@ -657,7 +660,7 @@ msgstr ""
 #: scat/options/yAxisRangeMax.title
 #: scat/options/xAxisRangeMax.title
 msgid "Max"
-msgstr ""
+msgstr "Maks"
 
 #: jmvline/options/aggregateType/mean.title
 msgid "Mean"
@@ -679,12 +682,12 @@ msgstr "Yöntem"
 #: scat/options/yAxisRangeMin.title
 #: scat/options/xAxisRangeMin.title
 msgid "Min"
-msgstr ""
+msgstr "Min"
 
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup
 msgid "More"
-msgstr ""
+msgstr "Daha Fazla"
 
 #: jmvbar/options/errorBars/none.title
 #: jmvline/options/errorBars/none.title
@@ -693,7 +696,7 @@ msgstr "Hiçbiri"
 
 #: jmvbox/options/notch.title
 msgid "Notch"
-msgstr ""
+msgstr "Çentik"
 
 #: jmvbar/options/legenPositionType/outside.title
 #: jmvbox/options/legenPositionType/outside.title
@@ -701,7 +704,7 @@ msgstr ""
 #: jmvline/options/legenPositionType/outside.title
 #: scat/options/legenPositionType/outside.title
 msgid "Outside"
-msgstr ""
+msgstr "Dışarıda"
 
 #: package/analyses/pareto.title
 #: package/analyses/pareto.menuTitle
@@ -709,7 +712,7 @@ msgstr ""
 #: pareto/ui.title
 #: pareto/results.title
 msgid "Pareto Plot"
-msgstr ""
+msgstr "Pareto Grafiği"
 
 #: jmvbar/ui[3].label
 #: jmvbox/ui[2].label
@@ -718,7 +721,7 @@ msgstr ""
 #: pareto/ui[2].label
 #: scat/ui[2].label
 msgid "Plot & Axis Titles"
-msgstr ""
+msgstr "Grafik ve Eksen Başlıkları"
 
 #: jmvbar/options/titleType/caption.title
 #: jmvbox/options/titleType/caption.title
@@ -727,7 +730,7 @@ msgstr ""
 #: pareto/options/titleType/caption.title
 #: scat/options/titleType/caption.title
 msgid "Plot Caption"
-msgstr ""
+msgstr "Grafik Açıklaması"
 
 #: jmvbar/ui[1][0][1][1].label
 #: jmvbox/ui[1][0][1][1].label
@@ -735,7 +738,7 @@ msgstr ""
 #: jmvline/ui[2][0][1][1].label
 #: scat/ui[1][0][1][1].label
 msgid "Plot Orientation"
-msgstr ""
+msgstr "Grafik Yönlendirmesi"
 
 #: jmvbar/ui[1][0][1][0].label
 #: jmvbox/ui[1][0][1][0].label
@@ -744,7 +747,7 @@ msgstr ""
 #: pareto/ui[1][0][1][0].label
 #: scat/ui[1][0][1][0].label
 msgid "Plot Size"
-msgstr ""
+msgstr "Grafik Boyutu"
 
 #: jmvbar/options/titleType/subtitle.title
 #: jmvbox/options/titleType/subtitle.title
@@ -753,7 +756,7 @@ msgstr ""
 #: pareto/options/titleType/subtitle.title
 #: scat/options/titleType/subtitle.title
 msgid "Plot Subtitle"
-msgstr ""
+msgstr "Grafik Alt Başlığı"
 
 #: jmvbar/options/titleType/title.title
 #: jmvbox/options/titleType/title.title
@@ -762,24 +765,24 @@ msgstr ""
 #: pareto/options/titleType/title.title
 #: scat/options/titleType/title.title
 msgid "Plot Title"
-msgstr ""
+msgstr "Grafik Başlığı"
 
 #: package.title
 msgid "Plots bundled with jamovi"
-msgstr ""
+msgstr "jamovi ile birlikte gelen grafikler"
 
 #: jmvline/ui[2][0][0][1].label
 msgid "Point"
-msgstr ""
+msgstr "Nokta"
 
 #: jmvline/ui[3][0][1][0].label
 msgid "Point Dodging"
-msgstr ""
+msgstr "Nokta Kaçırma"
 
 #: jmvline/options/pointSize.title
 #: scat/options/pointSize.title
 msgid "Point size"
-msgstr ""
+msgstr "Nokta boyutu"
 
 #: jmvbar/options/legendPosition.title
 #: jmvbox/options/legendPosition.title
@@ -787,7 +790,7 @@ msgstr ""
 #: jmvline/options/legendPosition.title
 #: scat/options/legendPosition.title
 msgid "Position"
-msgstr ""
+msgstr "Konum"
 
 #: jmvbar/ui[4][0][1][1].label
 #: jmvbox/ui[3][0][1][1].label
@@ -797,16 +800,16 @@ msgstr ""
 #: scat/ui[3][0][0][1].label
 #: scat/ui[3][0][1][1].label
 msgid "Range"
-msgstr ""
+msgstr "Aralık"
 
 #: scat/ui[1][0][0][1].label
 msgid "Regression Line"
-msgstr ""
+msgstr "Regresyon Çizgisi"
 
 #: jmvbar/options/xAxisLabelFontSizeRevLabels.title
 #: jmvbox/options/xAxisLabelFontSizeRevLabels.title
 msgid "Reverse labels"
-msgstr ""
+msgstr "Etiketleri ters çevir"
 
 #: jmvbar/options/titleAlign/right.title
 #: jmvbar/options/subtitleAlign/right.title
@@ -854,11 +857,11 @@ msgstr "Sağ"
 #: package/analyses/scat.menuSubgroup
 #: package/analyses/pareto.menuSubgroup
 msgid "scatr"
-msgstr ""
+msgstr "scatr"
 
 #: scat/ui[1][0][0][0].label
 msgid "Scatter"
-msgstr ""
+msgstr "Saçılım"
 
 #: package/analyses/scat.title
 #: package/analyses/scat.menuTitle
@@ -866,51 +869,51 @@ msgstr ""
 #: scat/ui.title
 #: scat/results.title
 msgid "Scatter Plot"
-msgstr ""
+msgstr "Saçılım Grafiği"
 
 #: jmvhist/options/bins.title
 msgid "Show bins"
-msgstr ""
+msgstr "Sınıfları göster"
 
 #: jmvhist/options/density.title
 msgid "Show density"
-msgstr ""
+msgstr "Yoğunluğu göster"
 
 #: jmvhist/options/line.title
 #: scat/options/regLine.title
 msgid "Show line"
-msgstr ""
+msgstr "Çizgiyi göster"
 
 #: jmvline/options/line.title
 msgid "Show lines"
-msgstr ""
+msgstr "Çizgileri göster"
 
 #: jmvbox/options/outliers.title
 msgid "Show outliers"
-msgstr ""
+msgstr "Aykırı değerleri göster"
 
 #: jmvline/options/point.title
 msgid "Show points"
-msgstr ""
+msgstr "Noktaları göster"
 
 #: scat/options/lineMethod/loess.title
 msgid "Smooth"
-msgstr ""
+msgstr "Düzgün"
 
 #: jmvbar/options/groupBarType/stacked.title
 msgid "Stacked"
-msgstr ""
+msgstr "Yığılmış"
 
 #: jmvbar/options/errorBars/sd.title
 #: jmvline/options/errorBars/sd.title
 msgid "Standard deviation"
-msgstr ""
+msgstr "Standart sapma"
 
 #: jmvbar/options/errorBars/se.title
 #: jmvline/options/errorBars/se.title
 #: scat/options/lineSE.title
 msgid "Standard error"
-msgstr ""
+msgstr "Standart hata"
 
 #: R/jmvbar.b.R
 #: R/jmvbox.b.R
@@ -919,7 +922,7 @@ msgstr ""
 #: R/pareto.b.R
 #: R/scat.b.R
 msgid "Syntax mode for plots is not yet available."
-msgstr ""
+msgstr "Grafikler için sözdizimi modu henüz mevcut değil."
 
 #: jmvbar/options/legendTitleFontSize.title
 #: jmvbox/options/legendTitleFontSize.title
@@ -927,7 +930,7 @@ msgstr ""
 #: jmvline/options/legendTitleFontSize.title
 #: scat/options/legendTitleFontSize.title
 msgid "Title font size"
-msgstr ""
+msgstr "Başlık yazı boyutu"
 
 #: jmvbar/options/title.title
 #: jmvbar/options/subtitle.title
@@ -965,7 +968,7 @@ msgstr ""
 #: scat/options/yLabel.title
 #: scat/options/legendTitle.title
 msgid "Title text"
-msgstr ""
+msgstr "Başlık metni"
 
 #: jmvbar/options/legendPosition/top.title
 #: jmvbar/options/legendJustification/top.title
@@ -978,11 +981,11 @@ msgstr ""
 #: scat/options/legendPosition/top.title
 #: scat/options/legendJustification/top.title
 msgid "Top"
-msgstr ""
+msgstr "Üst"
 
 #: jmvbar/options/valueLabels.title
 msgid "Value labels"
-msgstr ""
+msgstr "Değer etiketleri"
 
 #: jmvbox/options/var.title
 #: jmvbox/ui[0][0].label
@@ -993,7 +996,7 @@ msgstr "Değişken"
 
 #: jmvbar/options/mode.title
 msgid "Variable type"
-msgstr ""
+msgstr "Değişken türü"
 
 #: jmvbar/options/legendDirection/vertical.title
 #: jmvbox/options/legendDirection/vertical.title
@@ -1001,7 +1004,7 @@ msgstr ""
 #: jmvline/options/legendDirection/vertical.title
 #: scat/options/legendDirection/vertical.title
 msgid "Vertical"
-msgstr ""
+msgstr "Dikey"
 
 #: jmvbar/options/barWidth.title
 #: jmvbar/options/width.title
@@ -1015,7 +1018,7 @@ msgstr ""
 #: pareto/options/width.title
 #: scat/options/width.title
 msgid "Width"
-msgstr ""
+msgstr "Genişlik"
 
 #: jmvbar/ui[4][0][0][0].label
 #: jmvbox/ui[3][0][0][0].label
@@ -1030,12 +1033,12 @@ msgstr ""
 #: scat/ui[0][0].label
 #: scat/ui[3][0][0][0].label
 msgid "X-Axis"
-msgstr ""
+msgstr "X-Ekseni"
 
 #: jmvhist/options/xAxisRangeType.title
 #: scat/options/xAxisRangeType.title
 msgid "X-Axis Range"
-msgstr ""
+msgstr "X-Ekseni Aralığı"
 
 #: jmvbar/options/titleType/xTitle.title
 #: jmvbox/options/titleType/xTitle.title
@@ -1044,7 +1047,7 @@ msgstr ""
 #: pareto/options/titleType/xTitle.title
 #: scat/options/titleType/xTitle.title
 msgid "X-Axis Title"
-msgstr ""
+msgstr "X-Ekseni Başlığı"
 
 #: jmvbar/options/legendPositionX.title
 #: jmvbox/options/legendPositionX.title
@@ -1052,7 +1055,7 @@ msgstr ""
 #: jmvline/options/legendPositionX.title
 #: scat/options/legendPositionX.title
 msgid "X-position"
-msgstr ""
+msgstr "X-konumu"
 
 #: jmvbar/ui[4][0][1][0].label
 #: jmvbox/ui[3][0][1][0].label
@@ -1065,7 +1068,7 @@ msgstr ""
 #: scat/ui[0][1].label
 #: scat/ui[3][0][1][0].label
 msgid "Y-Axis"
-msgstr ""
+msgstr "Y-Ekseni"
 
 #: jmvbar/options/yAxisRangeType.title
 #: jmvbox/options/yAxisRangeType.title
@@ -1073,7 +1076,7 @@ msgstr ""
 #: jmvline/options/yAxisRangeType.title
 #: scat/options/yAxisRangeType.title
 msgid "Y-Axis Range"
-msgstr ""
+msgstr "Y-Ekseni Aralığı"
 
 #: jmvbar/options/titleType/yTitle.title
 #: jmvbox/options/titleType/yTitle.title
@@ -1082,7 +1085,7 @@ msgstr ""
 #: pareto/options/titleType/yTitle.title
 #: scat/options/titleType/yTitle.title
 msgid "Y-Axis Title"
-msgstr ""
+msgstr "Y-Ekseni Başlığı"
 
 #: jmvbar/options/legendPositionY.title
 #: jmvbox/options/legendPositionY.title
@@ -1090,4 +1093,4 @@ msgstr ""
 #: jmvline/options/legendPositionY.title
 #: scat/options/legendPositionY.title
 msgid "Y-position"
-msgstr ""
+msgstr "Y-konumu"
