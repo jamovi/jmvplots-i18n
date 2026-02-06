@@ -1,17 +1,17 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-09-12 10:01+0000\n"
+"PO-Revision-Date: 2026-02-07 00:01+0000\n"
 "Last-Translator: Yuri Smolyakov <smolyakov@rambler.ru>\n"
-"Language-Team: Russian <https://hosted.weblate.org/projects/jamovi/"
-"jmvplots-i18n/ru/>\n"
+"Language-Team: Russian <https://hosted.weblate.org/projects/jamovi/jmvplots-"
+"i18n/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.14-dev\n"
+"X-Generator: Weblate 5.16-dev\n"
 
 #: R/jmvbar.b.R
 msgid "{var} (mean{error})"
@@ -138,7 +138,7 @@ msgstr "Столбик"
 #: jmvbar/ui.title
 #: jmvbar/results.title
 msgid "Bar Plot"
-msgstr "Столбиковый"
+msgstr "Столбиковый График"
 
 #: jmvbar/options/groupBarType.title
 msgid "Bar type"
@@ -146,7 +146,7 @@ msgstr "Тип столбика"
 
 #: jmvbar/ui[2][0][0][0].label
 msgid "Bar Type"
-msgstr "Тип Столбика"
+msgstr "Тип бара"
 
 #: jmvhist/options/binOpacity.title
 msgid "Bin opacity"
@@ -172,7 +172,7 @@ msgstr "Ширина бина"
 #: scat/options/legendPosition/bottom.title
 #: scat/options/legendJustification/bottom.title
 msgid "Bottom"
-msgstr "Внизу"
+msgstr "Нижний"
 
 #: jmvbox/ui[1][0][0][0].label
 msgid "Box Element"
@@ -184,11 +184,11 @@ msgstr "Элемент ящика"
 #: jmvbox/ui.title
 #: jmvbox/results.title
 msgid "Box Plot"
-msgstr "Ящик с усами"
+msgstr "Коробочный график"
 
 #: jmvbar/options/mode/categorical.title
 msgid "Categorical"
-msgstr "Категориальная"
+msgstr "Категорический"
 
 #: jmvbar/options/catvar.title
 #: jmvbar/ui/mode/categorical[0][0].label
@@ -240,7 +240,7 @@ msgstr "Доверительный интервал"
 
 #: jmvbar/options/mode/continuous.title
 msgid "Continuous"
-msgstr "Непрерывная"
+msgstr "Непрерывный"
 
 #: jmvbar/ui/mode/continuous[1].label
 msgid "Continuous Options"
@@ -255,12 +255,12 @@ msgstr "Непрерывная переменная"
 #: jmvbar/options/counts.title
 #: jmvbar/ui/mode/counts[0][0].label
 msgid "Counts"
-msgstr "Счетчики"
+msgstr "имеет значение"
 
 #: pareto/options/counts.title
 #: pareto/ui[0][1].label
 msgid "Counts (optional)"
-msgstr "Счетчики (дополнительно)"
+msgstr "Счетчики (необязательно)"
 
 #: package.description
 msgid "Create elegant and interactive plots built on 'ggplot2'. The package is designed to provide a convenience layer to 'ggplot2' within jamovi."
@@ -283,7 +283,7 @@ msgstr "Плотность"
 
 #: jmvhist/options/densityOpacity.title
 msgid "Density opacity"
-msgstr "Плотность прозрачности"
+msgstr "Плотность непрозрачности"
 
 #: jmvline/options/groupColor.title
 msgid "Different colors"
@@ -402,7 +402,7 @@ msgstr "Параметры группы"
 
 #: jmvbar/options/groupBarType/grouped.title
 msgid "Grouped"
-msgstr "Сгруппированные"
+msgstr "Сгруппировано"
 
 #: jmvbar/options/catgroup.title
 #: jmvbar/options/countsgroup.title
@@ -519,7 +519,7 @@ msgstr "Ширина ключа"
 #: scat/options/xAxisLabelFontSize.title
 #: scat/options/legendLabelFontSize.title
 msgid "Label font size"
-msgstr "Размер шрифта меток"
+msgstr "Размер шрифта этикетки"
 
 #: jmvbar/options/yAxisLabelRotation.title
 #: jmvbar/options/xAxisLabelRotation.title
@@ -534,12 +534,12 @@ msgstr "Размер шрифта меток"
 #: scat/options/yAxisLabelRotation.title
 #: scat/options/xAxisLabelRotation.title
 msgid "Label rotation"
-msgstr "Вращение меток"
+msgstr "Ротация меток"
 
 #: jmvbar/options/countsLabels.title
 #: jmvbar/ui/mode/counts[0][1].label
 msgid "Labels"
-msgstr "Метки"
+msgstr "Этикетки"
 
 #: jmvbar/options/titleAlign/left.title
 #: jmvbar/options/subtitleAlign/left.title
@@ -614,7 +614,7 @@ msgstr "Стиль легенды"
 #: jmvline/ui[6][0][0][0].label
 #: scat/ui[4][0][0][0].label
 msgid "Legend Title"
-msgstr "Заголовок легенды"
+msgstr "Название легенды"
 
 #: jmvline/ui[2][0][0][0].label
 msgid "Line"
@@ -636,7 +636,7 @@ msgstr "Линейный"
 #: jmvhist/options/densityLineSize.title
 #: jmvline/options/lineSize.title
 msgid "Line size"
-msgstr "Толщина линии"
+msgstr "Размер линии"
 
 #: scat/options/lineMethod/lm.title
 msgid "Linear"
@@ -651,7 +651,7 @@ msgstr "Линейный"
 #: scat/options/yAxisRangeType/manual.title
 #: scat/options/xAxisRangeType/manual.title
 msgid "Manual"
-msgstr "Ручной"
+msgstr "Руководство"
 
 #: jmvbar/options/yAxisRangeMax.title
 #: jmvbox/options/yAxisRangeMax.title
@@ -665,11 +665,11 @@ msgstr "Макс"
 
 #: jmvline/options/aggregateType/mean.title
 msgid "Mean"
-msgstr "Среднее"
+msgstr "Иметь в виду"
 
 #: jmvline/options/aggregateType/median.title
 msgid "Median"
-msgstr "Медиана"
+msgstr "медиана"
 
 #: scat/options/lineMethod.title
 msgid "Method"
@@ -693,7 +693,7 @@ msgstr "Другие"
 #: jmvbar/options/errorBars/none.title
 #: jmvline/options/errorBars/none.title
 msgid "None"
-msgstr "Нет"
+msgstr "Никто"
 
 #: jmvbox/options/notch.title
 msgid "Notch"
@@ -748,7 +748,7 @@ msgstr "Ориентация графика"
 #: pareto/ui[1][0][1][0].label
 #: scat/ui[1][0][1][0].label
 msgid "Plot Size"
-msgstr "Размер графика"
+msgstr "Размер участка"
 
 #: jmvbar/options/titleType/subtitle.title
 #: jmvbox/options/titleType/subtitle.title
@@ -774,7 +774,7 @@ msgstr "Графики в комплекте с Jamovi"
 
 #: jmvline/ui[2][0][0][1].label
 msgid "Point"
-msgstr "Точка"
+msgstr "Пункт"
 
 #: jmvline/ui[3][0][1][0].label
 msgid "Point Dodging"
@@ -791,7 +791,7 @@ msgstr "Размер точки"
 #: jmvline/options/legendPosition.title
 #: scat/options/legendPosition.title
 msgid "Position"
-msgstr "Расположение"
+msgstr "Позиция"
 
 #: jmvbar/ui[4][0][1][1].label
 #: jmvbox/ui[3][0][1][1].label
@@ -853,7 +853,7 @@ msgstr "Обратные маркеры"
 #: scat/options/legendPosition/right.title
 #: scat/options/legendJustification/right.title
 msgid "Right"
-msgstr "Справа"
+msgstr "Верно"
 
 #: package/analyses/scat.menuSubgroup
 #: package/analyses/pareto.menuSubgroup
@@ -870,7 +870,7 @@ msgstr "Рассеяние"
 #: scat/ui.title
 #: scat/results.title
 msgid "Scatter Plot"
-msgstr "Рассеяния"
+msgstr "Диаграмма рассеяния"
 
 #: jmvhist/options/bins.title
 msgid "Show bins"
@@ -899,7 +899,7 @@ msgstr "Показать точки"
 
 #: scat/options/lineMethod/loess.title
 msgid "Smooth"
-msgstr "Сгладить"
+msgstr "Гладкий"
 
 #: jmvbar/options/groupBarType/stacked.title
 msgid "Stacked"
