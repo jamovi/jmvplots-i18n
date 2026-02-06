@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-01-05 13:01+0000\n"
+"PO-Revision-Date: 2026-02-07 00:01+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/jmvplots-"
 "i18n/hr/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Weblate 5.16-dev\n"
 
 #: R/jmvbar.b.R
 msgid "{var} (mean{error})"
@@ -85,7 +85,7 @@ msgstr "Zbrojeni podaci"
 #: scat/options/xLabelAlign.title
 #: scat/options/yLabelAlign.title
 msgid "Align"
-msgstr "Poravnaj"
+msgstr "Poravnanje"
 
 #: jmvbar/results/plot.description
 msgid "an image containing the bar plot"
@@ -146,7 +146,7 @@ msgstr "Vrsta stupaca"
 
 #: jmvbar/ui[2][0][0][0].label
 msgid "Bar Type"
-msgstr "Vrsta stupaca"
+msgstr "Vrsta stupca"
 
 #: jmvhist/options/binOpacity.title
 msgid "Bin opacity"
@@ -184,11 +184,11 @@ msgstr "Box element"
 #: jmvbox/ui.title
 #: jmvbox/results.title
 msgid "Box Plot"
-msgstr "Box dijagram"
+msgstr "Boxplot dijagram"
 
 #: jmvbar/options/mode/categorical.title
 msgid "Categorical"
-msgstr "Kategorično"
+msgstr "Kategorički"
 
 #: jmvbar/options/catvar.title
 #: jmvbar/ui/mode/categorical[0][0].label
@@ -240,7 +240,7 @@ msgstr "Interval pouzdanosti"
 
 #: jmvbar/options/mode/continuous.title
 msgid "Continuous"
-msgstr "Kontinuirano"
+msgstr "Neprekidno"
 
 #: jmvbar/ui/mode/continuous[1].label
 msgid "Continuous Options"
@@ -255,12 +255,12 @@ msgstr "Kontinuirana varijabla"
 #: jmvbar/options/counts.title
 #: jmvbar/ui/mode/counts[0][0].label
 msgid "Counts"
-msgstr "Brojevi"
+msgstr "Brojanja"
 
 #: pareto/options/counts.title
 #: pareto/ui[0][1].label
 msgid "Counts (optional)"
-msgstr "Brojevi (opcionalno)"
+msgstr "Brojanja (opcionalno)"
 
 #: package.description
 msgid "Create elegant and interactive plots built on 'ggplot2'. The package is designed to provide a convenience layer to 'ggplot2' within jamovi."
@@ -282,7 +282,7 @@ msgstr "Gustoća"
 
 #: jmvhist/options/densityOpacity.title
 msgid "Density opacity"
-msgstr "Neprozirnost gustoće"
+msgstr "Neprozirnosti gustoće"
 
 #: jmvline/options/groupColor.title
 msgid "Different colors"
@@ -414,7 +414,7 @@ msgstr "Grupirano"
 #: scat/options/group.title
 #: scat/ui[0][2].label
 msgid "Grouping Variable"
-msgstr "Vrijabla grupiranja"
+msgstr "Varijabla grupiranja"
 
 #: jmvbar/options/congroup1.title
 #: jmvbar/ui/mode/continuous[0][1].label
@@ -533,7 +533,7 @@ msgstr "Veličina fonta oznake"
 #: scat/options/yAxisLabelRotation.title
 #: scat/options/xAxisLabelRotation.title
 msgid "Label rotation"
-msgstr "Okretanje oznake"
+msgstr "Okret oznake"
 
 #: jmvbar/options/countsLabels.title
 #: jmvbar/ui/mode/counts[0][1].label
@@ -635,7 +635,7 @@ msgstr "Linijski dijagram"
 #: jmvhist/options/densityLineSize.title
 #: jmvline/options/lineSize.title
 msgid "Line size"
-msgstr "Debljina linije"
+msgstr "Veličina linije"
 
 #: scat/options/lineMethod/lm.title
 msgid "Linear"
@@ -782,7 +782,7 @@ msgstr "Razmicanje točaka"
 #: jmvline/options/pointSize.title
 #: scat/options/pointSize.title
 msgid "Point size"
-msgstr "Veličina točaka"
+msgstr "Veličina točki"
 
 #: jmvbar/options/legendPosition.title
 #: jmvbox/options/legendPosition.title
@@ -790,7 +790,7 @@ msgstr "Veličina točaka"
 #: jmvline/options/legendPosition.title
 #: scat/options/legendPosition.title
 msgid "Position"
-msgstr "Pozicija"
+msgstr "Položaj"
 
 #: jmvbar/ui[4][0][1][1].label
 #: jmvbox/ui[3][0][1][1].label
@@ -869,7 +869,7 @@ msgstr "Raspršeno"
 #: scat/ui.title
 #: scat/results.title
 msgid "Scatter Plot"
-msgstr "Rasprešeni dijagram"
+msgstr "Dijagram raspršenja"
 
 #: jmvhist/options/bins.title
 msgid "Show bins"
@@ -890,7 +890,7 @@ msgstr "Prikaži linije"
 
 #: jmvbox/options/outliers.title
 msgid "Show outliers"
-msgstr "Prikaži odstupanja"
+msgstr "Prikaži ekstremne vrijednosti"
 
 #: jmvline/options/point.title
 msgid "Show points"
@@ -902,7 +902,7 @@ msgstr "Zaglađeno"
 
 #: jmvbar/options/groupBarType/stacked.title
 msgid "Stacked"
-msgstr "Složeni"
+msgstr "Nasloženo"
 
 #: jmvbar/options/errorBars/sd.title
 #: jmvline/options/errorBars/sd.title
