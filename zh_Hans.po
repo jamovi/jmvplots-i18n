@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-12-16 06:02+0000\n"
-"Last-Translator: Jietian Meng <tiankong975310@yahoo.com>\n"
+"PO-Revision-Date: 2026-02-12 02:09+0000\n"
+"Last-Translator: yeyeye <m15658453017@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jmvplots-i18n/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.15.1-dev\n"
+"X-Generator: Weblate 5.16-dev\n"
 
 #: R/jmvbar.b.R
 msgid "{var} (mean{error})"
@@ -85,7 +85,7 @@ msgstr ""
 #: scat/options/xLabelAlign.title
 #: scat/options/yLabelAlign.title
 msgid "Align"
-msgstr ""
+msgstr "对齐"
 
 #: jmvbar/results/plot.description
 msgid "an image containing the bar plot"
@@ -116,7 +116,7 @@ msgstr "包含散点图的图像"
 #: scat/options/yAxisRangeType/auto.title
 #: scat/options/xAxisRangeType/auto.title
 msgid "Auto"
-msgstr ""
+msgstr "自动"
 
 #: jmvbar/ui[4].label
 #: jmvbox/ui[3].label
@@ -125,7 +125,7 @@ msgstr ""
 #: pareto/ui[3].label
 #: scat/ui[3].label
 msgid "Axes"
-msgstr ""
+msgstr "坐标轴"
 
 #: jmvbar/ui[1][0][0][0].label
 #: pareto/ui[1][0][0][0].label
@@ -172,7 +172,7 @@ msgstr ""
 #: scat/options/legendPosition/bottom.title
 #: scat/options/legendJustification/bottom.title
 msgid "Bottom"
-msgstr ""
+msgstr "底部"
 
 #: jmvbox/ui[1][0][0][0].label
 msgid "Box Element"
@@ -188,7 +188,7 @@ msgstr ""
 
 #: jmvbar/options/mode/categorical.title
 msgid "Categorical"
-msgstr ""
+msgstr "分类"
 
 #: jmvbar/options/catvar.title
 #: jmvbar/ui/mode/categorical[0][0].label
@@ -231,7 +231,7 @@ msgstr ""
 #: scat/options/yLabelAlign/center.title
 #: scat/options/legendJustification/center.title
 msgid "Center"
-msgstr ""
+msgstr "居中"
 
 #: jmvbar/options/errorBars/ci.title
 #: jmvline/options/errorBars/ci.title
@@ -240,7 +240,7 @@ msgstr "置信区间"
 
 #: jmvbar/options/mode/continuous.title
 msgid "Continuous"
-msgstr ""
+msgstr "连续"
 
 #: jmvbar/ui/mode/continuous[1].label
 msgid "Continuous Options"
@@ -255,7 +255,7 @@ msgstr ""
 #: jmvbar/options/counts.title
 #: jmvbar/ui/mode/counts[0][0].label
 msgid "Counts"
-msgstr ""
+msgstr "计数"
 
 #: pareto/options/counts.title
 #: pareto/ui[0][1].label
@@ -276,7 +276,7 @@ msgstr ""
 
 #: jmvhist/ui[1][0][0][2].label
 msgid "Density"
-msgstr ""
+msgstr "概率密度"
 
 #: jmvhist/options/densityOpacity.title
 msgid "Density opacity"
@@ -399,7 +399,7 @@ msgstr ""
 
 #: jmvbar/options/groupBarType/grouped.title
 msgid "Grouped"
-msgstr ""
+msgstr "分组"
 
 #: jmvbar/options/catgroup.title
 #: jmvbar/options/countsgroup.title
@@ -435,7 +435,7 @@ msgstr ""
 #: pareto/options/height.title
 #: scat/options/height.title
 msgid "Height"
-msgstr ""
+msgstr "高度"
 
 #: jmvbar/options/legenPositionType/hide.title
 #: jmvbox/options/legenPositionType/hide.title
@@ -452,7 +452,7 @@ msgstr ""
 #: jmvhist/ui[1][0][0][1].label
 #: jmvhist/results.title
 msgid "Histogram"
-msgstr ""
+msgstr "直方图"
 
 #: jmvbar/options/legendDirection/horizontal.title
 #: jmvbox/options/legendDirection/horizontal.title
@@ -516,7 +516,7 @@ msgstr ""
 #: scat/options/xAxisLabelFontSize.title
 #: scat/options/legendLabelFontSize.title
 msgid "Label font size"
-msgstr ""
+msgstr "标签字体大小"
 
 #: jmvbar/options/yAxisLabelRotation.title
 #: jmvbar/options/xAxisLabelRotation.title
@@ -536,7 +536,7 @@ msgstr ""
 #: jmvbar/options/countsLabels.title
 #: jmvbar/ui/mode/counts[0][1].label
 msgid "Labels"
-msgstr ""
+msgstr "标签"
 
 #: jmvbar/options/titleAlign/left.title
 #: jmvbar/options/subtitleAlign/left.title
@@ -579,7 +579,7 @@ msgstr ""
 #: scat/options/legendPosition/left.title
 #: scat/options/legendJustification/left.title
 msgid "Left"
-msgstr ""
+msgstr "左"
 
 #: jmvbar/ui[5].label
 #: jmvbox/ui[4].label
@@ -587,7 +587,7 @@ msgstr ""
 #: jmvline/ui[6].label
 #: scat/ui[4].label
 msgid "Legend"
-msgstr ""
+msgstr "图例"
 
 #: jmvbar/ui[5][0][1][0].label
 #: jmvbox/ui[4][0][1][0].label
@@ -615,7 +615,7 @@ msgstr ""
 
 #: jmvline/ui[2][0][0][0].label
 msgid "Line"
-msgstr ""
+msgstr "线"
 
 #: jmvline/ui[3][0][0][0].label
 msgid "Line & Point Style"
@@ -637,7 +637,7 @@ msgstr ""
 
 #: scat/options/lineMethod/lm.title
 msgid "Linear"
-msgstr ""
+msgstr "线性"
 
 #: jmvbar/options/yAxisRangeType/manual.title
 #: jmvbox/options/yAxisRangeType/manual.title
@@ -648,7 +648,7 @@ msgstr ""
 #: scat/options/yAxisRangeType/manual.title
 #: scat/options/xAxisRangeType/manual.title
 msgid "Manual"
-msgstr ""
+msgstr "手动"
 
 #: jmvbar/options/yAxisRangeMax.title
 #: jmvbox/options/yAxisRangeMax.title
@@ -658,19 +658,19 @@ msgstr ""
 #: scat/options/yAxisRangeMax.title
 #: scat/options/xAxisRangeMax.title
 msgid "Max"
-msgstr ""
+msgstr "最大"
 
 #: jmvline/options/aggregateType/mean.title
 msgid "Mean"
-msgstr ""
+msgstr "均值"
 
 #: jmvline/options/aggregateType/median.title
 msgid "Median"
-msgstr ""
+msgstr "中位数"
 
 #: scat/options/lineMethod.title
 msgid "Method"
-msgstr ""
+msgstr "方法"
 
 #: jmvbar/options/yAxisRangeMin.title
 #: jmvbox/options/yAxisRangeMin.title
@@ -680,7 +680,7 @@ msgstr ""
 #: scat/options/yAxisRangeMin.title
 #: scat/options/xAxisRangeMin.title
 msgid "Min"
-msgstr ""
+msgstr "最小"
 
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup
@@ -690,7 +690,7 @@ msgstr ""
 #: jmvbar/options/errorBars/none.title
 #: jmvline/options/errorBars/none.title
 msgid "None"
-msgstr ""
+msgstr "无"
 
 #: jmvbox/options/notch.title
 msgid "Notch"
@@ -771,7 +771,7 @@ msgstr ""
 
 #: jmvline/ui[2][0][0][1].label
 msgid "Point"
-msgstr ""
+msgstr "点"
 
 #: jmvline/ui[3][0][1][0].label
 msgid "Point Dodging"
@@ -788,7 +788,7 @@ msgstr ""
 #: jmvline/options/legendPosition.title
 #: scat/options/legendPosition.title
 msgid "Position"
-msgstr ""
+msgstr "位置"
 
 #: jmvbar/ui[4][0][1][1].label
 #: jmvbox/ui[3][0][1][1].label
@@ -798,7 +798,7 @@ msgstr ""
 #: scat/ui[3][0][0][1].label
 #: scat/ui[3][0][1][1].label
 msgid "Range"
-msgstr ""
+msgstr "全距"
 
 #: scat/ui[1][0][0][1].label
 msgid "Regression Line"
@@ -850,7 +850,7 @@ msgstr ""
 #: scat/options/legendPosition/right.title
 #: scat/options/legendJustification/right.title
 msgid "Right"
-msgstr ""
+msgstr "右"
 
 #: package/analyses/scat.menuSubgroup
 #: package/analyses/pareto.menuSubgroup
