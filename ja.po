@@ -1,16 +1,16 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-09-21 01:01+0000\n"
+"PO-Revision-Date: 2026-02-13 07:09+0000\n"
 "Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
-"Language-Team: Japanese <https://hosted.weblate.org/projects/jamovi/"
-"jmvplots-i18n/ja/>\n"
+"Language-Team: Japanese <https://hosted.weblate.org/projects/jamovi/jmvplots-"
+"i18n/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.14-dev\n"
+"X-Generator: Weblate 5.16-dev\n"
 
 #: R/jmvbar.b.R
 msgid "{var} (mean{error})"
@@ -84,7 +84,7 @@ msgstr "集計データ"
 #: scat/options/xLabelAlign.title
 #: scat/options/yLabelAlign.title
 msgid "Align"
-msgstr "揃え"
+msgstr "整列"
 
 #: jmvbar/results/plot.description
 msgid "an image containing the bar plot"
@@ -187,7 +187,7 @@ msgstr "箱ひげ図"
 
 #: jmvbar/options/mode/categorical.title
 msgid "Categorical"
-msgstr "カテゴリ変数"
+msgstr "カテゴリカル"
 
 #: jmvbar/options/catvar.title
 #: jmvbar/ui/mode/categorical[0][0].label
@@ -239,7 +239,7 @@ msgstr "信頼区間"
 
 #: jmvbar/options/mode/continuous.title
 msgid "Continuous"
-msgstr "連続変数"
+msgstr "連続"
 
 #: jmvbar/ui/mode/continuous[1].label
 msgid "Continuous Options"
@@ -259,7 +259,7 @@ msgstr "度数"
 #: pareto/options/counts.title
 #: pareto/ui[0][1].label
 msgid "Counts (optional)"
-msgstr "度数（オプション）"
+msgstr "度数（任意）"
 
 #: package.description
 msgid "Create elegant and interactive plots built on 'ggplot2'. The package is designed to provide a convenience layer to 'ggplot2' within jamovi."
@@ -282,7 +282,7 @@ msgstr "密度"
 
 #: jmvhist/options/densityOpacity.title
 msgid "Density opacity"
-msgstr "密度透過度"
+msgstr "密度不透明度"
 
 #: jmvline/options/groupColor.title
 msgid "Different colors"
@@ -377,7 +377,7 @@ msgstr "軸を反転"
 #: scat/options/xLabelFontSize.title
 #: scat/options/yLabelFontSize.title
 msgid "Font size"
-msgstr "文字サイズ"
+msgstr "フォントサイズ"
 
 #: R/jmvbar.b.R
 #: R/jmvhist.b.R
@@ -401,7 +401,7 @@ msgstr "グループ設定"
 
 #: jmvbar/options/groupBarType/grouped.title
 msgid "Grouped"
-msgstr "グループ"
+msgstr "グループ化済"
 
 #: jmvbar/options/catgroup.title
 #: jmvbar/options/countsgroup.title
@@ -518,7 +518,7 @@ msgstr "幅"
 #: scat/options/xAxisLabelFontSize.title
 #: scat/options/legendLabelFontSize.title
 msgid "Label font size"
-msgstr "ラベルサイズ"
+msgstr "ラベルフォントサイズ"
 
 #: jmvbar/options/yAxisLabelRotation.title
 #: jmvbar/options/xAxisLabelRotation.title
@@ -617,7 +617,7 @@ msgstr "凡例タイトル"
 
 #: jmvline/ui[2][0][0][0].label
 msgid "Line"
-msgstr "折れ線"
+msgstr "線"
 
 #: jmvline/ui[3][0][0][0].label
 msgid "Line & Point Style"
@@ -635,11 +635,11 @@ msgstr "折れ線グラフ"
 #: jmvhist/options/densityLineSize.title
 #: jmvline/options/lineSize.title
 msgid "Line size"
-msgstr "線の太さ"
+msgstr "線サイズ"
 
 #: scat/options/lineMethod/lm.title
 msgid "Linear"
-msgstr "直線"
+msgstr "線形"
 
 #: jmvbar/options/yAxisRangeType/manual.title
 #: jmvbox/options/yAxisRangeType/manual.title
@@ -747,7 +747,7 @@ msgstr "図の向き"
 #: pareto/ui[1][0][1][0].label
 #: scat/ui[1][0][1][0].label
 msgid "Plot Size"
-msgstr "図のサイズ"
+msgstr "プロットサイズ"
 
 #: jmvbar/options/titleType/subtitle.title
 #: jmvbox/options/titleType/subtitle.title
@@ -782,7 +782,7 @@ msgstr "重なり防止"
 #: jmvline/options/pointSize.title
 #: scat/options/pointSize.title
 msgid "Point size"
-msgstr "点のサイズ"
+msgstr "点サイズ"
 
 #: jmvbar/options/legendPosition.title
 #: jmvbox/options/legendPosition.title
@@ -800,11 +800,11 @@ msgstr "位置"
 #: scat/ui[3][0][0][1].label
 #: scat/ui[3][0][1][1].label
 msgid "Range"
-msgstr "幅"
+msgstr "範囲"
 
 #: scat/ui[1][0][0][1].label
 msgid "Regression Line"
-msgstr "回帰直線"
+msgstr "回帰線"
 
 #: jmvbar/options/xAxisLabelFontSizeRevLabels.title
 #: jmvbox/options/xAxisLabelFontSizeRevLabels.title
@@ -898,11 +898,11 @@ msgstr "点を表示"
 
 #: scat/options/lineMethod/loess.title
 msgid "Smooth"
-msgstr "平滑化"
+msgstr "スムーズ"
 
 #: jmvbar/options/groupBarType/stacked.title
 msgid "Stacked"
-msgstr "積上げ"
+msgstr "積み上げ"
 
 #: jmvbar/options/errorBars/sd.title
 #: jmvline/options/errorBars/sd.title
@@ -1038,7 +1038,7 @@ msgstr "X軸"
 #: jmvhist/options/xAxisRangeType.title
 #: scat/options/xAxisRangeType.title
 msgid "X-Axis Range"
-msgstr "X軸幅"
+msgstr "X軸範囲"
 
 #: jmvbar/options/titleType/xTitle.title
 #: jmvbox/options/titleType/xTitle.title
@@ -1076,7 +1076,7 @@ msgstr "Y軸"
 #: jmvline/options/yAxisRangeType.title
 #: scat/options/yAxisRangeType.title
 msgid "Y-Axis Range"
-msgstr "Y軸幅"
+msgstr "Y軸範囲"
 
 #: jmvbar/options/titleType/yTitle.title
 #: jmvbox/options/titleType/yTitle.title
