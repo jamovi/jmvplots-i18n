@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-02-15 13:41+0000\n"
+"PO-Revision-Date: 2026-02-16 14:09+0000\n"
 "Last-Translator: Yuri Smolyakov <smolyakov@rambler.ru>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/jamovi/jmvplots-"
 "i18n/ru/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 5.16\n"
 
 #: R/jmvbar.b.R
 msgid "{var} (mean{error})"
@@ -307,7 +307,7 @@ msgstr "Направление"
 
 #: jmvline/options/groupPositionDodge.title
 msgid "Dodge width"
-msgstr "Ширина уклонения"
+msgstr "Ширина сдвига"
 
 #: jmvbar/options/errorBarSize.title
 #: jmvline/options/errorBarSize.title
@@ -491,7 +491,7 @@ msgstr "Выравнивание"
 #: jmvline/options/legendKeyHeight.title
 #: scat/options/legendKeyHeight.title
 msgid "Key height"
-msgstr "Высота ключа"
+msgstr "Высота маркера"
 
 #: jmvbar/options/legendKeyWidth.title
 #: jmvbox/options/legendKeyWidth.title
@@ -499,7 +499,7 @@ msgstr "Высота ключа"
 #: jmvline/options/legendKeyWidth.title
 #: scat/options/legendKeyWidth.title
 msgid "Key width"
-msgstr "Ширина ключа"
+msgstr "Ширина маркера"
 
 #: jmvbar/options/yAxisLabelFontSize.title
 #: jmvbar/options/xAxisLabelFontSize.title
@@ -651,7 +651,7 @@ msgstr "Линейный"
 #: scat/options/yAxisRangeType/manual.title
 #: scat/options/xAxisRangeType/manual.title
 msgid "Manual"
-msgstr "Руководство"
+msgstr "Вручную"
 
 #: jmvbar/options/yAxisRangeMax.title
 #: jmvbox/options/yAxisRangeMax.title
@@ -778,7 +778,7 @@ msgstr "Пункт"
 
 #: jmvline/ui[3][0][1][0].label
 msgid "Point Dodging"
-msgstr "Уклонение точек"
+msgstr "Разнесение точек"
 
 #: jmvline/options/pointSize.title
 #: scat/options/pointSize.title
@@ -986,7 +986,7 @@ msgstr "Верх"
 
 #: jmvbar/options/valueLabels.title
 msgid "Value labels"
-msgstr "Метки переменных"
+msgstr "Метки значений"
 
 #: jmvbox/options/var.title
 #: jmvbox/ui[0][0].label
