@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-02-12 02:09+0000\n"
+"PO-Revision-Date: 2026-02-15 13:41+0000\n"
 "Last-Translator: Yuri Smolyakov <smolyakov@rambler.ru>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/jamovi/jmvplots-"
 "i18n/ru/>\n"
@@ -184,11 +184,11 @@ msgstr "Элемент ящика"
 #: jmvbox/ui.title
 #: jmvbox/results.title
 msgid "Box Plot"
-msgstr "Коробчатый"
+msgstr "Ящик с усами"
 
 #: jmvbar/options/mode/categorical.title
 msgid "Categorical"
-msgstr "Категорический"
+msgstr "Категориальный"
 
 #: jmvbar/options/catvar.title
 #: jmvbar/ui/mode/categorical[0][0].label
@@ -255,7 +255,7 @@ msgstr "Непрерывная переменная"
 #: jmvbar/options/counts.title
 #: jmvbar/ui/mode/counts[0][0].label
 msgid "Counts"
-msgstr "имеет значение"
+msgstr "Частоты"
 
 #: pareto/options/counts.title
 #: pareto/ui[0][1].label
@@ -539,7 +539,7 @@ msgstr "Ротация меток"
 #: jmvbar/options/countsLabels.title
 #: jmvbar/ui/mode/counts[0][1].label
 msgid "Labels"
-msgstr "Этикетки"
+msgstr "Метки"
 
 #: jmvbar/options/titleAlign/left.title
 #: jmvbar/options/subtitleAlign/left.title
@@ -665,7 +665,7 @@ msgstr "Макс"
 
 #: jmvline/options/aggregateType/mean.title
 msgid "Mean"
-msgstr "Иметь в виду"
+msgstr "Среднее"
 
 #: jmvline/options/aggregateType/median.title
 msgid "Median"
@@ -810,7 +810,7 @@ msgstr "Линия регрессии"
 #: jmvbar/options/xAxisLabelFontSizeRevLabels.title
 #: jmvbox/options/xAxisLabelFontSizeRevLabels.title
 msgid "Reverse labels"
-msgstr "Обратные маркеры"
+msgstr "Обратные метки"
 
 #: jmvbar/options/titleAlign/right.title
 #: jmvbar/options/subtitleAlign/right.title
@@ -853,7 +853,7 @@ msgstr "Обратные маркеры"
 #: scat/options/legendPosition/right.title
 #: scat/options/legendJustification/right.title
 msgid "Right"
-msgstr "Верно"
+msgstr "Справа"
 
 #: package/analyses/scat.menuSubgroup
 #: package/analyses/pareto.menuSubgroup
