@@ -1,16 +1,16 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2025-08-20 01:02+0000\n"
-"Last-Translator: \"Francisco J. Miguel Quesada\" <fxmiguel@gmail.com>\n"
-"Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/"
-"jmvplots-i18n/es/>\n"
+"PO-Revision-Date: 2026-02-18 15:09+0000\n"
+"Last-Translator: Francisco Serrador <fserrador@gmail.com>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/jmvplots-"
+"i18n/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 
 #: R/jmvbar.b.R
 msgid "{var} (mean{error})"
@@ -115,7 +115,7 @@ msgstr "una imagen que contiene el gráfico de dispersión"
 #: scat/options/yAxisRangeType/auto.title
 #: scat/options/xAxisRangeType/auto.title
 msgid "Auto"
-msgstr "Auto"
+msgstr "Automático"
 
 #: jmvbar/ui[4].label
 #: jmvbox/ui[3].label
@@ -137,7 +137,7 @@ msgstr "Barra"
 #: jmvbar/ui.title
 #: jmvbar/results.title
 msgid "Bar Plot"
-msgstr "Gráfico de Barras"
+msgstr "Trama de Barra"
 
 #: jmvbar/options/groupBarType.title
 msgid "Bar type"
@@ -145,7 +145,7 @@ msgstr "Tipo de barra"
 
 #: jmvbar/ui[2][0][0][0].label
 msgid "Bar Type"
-msgstr "Tipo de barra"
+msgstr "Tipo de Barra"
 
 #: jmvhist/options/binOpacity.title
 msgid "Bin opacity"
@@ -171,7 +171,7 @@ msgstr "Anchura de intervalo"
 #: scat/options/legendPosition/bottom.title
 #: scat/options/legendJustification/bottom.title
 msgid "Bottom"
-msgstr "Abajo"
+msgstr "Inferior"
 
 #: jmvbox/ui[1][0][0][0].label
 msgid "Box Element"
@@ -183,7 +183,7 @@ msgstr "Elemento de la caja"
 #: jmvbox/ui.title
 #: jmvbox/results.title
 msgid "Box Plot"
-msgstr "Gráfico de Caja"
+msgstr "Trama de Caja"
 
 #: jmvbar/options/mode/categorical.title
 msgid "Categorical"
