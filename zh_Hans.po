@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-02-12 02:09+0000\n"
-"Last-Translator: yeyeye <m15658453017@163.com>\n"
+"PO-Revision-Date: 2026-02-20 13:09+0000\n"
+"Last-Translator: reducedradius <feixiang512@outlook.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jmvplots-i18n/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 
 #: R/jmvbar.b.R
 msgid "{var} (mean{error})"
@@ -130,7 +130,7 @@ msgstr "坐标轴"
 #: jmvbar/ui[1][0][0][0].label
 #: pareto/ui[1][0][0][0].label
 msgid "Bar"
-msgstr ""
+msgstr "柱状图"
 
 #: package/analyses/jmvbar.title
 #: package/analyses/jmvbar.menuTitle
