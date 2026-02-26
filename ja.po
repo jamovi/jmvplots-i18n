@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-02-26 11:54+0000\n"
+"PO-Revision-Date: 2026-02-27 00:15+0000\n"
 "Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/jamovi/jmvplots-"
 "i18n/ja/>\n"
@@ -482,7 +482,7 @@ msgstr "内"
 #: jmvline/options/legendJustification.title
 #: scat/options/legendJustification.title
 msgid "Justification"
-msgstr "位置調整"
+msgstr "位置揃え"
 
 #: jmvbar/options/legendKeyHeight.title
 #: jmvbox/options/legendKeyHeight.title
