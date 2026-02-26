@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-02-26 11:48+0000\n"
-"Last-Translator: Francisco Serrador <fserrador@gmail.com>\n"
+"PO-Revision-Date: 2026-02-27 00:15+0000\n"
+"Last-Translator: José Ángel Iranzo Sanz <joseani@unizar.es>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/jmvplots-"
 "i18n/es/>\n"
 "Language: es\n"
@@ -137,7 +137,7 @@ msgstr "Barra"
 #: jmvbar/ui.title
 #: jmvbar/results.title
 msgid "Bar Plot"
-msgstr "Trama de Barra"
+msgstr "Gráfico de Barras"
 
 #: jmvbar/options/groupBarType.title
 msgid "Bar type"
@@ -183,7 +183,7 @@ msgstr "Elemento de la caja"
 #: jmvbox/ui.title
 #: jmvbox/results.title
 msgid "Box Plot"
-msgstr "Trama de Caja"
+msgstr "Gráfico de Caja"
 
 #: jmvbar/options/mode/categorical.title
 msgid "Categorical"
@@ -747,7 +747,7 @@ msgstr "Orientación del Gráfico"
 #: pareto/ui[1][0][1][0].label
 #: scat/ui[1][0][1][0].label
 msgid "Plot Size"
-msgstr "Tamaño de Trama"
+msgstr "Tamaño del gráfico"
 
 #: jmvbar/options/titleType/subtitle.title
 #: jmvbox/options/titleType/subtitle.title
