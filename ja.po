@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-02-26 11:48+0000\n"
+"PO-Revision-Date: 2026-02-26 11:54+0000\n"
 "Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/jamovi/jmvplots-"
 "i18n/ja/>\n"
@@ -377,7 +377,7 @@ msgstr "軸を入れ替え"
 #: scat/options/xLabelFontSize.title
 #: scat/options/yLabelFontSize.title
 msgid "Font size"
-msgstr "フォントサイズ"
+msgstr "文字サイズ"
 
 #: R/jmvbar.b.R
 #: R/jmvhist.b.R
@@ -518,7 +518,7 @@ msgstr "幅"
 #: scat/options/xAxisLabelFontSize.title
 #: scat/options/legendLabelFontSize.title
 msgid "Label font size"
-msgstr "ラベルフォントサイズ"
+msgstr "ラベル文字サイズ"
 
 #: jmvbar/options/yAxisLabelRotation.title
 #: jmvbar/options/xAxisLabelRotation.title
@@ -809,7 +809,7 @@ msgstr "回帰線"
 #: jmvbar/options/xAxisLabelFontSizeRevLabels.title
 #: jmvbox/options/xAxisLabelFontSizeRevLabels.title
 msgid "Reverse labels"
-msgstr "反転ラベル"
+msgstr "ラベルを反転"
 
 #: jmvbar/options/titleAlign/right.title
 #: jmvbar/options/subtitleAlign/right.title
