@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-02-27 00:15+0000\n"
+"PO-Revision-Date: 2026-02-27 10:59+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jmvplots-i18n/zh_Hant/>\n"
@@ -43,15 +43,15 @@ msgstr "帕雷托圖"
 #: jmvline/options/aggregateType.title
 #: jmvline/ui/mode/aggregate[0][0][0][0].label
 msgid "Aggregate"
-msgstr "合計"
+msgstr "彙總"
 
 #: jmvline/ui/mode/aggregate[0].label
 msgid "Aggregate Options"
-msgstr "合計選項"
+msgstr "彙總選項"
 
 #: jmvline/options/mode/aggregate.title
 msgid "Aggregated data"
-msgstr "合計資料"
+msgstr "彙總資料"
 
 #: jmvbar/options/titleAlign.title
 #: jmvbar/options/subtitleAlign.title
@@ -413,7 +413,7 @@ msgstr "已分組"
 #: scat/options/group.title
 #: scat/ui[0][2].label
 msgid "Grouping Variable"
-msgstr "分組變數"
+msgstr "分組變項"
 
 #: jmvbar/options/congroup1.title
 #: jmvbar/ui/mode/continuous[0][1].label
@@ -628,17 +628,17 @@ msgstr "線條與點的樣式"
 #: jmvline/ui.title
 #: jmvline/results.title
 msgid "Line Plot"
-msgstr ""
+msgstr "線圖"
 
 #: jmvhist/options/lineSize.title
 #: jmvhist/options/densityLineSize.title
 #: jmvline/options/lineSize.title
 msgid "Line size"
-msgstr ""
+msgstr "線條粗細"
 
 #: scat/options/lineMethod/lm.title
 msgid "Linear"
-msgstr ""
+msgstr "線性"
 
 #: jmvbar/options/yAxisRangeType/manual.title
 #: jmvbox/options/yAxisRangeType/manual.title
@@ -649,7 +649,7 @@ msgstr ""
 #: scat/options/yAxisRangeType/manual.title
 #: scat/options/xAxisRangeType/manual.title
 msgid "Manual"
-msgstr ""
+msgstr "手動"
 
 #: jmvbar/options/yAxisRangeMax.title
 #: jmvbox/options/yAxisRangeMax.title
@@ -659,19 +659,19 @@ msgstr ""
 #: scat/options/yAxisRangeMax.title
 #: scat/options/xAxisRangeMax.title
 msgid "Max"
-msgstr ""
+msgstr "最大"
 
 #: jmvline/options/aggregateType/mean.title
 msgid "Mean"
-msgstr ""
+msgstr "平均數"
 
 #: jmvline/options/aggregateType/median.title
 msgid "Median"
-msgstr ""
+msgstr "中位數"
 
 #: scat/options/lineMethod.title
 msgid "Method"
-msgstr ""
+msgstr "方法"
 
 #: jmvbar/options/yAxisRangeMin.title
 #: jmvbox/options/yAxisRangeMin.title
@@ -681,17 +681,17 @@ msgstr ""
 #: scat/options/yAxisRangeMin.title
 #: scat/options/xAxisRangeMin.title
 msgid "Min"
-msgstr ""
+msgstr "最小"
 
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup
 msgid "More"
-msgstr ""
+msgstr "更多"
 
 #: jmvbar/options/errorBars/none.title
 #: jmvline/options/errorBars/none.title
 msgid "None"
-msgstr ""
+msgstr "無"
 
 #: jmvbox/options/notch.title
 msgid "Notch"
@@ -703,7 +703,7 @@ msgstr ""
 #: jmvline/options/legenPositionType/outside.title
 #: scat/options/legenPositionType/outside.title
 msgid "Outside"
-msgstr ""
+msgstr "外部"
 
 #: package/analyses/pareto.title
 #: package/analyses/pareto.menuTitle
@@ -711,7 +711,7 @@ msgstr ""
 #: pareto/ui.title
 #: pareto/results.title
 msgid "Pareto Plot"
-msgstr ""
+msgstr "柏拉圖"
 
 #: jmvbar/ui[3].label
 #: jmvbox/ui[2].label
@@ -720,7 +720,7 @@ msgstr ""
 #: pareto/ui[2].label
 #: scat/ui[2].label
 msgid "Plot & Axis Titles"
-msgstr ""
+msgstr "圖表與軸標題"
 
 #: jmvbar/options/titleType/caption.title
 #: jmvbox/options/titleType/caption.title
@@ -729,7 +729,7 @@ msgstr ""
 #: pareto/options/titleType/caption.title
 #: scat/options/titleType/caption.title
 msgid "Plot Caption"
-msgstr ""
+msgstr "圖表標題"
 
 #: jmvbar/ui[1][0][1][1].label
 #: jmvbox/ui[1][0][1][1].label
@@ -737,7 +737,7 @@ msgstr ""
 #: jmvline/ui[2][0][1][1].label
 #: scat/ui[1][0][1][1].label
 msgid "Plot Orientation"
-msgstr ""
+msgstr "圖表方向"
 
 #: jmvbar/ui[1][0][1][0].label
 #: jmvbox/ui[1][0][1][0].label
@@ -746,7 +746,7 @@ msgstr ""
 #: pareto/ui[1][0][1][0].label
 #: scat/ui[1][0][1][0].label
 msgid "Plot Size"
-msgstr ""
+msgstr "圖大小"
 
 #: jmvbar/options/titleType/subtitle.title
 #: jmvbox/options/titleType/subtitle.title
@@ -755,7 +755,7 @@ msgstr ""
 #: pareto/options/titleType/subtitle.title
 #: scat/options/titleType/subtitle.title
 msgid "Plot Subtitle"
-msgstr ""
+msgstr "圖表副標題"
 
 #: jmvbar/options/titleType/title.title
 #: jmvbox/options/titleType/title.title
@@ -764,24 +764,24 @@ msgstr ""
 #: pareto/options/titleType/title.title
 #: scat/options/titleType/title.title
 msgid "Plot Title"
-msgstr ""
+msgstr "圖表標題"
 
 #: package.title
 msgid "Plots bundled with jamovi"
-msgstr ""
+msgstr "jamovi 內建圖表"
 
 #: jmvline/ui[2][0][0][1].label
 msgid "Point"
-msgstr ""
+msgstr "點"
 
 #: jmvline/ui[3][0][1][0].label
 msgid "Point Dodging"
-msgstr ""
+msgstr "點位置閃避"
 
 #: jmvline/options/pointSize.title
 #: scat/options/pointSize.title
 msgid "Point size"
-msgstr ""
+msgstr "點大小"
 
 #: jmvbar/options/legendPosition.title
 #: jmvbox/options/legendPosition.title
@@ -789,7 +789,7 @@ msgstr ""
 #: jmvline/options/legendPosition.title
 #: scat/options/legendPosition.title
 msgid "Position"
-msgstr ""
+msgstr "位置"
 
 #: jmvbar/ui[4][0][1][1].label
 #: jmvbox/ui[3][0][1][1].label
@@ -799,16 +799,16 @@ msgstr ""
 #: scat/ui[3][0][0][1].label
 #: scat/ui[3][0][1][1].label
 msgid "Range"
-msgstr ""
+msgstr "全距"
 
 #: scat/ui[1][0][0][1].label
 msgid "Regression Line"
-msgstr ""
+msgstr "迴歸線"
 
 #: jmvbar/options/xAxisLabelFontSizeRevLabels.title
 #: jmvbox/options/xAxisLabelFontSizeRevLabels.title
 msgid "Reverse labels"
-msgstr ""
+msgstr "反轉標籤"
 
 #: jmvbar/options/titleAlign/right.title
 #: jmvbar/options/subtitleAlign/right.title
@@ -851,7 +851,7 @@ msgstr ""
 #: scat/options/legendPosition/right.title
 #: scat/options/legendJustification/right.title
 msgid "Right"
-msgstr ""
+msgstr "右"
 
 #: package/analyses/scat.menuSubgroup
 #: package/analyses/pareto.menuSubgroup
@@ -860,7 +860,7 @@ msgstr ""
 
 #: scat/ui[1][0][0][0].label
 msgid "Scatter"
-msgstr ""
+msgstr "散佈"
 
 #: package/analyses/scat.title
 #: package/analyses/scat.menuTitle
@@ -868,51 +868,51 @@ msgstr ""
 #: scat/ui.title
 #: scat/results.title
 msgid "Scatter Plot"
-msgstr ""
+msgstr "散佈圖"
 
 #: jmvhist/options/bins.title
 msgid "Show bins"
-msgstr ""
+msgstr "顯示組距"
 
 #: jmvhist/options/density.title
 msgid "Show density"
-msgstr ""
+msgstr "顯示密度"
 
 #: jmvhist/options/line.title
 #: scat/options/regLine.title
 msgid "Show line"
-msgstr ""
+msgstr "顯示線條"
 
 #: jmvline/options/line.title
 msgid "Show lines"
-msgstr ""
+msgstr "顯示線條"
 
 #: jmvbox/options/outliers.title
 msgid "Show outliers"
-msgstr ""
+msgstr "顯示離群值"
 
 #: jmvline/options/point.title
 msgid "Show points"
-msgstr ""
+msgstr "顯示資料點"
 
 #: scat/options/lineMethod/loess.title
 msgid "Smooth"
-msgstr ""
+msgstr "平滑"
 
 #: jmvbar/options/groupBarType/stacked.title
 msgid "Stacked"
-msgstr ""
+msgstr "堆疊"
 
 #: jmvbar/options/errorBars/sd.title
 #: jmvline/options/errorBars/sd.title
 msgid "Standard deviation"
-msgstr ""
+msgstr "標準差"
 
 #: jmvbar/options/errorBars/se.title
 #: jmvline/options/errorBars/se.title
 #: scat/options/lineSE.title
 msgid "Standard error"
-msgstr ""
+msgstr "標準誤"
 
 #: R/jmvbar.b.R
 #: R/jmvbox.b.R
@@ -921,7 +921,7 @@ msgstr ""
 #: R/pareto.b.R
 #: R/scat.b.R
 msgid "Syntax mode for plots is not yet available."
-msgstr ""
+msgstr "圖表的語法模式尚不可用。"
 
 #: jmvbar/options/legendTitleFontSize.title
 #: jmvbox/options/legendTitleFontSize.title
@@ -929,7 +929,7 @@ msgstr ""
 #: jmvline/options/legendTitleFontSize.title
 #: scat/options/legendTitleFontSize.title
 msgid "Title font size"
-msgstr ""
+msgstr "標題字型大小"
 
 #: jmvbar/options/title.title
 #: jmvbar/options/subtitle.title
@@ -967,7 +967,7 @@ msgstr ""
 #: scat/options/yLabel.title
 #: scat/options/legendTitle.title
 msgid "Title text"
-msgstr ""
+msgstr "標題文字"
 
 #: jmvbar/options/legendPosition/top.title
 #: jmvbar/options/legendJustification/top.title
@@ -980,22 +980,22 @@ msgstr ""
 #: scat/options/legendPosition/top.title
 #: scat/options/legendJustification/top.title
 msgid "Top"
-msgstr ""
+msgstr "頂端"
 
 #: jmvbar/options/valueLabels.title
 msgid "Value labels"
-msgstr ""
+msgstr "數值標籤"
 
 #: jmvbox/options/var.title
 #: jmvbox/ui[0][0].label
 #: jmvhist/options/var.title
 #: jmvhist/ui[0][0].label
 msgid "Variable"
-msgstr ""
+msgstr "變項"
 
 #: jmvbar/options/mode.title
 msgid "Variable type"
-msgstr ""
+msgstr "變項類型"
 
 #: jmvbar/options/legendDirection/vertical.title
 #: jmvbox/options/legendDirection/vertical.title
@@ -1003,7 +1003,7 @@ msgstr ""
 #: jmvline/options/legendDirection/vertical.title
 #: scat/options/legendDirection/vertical.title
 msgid "Vertical"
-msgstr ""
+msgstr "垂直"
 
 #: jmvbar/options/barWidth.title
 #: jmvbar/options/width.title
@@ -1017,7 +1017,7 @@ msgstr ""
 #: pareto/options/width.title
 #: scat/options/width.title
 msgid "Width"
-msgstr ""
+msgstr "寬度"
 
 #: jmvbar/ui[4][0][0][0].label
 #: jmvbox/ui[3][0][0][0].label
@@ -1032,12 +1032,12 @@ msgstr ""
 #: scat/ui[0][0].label
 #: scat/ui[3][0][0][0].label
 msgid "X-Axis"
-msgstr ""
+msgstr "X軸"
 
 #: jmvhist/options/xAxisRangeType.title
 #: scat/options/xAxisRangeType.title
 msgid "X-Axis Range"
-msgstr ""
+msgstr "X 軸範圍"
 
 #: jmvbar/options/titleType/xTitle.title
 #: jmvbox/options/titleType/xTitle.title
@@ -1046,7 +1046,7 @@ msgstr ""
 #: pareto/options/titleType/xTitle.title
 #: scat/options/titleType/xTitle.title
 msgid "X-Axis Title"
-msgstr ""
+msgstr "X 軸標題"
 
 #: jmvbar/options/legendPositionX.title
 #: jmvbox/options/legendPositionX.title
@@ -1054,7 +1054,7 @@ msgstr ""
 #: jmvline/options/legendPositionX.title
 #: scat/options/legendPositionX.title
 msgid "X-position"
-msgstr ""
+msgstr "X 軸位置"
 
 #: jmvbar/ui[4][0][1][0].label
 #: jmvbox/ui[3][0][1][0].label
@@ -1067,7 +1067,7 @@ msgstr ""
 #: scat/ui[0][1].label
 #: scat/ui[3][0][1][0].label
 msgid "Y-Axis"
-msgstr ""
+msgstr "Y 軸"
 
 #: jmvbar/options/yAxisRangeType.title
 #: jmvbox/options/yAxisRangeType.title
@@ -1075,7 +1075,7 @@ msgstr ""
 #: jmvline/options/yAxisRangeType.title
 #: scat/options/yAxisRangeType.title
 msgid "Y-Axis Range"
-msgstr ""
+msgstr "Y 軸範圍"
 
 #: jmvbar/options/titleType/yTitle.title
 #: jmvbox/options/titleType/yTitle.title
@@ -1084,7 +1084,7 @@ msgstr ""
 #: pareto/options/titleType/yTitle.title
 #: scat/options/titleType/yTitle.title
 msgid "Y-Axis Title"
-msgstr ""
+msgstr "Y 軸標題"
 
 #: jmvbar/options/legendPositionY.title
 #: jmvbox/options/legendPositionY.title
@@ -1092,4 +1092,4 @@ msgstr ""
 #: jmvline/options/legendPositionY.title
 #: scat/options/legendPositionY.title
 msgid "Y-position"
-msgstr ""
+msgstr "Y 軸位置"
