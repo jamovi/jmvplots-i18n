@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-02-26 11:48+0000\n"
+"PO-Revision-Date: 2026-02-27 10:59+0000\n"
 "Last-Translator: Yuri Smolyakov <smolyakov@rambler.ru>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/jamovi/jmvplots-"
 "i18n/ru/>\n"
@@ -15,7 +15,7 @@ msgstr ""
 
 #: R/jmvbar.b.R
 msgid "{var} (mean{error})"
-msgstr "{var} (средняя{error})"
+msgstr "{var} (среднее{error})"
 
 #: jmvbar/ui/mode/continuous[1][0][0][0]/yAxisRangeType_ci/ciWidth.suffix
 #: jmvline/ui/mode/aggregate[0][1][0]/yAxisRangeType_ci/ciWidth.suffix
@@ -52,7 +52,7 @@ msgstr "Настройки агрегации"
 
 #: jmvline/options/mode/aggregate.title
 msgid "Aggregated data"
-msgstr "Данные агрегации"
+msgstr "Агрегированные данные"
 
 #: jmvbar/options/titleAlign.title
 #: jmvbar/options/subtitleAlign.title
@@ -142,11 +142,11 @@ msgstr "Столбиковый"
 
 #: jmvbar/options/groupBarType.title
 msgid "Bar type"
-msgstr "Тип столбика"
+msgstr "Тип столбца"
 
 #: jmvbar/ui[2][0][0][0].label
 msgid "Bar Type"
-msgstr "Тип бара"
+msgstr "Тип Столбца"
 
 #: jmvhist/options/binOpacity.title
 msgid "Bin opacity"
@@ -172,7 +172,7 @@ msgstr "Ширина бина"
 #: scat/options/legendPosition/bottom.title
 #: scat/options/legendJustification/bottom.title
 msgid "Bottom"
-msgstr "Нижний"
+msgstr "Снизу"
 
 #: jmvbox/ui[1][0][0][0].label
 msgid "Box Element"
@@ -519,7 +519,7 @@ msgstr "Ширина маркера"
 #: scat/options/xAxisLabelFontSize.title
 #: scat/options/legendLabelFontSize.title
 msgid "Label font size"
-msgstr "Размер шрифта этикетки"
+msgstr "Размер шрифта меток"
 
 #: jmvbar/options/yAxisLabelRotation.title
 #: jmvbar/options/xAxisLabelRotation.title
@@ -534,7 +534,7 @@ msgstr "Размер шрифта этикетки"
 #: scat/options/yAxisLabelRotation.title
 #: scat/options/xAxisLabelRotation.title
 msgid "Label rotation"
-msgstr "Ротация меток"
+msgstr "Поворот меток"
 
 #: jmvbar/options/countsLabels.title
 #: jmvbar/ui/mode/counts[0][1].label
@@ -582,7 +582,7 @@ msgstr "Метки"
 #: scat/options/legendPosition/left.title
 #: scat/options/legendJustification/left.title
 msgid "Left"
-msgstr "Левый"
+msgstr "Слева"
 
 #: jmvbar/ui[5].label
 #: jmvbox/ui[4].label
@@ -693,7 +693,7 @@ msgstr "Другие"
 #: jmvbar/options/errorBars/none.title
 #: jmvline/options/errorBars/none.title
 msgid "None"
-msgstr "Никто"
+msgstr "Отсутствует"
 
 #: jmvbox/options/notch.title
 msgid "Notch"
