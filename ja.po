@@ -1,12 +1,17 @@
 #
 msgid ""
-msgstr "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2021-07-29 16:59:59+01000\n"
+msgstr ""
+"POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
+"PO-Revision-Date: 2026-02-28 11:21+0000\n"
+"Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
+"Language-Team: Japanese <https://hosted.weblate.org/projects/jamovi/jmvplots-"
+"i18n/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 
 #: R/jmvbar.b.R
 msgid "{var} (mean{error})"
@@ -181,9 +186,8 @@ msgstr "ビン幅"
 #: scat/options/yLabelFontFace/bold.title
 #: scat/options/legendTitleFontFace/bold.title
 #: scat/options/legendLabelFontFace/bold.title
-#, fuzzy
 msgid "Bold"
-msgstr "ボールド"
+msgstr "太字"
 
 #: jmvbar/options/titleFontFace/bold-italic.title
 #: jmvbar/options/subtitleFontFace/bold-italic.title
@@ -225,9 +229,8 @@ msgstr "ボールド"
 #: scat/options/yLabelFontFace/bold-italic.title
 #: scat/options/legendTitleFontFace/bold-italic.title
 #: scat/options/legendLabelFontFace/bold-italic.title
-#, fuzzy
 msgid "Bold Italic"
-msgstr "ボールドイタリック"
+msgstr "斜体太字"
 
 #: jmvbar/options/legendPosition/bottom.title
 #: jmvbar/options/legendJustification/bottom.title
@@ -443,9 +446,8 @@ msgstr "軸を入れ替え"
 #: scat/options/captionFontFace.title
 #: scat/options/xLabelFontFace.title
 #: scat/options/yLabelFontFace.title
-#, fuzzy
 msgid "Font face"
-msgstr "フォント面"
+msgstr "書体"
 
 #: jmvbar/options/titleFontSize.title
 #: jmvbar/options/subtitleFontSize.title
@@ -608,9 +610,8 @@ msgstr "内"
 #: scat/options/yLabelFontFace/italic.title
 #: scat/options/legendTitleFontFace/italic.title
 #: scat/options/legendLabelFontFace/italic.title
-#, fuzzy
 msgid "Italic"
-msgstr "イタリック"
+msgstr "斜体"
 
 #: jmvbar/options/legendJustification.title
 #: jmvbox/options/legendJustification.title
@@ -641,9 +642,8 @@ msgstr "幅"
 #: jmvhist/options/legendLabelFontFace.title
 #: jmvline/options/legendLabelFontFace.title
 #: scat/options/legendLabelFontFace.title
-#, fuzzy
 msgid "Label font face"
-msgstr "ラベルフォント面"
+msgstr "ラベル書体"
 
 #: jmvbar/options/yAxisLabelFontSize.title
 #: jmvbar/options/xAxisLabelFontSize.title
@@ -899,9 +899,8 @@ msgstr "パレート図"
 #: scat/options/yLabelFontFace/plain.title
 #: scat/options/legendTitleFontFace/plain.title
 #: scat/options/legendLabelFontFace/plain.title
-#, fuzzy
 msgid "Plain"
-msgstr "プレーン"
+msgstr "標準"
 
 #: jmvbar/ui[3].label
 #: jmvbox/ui[2].label
@@ -1108,9 +1107,8 @@ msgstr "シンタックスモードは作図には未対応です。"
 #: jmvhist/options/legendTitleFontFace.title
 #: jmvline/options/legendTitleFontFace.title
 #: scat/options/legendTitleFontFace.title
-#, fuzzy
 msgid "Title font face"
-msgstr "タイトルフォント面"
+msgstr "タイトル書体"
 
 #: jmvbar/options/legendTitleFontSize.title
 #: jmvbox/options/legendTitleFontSize.title
