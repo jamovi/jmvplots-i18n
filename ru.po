@@ -1,12 +1,18 @@
 #
 msgid ""
-msgstr "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2021-07-29 16:59:59+01000\n"
+msgstr ""
+"POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
+"PO-Revision-Date: 2026-03-01 13:09+0000\n"
+"Last-Translator: Yuri Smolyakov <smolyakov@rambler.ru>\n"
+"Language-Team: Russian <https://hosted.weblate.org/projects/jamovi/jmvplots-"
+"i18n/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 
 #: R/jmvbar.b.R
 msgid "{var} (mean{error})"
@@ -181,7 +187,6 @@ msgstr "Ширина бина"
 #: scat/options/yLabelFontFace/bold.title
 #: scat/options/legendTitleFontFace/bold.title
 #: scat/options/legendLabelFontFace/bold.title
-#, fuzzy
 msgid "Bold"
 msgstr "Жирный"
 
@@ -225,7 +230,6 @@ msgstr "Жирный"
 #: scat/options/yLabelFontFace/bold-italic.title
 #: scat/options/legendTitleFontFace/bold-italic.title
 #: scat/options/legendLabelFontFace/bold-italic.title
-#, fuzzy
 msgid "Bold Italic"
 msgstr "Жирный курсив"
 
@@ -443,7 +447,6 @@ msgstr "Поменять оси"
 #: scat/options/captionFontFace.title
 #: scat/options/xLabelFontFace.title
 #: scat/options/yLabelFontFace.title
-#, fuzzy
 msgid "Font face"
 msgstr "Шрифт"
 
@@ -608,7 +611,6 @@ msgstr "Внутри"
 #: scat/options/yLabelFontFace/italic.title
 #: scat/options/legendTitleFontFace/italic.title
 #: scat/options/legendLabelFontFace/italic.title
-#, fuzzy
 msgid "Italic"
 msgstr "Курсив"
 
@@ -641,7 +643,6 @@ msgstr "Ширина маркера"
 #: jmvhist/options/legendLabelFontFace.title
 #: jmvline/options/legendLabelFontFace.title
 #: scat/options/legendLabelFontFace.title
-#, fuzzy
 msgid "Label font face"
 msgstr "Шрифт метки"
 
@@ -899,9 +900,8 @@ msgstr "Парето"
 #: scat/options/yLabelFontFace/plain.title
 #: scat/options/legendTitleFontFace/plain.title
 #: scat/options/legendLabelFontFace/plain.title
-#, fuzzy
 msgid "Plain"
-msgstr "Обычный"
+msgstr "Нормальный"
 
 #: jmvbar/ui[3].label
 #: jmvbox/ui[2].label
@@ -1108,7 +1108,6 @@ msgstr "Режим синтаксиса для графиков пока нед�
 #: jmvhist/options/legendTitleFontFace.title
 #: jmvline/options/legendTitleFontFace.title
 #: scat/options/legendTitleFontFace.title
-#, fuzzy
 msgid "Title font face"
 msgstr "Шрифт заголовка"
 
