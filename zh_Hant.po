@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-02-28 11:21+0000\n"
+"PO-Revision-Date: 2026-03-01 13:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jmvplots-i18n/zh_Hant/>\n"
@@ -312,16 +312,16 @@ msgstr "信賴區間"
 
 #: jmvbar/options/mode/continuous.title
 msgid "Continuous"
-msgstr "連續型"
+msgstr "連續"
 
 #: jmvbar/ui/mode/continuous[1].label
 msgid "Continuous Options"
-msgstr "連續型選項"
+msgstr "連續選項"
 
 #: jmvbar/options/convar.title
 #: jmvbar/ui/mode/continuous[0][0].label
 msgid "Continuous Variable"
-msgstr "連續型變項"
+msgstr "連續變項"
 
 #: jmvbar/options/mode/counts.title
 #: jmvbar/options/counts.title
@@ -774,7 +774,7 @@ msgstr "線條與點的樣式"
 #: jmvline/ui.title
 #: jmvline/results.title
 msgid "Line Plot"
-msgstr "線圖"
+msgstr "折線圖"
 
 #: jmvhist/options/lineSize.title
 #: jmvhist/options/densityLineSize.title
@@ -1035,7 +1035,6 @@ msgstr "右"
 
 #: package/analyses/scat.menuSubgroup
 #: package/analyses/pareto.menuSubgroup
-#, fuzzy
 msgid "scatr"
 msgstr "scatr"
 
