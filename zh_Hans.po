@@ -1,12 +1,17 @@
 #
 msgid ""
-msgstr "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2021-07-29 16:59:59+01000\n"
-"Language: zh_hans\n"
+msgstr ""
+"POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
+"PO-Revision-Date: 2026-03-03 01:09+0000\n"
+"Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
+"projects/jamovi/jmvplots-i18n/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17-dev\n"
 
 #: R/jmvbar.b.R
 msgid "{var} (mean{error})"
@@ -390,7 +395,6 @@ msgstr "不同点类型"
 #: jmvhist/options/legendDirection.title
 #: jmvline/options/legendDirection.title
 #: scat/options/legendDirection.title
-#, fuzzy
 msgid "Direction"
 msgstr "方向"
 
@@ -549,7 +553,6 @@ msgstr "分组"
 #: jmvline/ui[0][2].label
 #: scat/options/group.title
 #: scat/ui[0][2].label
-#, fuzzy
 msgid "Grouping Variable"
 msgstr "分组变量"
 
