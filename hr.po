@@ -1,12 +1,18 @@
 #
 msgid ""
-msgstr "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2021-07-29 16:59:59+01000\n"
+msgstr ""
+"POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
+"PO-Revision-Date: 2026-03-03 01:09+0000\n"
+"Last-Translator: Milo Ivir <mail@milotype.de>\n"
+"Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/jmvplots-"
+"i18n/hr/>\n"
 "Language: hr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Weblate 5.17-dev\n"
 
 #: R/jmvbar.b.R
 msgid "{var} (mean{error})"
@@ -73,7 +79,7 @@ msgstr "slika koja sadrži stupčasti dijagram"
 
 #: jmvbox/results/plot.description
 msgid "an image containing the box plot"
-msgstr "slika koja sadrži box dijagram"
+msgstr "slika koja sadrži kutijasti dijagram"
 
 #: jmvhist/results/plot.description
 msgid "an image containing the histogram"
@@ -181,9 +187,8 @@ msgstr "Širina stupaca"
 #: scat/options/yLabelFontFace/bold.title
 #: scat/options/legendTitleFontFace/bold.title
 #: scat/options/legendLabelFontFace/bold.title
-#, fuzzy
 msgid "Bold"
-msgstr "Kurus"
+msgstr "Podebljano"
 
 #: jmvbar/options/titleFontFace/bold-italic.title
 #: jmvbar/options/subtitleFontFace/bold-italic.title
@@ -225,9 +230,8 @@ msgstr "Kurus"
 #: scat/options/yLabelFontFace/bold-italic.title
 #: scat/options/legendTitleFontFace/bold-italic.title
 #: scat/options/legendLabelFontFace/bold-italic.title
-#, fuzzy
 msgid "Bold Italic"
-msgstr "Kurus i maksuzno"
+msgstr "Podebljani kurziv"
 
 #: jmvbar/options/legendPosition/bottom.title
 #: jmvbar/options/legendJustification/bottom.title
@@ -244,7 +248,7 @@ msgstr "Dolje"
 
 #: jmvbox/ui[1][0][0][0].label
 msgid "Box Element"
-msgstr "Box element"
+msgstr "Element kutije"
 
 #: package/analyses/jmvbox.title
 #: package/analyses/jmvbox.menuTitle
@@ -252,7 +256,7 @@ msgstr "Box element"
 #: jmvbox/ui.title
 #: jmvbox/results.title
 msgid "Box Plot"
-msgstr "Boxplot dijagram"
+msgstr "Kutijasti dijagram"
 
 #: jmvbar/options/mode/categorical.title
 msgid "Categorical"
@@ -443,9 +447,8 @@ msgstr "Preokreni osi"
 #: scat/options/captionFontFace.title
 #: scat/options/xLabelFontFace.title
 #: scat/options/yLabelFontFace.title
-#, fuzzy
 msgid "Font face"
-msgstr "Font"
+msgstr "Stil fonta"
 
 #: jmvbar/options/titleFontSize.title
 #: jmvbar/options/subtitleFontSize.title
@@ -608,9 +611,8 @@ msgstr "Unutar"
 #: scat/options/yLabelFontFace/italic.title
 #: scat/options/legendTitleFontFace/italic.title
 #: scat/options/legendLabelFontFace/italic.title
-#, fuzzy
 msgid "Italic"
-msgstr "Maksuzno"
+msgstr "Kurziv"
 
 #: jmvbar/options/legendJustification.title
 #: jmvbox/options/legendJustification.title
@@ -641,9 +643,8 @@ msgstr "Širina ključa"
 #: jmvhist/options/legendLabelFontFace.title
 #: jmvline/options/legendLabelFontFace.title
 #: scat/options/legendLabelFontFace.title
-#, fuzzy
 msgid "Label font face"
-msgstr "Font oznake"
+msgstr "Stil fonta oznake"
 
 #: jmvbar/options/yAxisLabelFontSize.title
 #: jmvbar/options/xAxisLabelFontSize.title
@@ -899,9 +900,8 @@ msgstr "Pareto dijagram"
 #: scat/options/yLabelFontFace/plain.title
 #: scat/options/legendTitleFontFace/plain.title
 #: scat/options/legendLabelFontFace/plain.title
-#, fuzzy
 msgid "Plain"
-msgstr "Obicno"
+msgstr "Normalno"
 
 #: jmvbar/ui[3].label
 #: jmvbox/ui[2].label
@@ -1108,9 +1108,8 @@ msgstr "Sintaksni modus za dijagrame još nije dostupan."
 #: jmvhist/options/legendTitleFontFace.title
 #: jmvline/options/legendTitleFontFace.title
 #: scat/options/legendTitleFontFace.title
-#, fuzzy
 msgid "Title font face"
-msgstr "Font naslova"
+msgstr "Stil fonta naslova"
 
 #: jmvbar/options/legendTitleFontSize.title
 #: jmvbox/options/legendTitleFontSize.title
