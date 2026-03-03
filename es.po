@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-03-03 01:09+0000\n"
-"Last-Translator: José Ángel Iranzo Sanz <joseani@unizar.es>\n"
+"PO-Revision-Date: 2026-03-04 08:09+0000\n"
+"Last-Translator: Francisco Serrador <fserrador@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/jmvplots-"
 "i18n/es/>\n"
 "Language: es\n"
@@ -186,7 +186,6 @@ msgstr "Anchura de intervalo"
 #: scat/options/yLabelFontFace/bold.title
 #: scat/options/legendTitleFontFace/bold.title
 #: scat/options/legendLabelFontFace/bold.title
-#, fuzzy
 msgid "Bold"
 msgstr "Negrita"
 
@@ -230,7 +229,6 @@ msgstr "Negrita"
 #: scat/options/yLabelFontFace/bold-italic.title
 #: scat/options/legendTitleFontFace/bold-italic.title
 #: scat/options/legendLabelFontFace/bold-italic.title
-#, fuzzy
 msgid "Bold Italic"
 msgstr "Negrita cursiva"
 
@@ -448,7 +446,6 @@ msgstr "Intercambiar ejes"
 #: scat/options/captionFontFace.title
 #: scat/options/xLabelFontFace.title
 #: scat/options/yLabelFontFace.title
-#, fuzzy
 msgid "Font face"
 msgstr "Tipo de letra"
 
@@ -613,7 +610,6 @@ msgstr "Dentro"
 #: scat/options/yLabelFontFace/italic.title
 #: scat/options/legendTitleFontFace/italic.title
 #: scat/options/legendLabelFontFace/italic.title
-#, fuzzy
 msgid "Italic"
 msgstr "Cursiva"
 
@@ -646,7 +642,6 @@ msgstr "Anchura de la clave"
 #: jmvhist/options/legendLabelFontFace.title
 #: jmvline/options/legendLabelFontFace.title
 #: scat/options/legendLabelFontFace.title
-#, fuzzy
 msgid "Label font face"
 msgstr "Tipo de letra de etiqueta"
 
@@ -904,9 +899,8 @@ msgstr "Gráfica de Pareto"
 #: scat/options/yLabelFontFace/plain.title
 #: scat/options/legendTitleFontFace/plain.title
 #: scat/options/legendLabelFontFace/plain.title
-#, fuzzy
 msgid "Plain"
-msgstr "Normal"
+msgstr "Sin formato"
 
 #: jmvbar/ui[3].label
 #: jmvbox/ui[2].label
