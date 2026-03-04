@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-02-28 11:21+0000\n"
+"PO-Revision-Date: 2026-03-04 08:09+0000\n"
 "Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/jamovi/jmvplots-"
 "i18n/ja/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.16.1-dev\n"
+"X-Generator: Weblate 5.17-dev\n"
 
 #: R/jmvbar.b.R
 msgid "{var} (mean{error})"
@@ -37,7 +37,7 @@ msgstr "集計設定"
 
 #: jmvline/options/mode/aggregate.title
 msgid "Aggregated data"
-msgstr "集計データ"
+msgstr "集計値"
 
 #: jmvbar/options/titleAlign.title
 #: jmvbar/options/subtitleAlign.title
@@ -135,7 +135,7 @@ msgstr "棒の種類"
 
 #: jmvhist/options/binOpacity.title
 msgid "Bin opacity"
-msgstr "ビン透過度"
+msgstr "ビン不透明度"
 
 #: jmvhist/options/binWidth.title
 msgid "Bin width"
@@ -381,7 +381,7 @@ msgstr "ずれ幅"
 #: jmvbar/options/errorBarSize.title
 #: jmvline/options/errorBarSize.title
 msgid "Error bar line size"
-msgstr "誤差線のサイズ"
+msgstr "誤差線の太さ"
 
 #: jmvbar/ui/mode/continuous[1][1][0].label
 #: jmvline/ui/mode/aggregate[0][1][1].label
@@ -391,7 +391,7 @@ msgstr "誤差線のスタイル"
 #: jmvbar/options/errorBarWidth.title
 #: jmvline/options/errorBarWidth.title
 msgid "Error bar width"
-msgstr "誤差線の幅"
+msgstr "キャップの幅"
 
 #: jmvbar/options/errorBars.title
 #: jmvline/options/errorBars.title
