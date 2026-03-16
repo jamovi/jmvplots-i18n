@@ -398,6 +398,12 @@ msgstr ""
 msgid "Error Bars"
 msgstr ""
 
+#: jmvbar/options/naOmit.title
+#: jmvbox/options/naOmit.title
+#: jmvline/options/naOmit.title
+msgid "Exclude cases listwise"
+msgstr ""
+
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
 msgid "Exploration"
@@ -822,6 +828,12 @@ msgstr ""
 #: scat/options/yAxisRangeMin.title
 #: scat/options/xAxisRangeMin.title
 msgid "Min"
+msgstr ""
+
+#: jmvbar/ui[1][0][1][1].label
+#: jmvbox/ui[1][0][1][1].label
+#: jmvline/ui[2][0][1][1].label
+msgid "Missing Values"
 msgstr ""
 
 #: package/analyses/pareto.menuGroup

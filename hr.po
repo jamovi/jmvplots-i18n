@@ -404,6 +404,13 @@ msgstr "Stupci greške"
 msgid "Error Bars"
 msgstr "Stupci greške"
 
+#: jmvbar/options/naOmit.title
+#: jmvbox/options/naOmit.title
+#: jmvline/options/naOmit.title
+#, fuzzy
+msgid "Exclude cases listwise"
+msgstr "Izključi slučajeve listwise"
+
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
 msgid "Exploration"
@@ -829,6 +836,13 @@ msgstr "Metoda"
 #: scat/options/xAxisRangeMin.title
 msgid "Min"
 msgstr "Min."
+
+#: jmvbar/ui[1][0][1][1].label
+#: jmvbox/ui[1][0][1][1].label
+#: jmvline/ui[2][0][1][1].label
+#, fuzzy
+msgid "Missing Values"
+msgstr "Nedostajuće vrijednosti"
 
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup

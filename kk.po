@@ -448,6 +448,13 @@ msgstr "Қателік жолақшалары"
 msgid "Error Bars"
 msgstr "Қателік жолақшалары"
 
+#: jmvbar/options/naOmit.title
+#: jmvbox/options/naOmit.title
+#: jmvline/options/naOmit.title
+#, fuzzy
+msgid "Exclude cases listwise"
+msgstr "Тізім бойынша жағдайларды ешке қату"
+
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
 #, fuzzy
@@ -913,6 +920,13 @@ msgstr "Әдіс"
 #, fuzzy
 msgid "Min"
 msgstr "Мин"
+
+#: jmvbar/ui[1][0][1][1].label
+#: jmvbox/ui[1][0][1][1].label
+#: jmvline/ui[2][0][1][1].label
+#, fuzzy
+msgid "Missing Values"
+msgstr "Жоқ мағыналар"
 
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup

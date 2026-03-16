@@ -447,6 +447,13 @@ msgstr "Batang galat"
 msgid "Error Bars"
 msgstr "Bilah kesalahan"
 
+#: jmvbar/options/naOmit.title
+#: jmvbox/options/naOmit.title
+#: jmvline/options/naOmit.title
+#, fuzzy
+msgid "Exclude cases listwise"
+msgstr "Tidak masuk daftar kasus secara menyeluruh"
+
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
 #, fuzzy
@@ -912,6 +919,13 @@ msgstr "Metode"
 #, fuzzy
 msgid "Min"
 msgstr "Min"
+
+#: jmvbar/ui[1][0][1][1].label
+#: jmvbox/ui[1][0][1][1].label
+#: jmvline/ui[2][0][1][1].label
+#, fuzzy
+msgid "Missing Values"
+msgstr "Nilai yang Hilang"
 
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup

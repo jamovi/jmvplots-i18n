@@ -400,6 +400,13 @@ msgstr "Hata çubukları"
 msgid "Error Bars"
 msgstr "Hata Çubukları"
 
+#: jmvbar/options/naOmit.title
+#: jmvbox/options/naOmit.title
+#: jmvline/options/naOmit.title
+#, fuzzy
+msgid "Exclude cases listwise"
+msgstr "Liste bakımından durumları hariç tut"
+
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
 msgid "Exploration"
@@ -828,6 +835,13 @@ msgstr "Yöntem"
 #: scat/options/xAxisRangeMin.title
 msgid "Min"
 msgstr "Min"
+
+#: jmvbar/ui[1][0][1][1].label
+#: jmvbox/ui[1][0][1][1].label
+#: jmvline/ui[2][0][1][1].label
+#, fuzzy
+msgid "Missing Values"
+msgstr "Eksik Değerler"
 
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup

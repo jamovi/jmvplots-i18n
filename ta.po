@@ -446,6 +446,13 @@ msgstr "பிழை பட்டைகள்"
 msgid "Error Bars"
 msgstr "பிழை பட்டைகள்"
 
+#: jmvbar/options/naOmit.title
+#: jmvbox/options/naOmit.title
+#: jmvline/options/naOmit.title
+#, fuzzy
+msgid "Exclude cases listwise"
+msgstr "பட்டியல் முறையில் விலக்கு வழங்குதல்"
+
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
 msgid "Exploration"
@@ -909,6 +916,13 @@ msgstr "முறை"
 #, fuzzy
 msgid "Min"
 msgstr "குறைந்தபட்சம்"
+
+#: jmvbar/ui[1][0][1][1].label
+#: jmvbox/ui[1][0][1][1].label
+#: jmvline/ui[2][0][1][1].label
+#, fuzzy
+msgid "Missing Values"
+msgstr "பதிலில்லா மதிப்புகள்"
 
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup

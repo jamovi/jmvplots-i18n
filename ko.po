@@ -433,6 +433,13 @@ msgstr "없번 총"
 msgid "Error Bars"
 msgstr "없번 총"
 
+#: jmvbar/options/naOmit.title
+#: jmvbox/options/naOmit.title
+#: jmvline/options/naOmit.title
+#, fuzzy
+msgid "Exclude cases listwise"
+msgstr "리스트별로 경우 제외"
+
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
 #, fuzzy
@@ -896,6 +903,13 @@ msgstr "방법"
 #, fuzzy
 msgid "Min"
 msgstr "최소"
+
+#: jmvbar/ui[1][0][1][1].label
+#: jmvbox/ui[1][0][1][1].label
+#: jmvline/ui[2][0][1][1].label
+#, fuzzy
+msgid "Missing Values"
+msgstr "누락된 값"
 
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup

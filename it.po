@@ -443,6 +443,13 @@ msgstr "Barre di errore"
 msgid "Error Bars"
 msgstr "Barre di errore"
 
+#: jmvbar/options/naOmit.title
+#: jmvbox/options/naOmit.title
+#: jmvline/options/naOmit.title
+#, fuzzy
+msgid "Exclude cases listwise"
+msgstr "Escludi casi listwise"
+
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
 msgid "Exploration"
@@ -906,6 +913,13 @@ msgstr "Metodo"
 #, fuzzy
 msgid "Min"
 msgstr "Min"
+
+#: jmvbar/ui[1][0][1][1].label
+#: jmvbox/ui[1][0][1][1].label
+#: jmvline/ui[2][0][1][1].label
+#, fuzzy
+msgid "Missing Values"
+msgstr "Valori mancanti"
 
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup

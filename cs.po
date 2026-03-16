@@ -448,6 +448,13 @@ msgstr "Čítače chyb"
 msgid "Error Bars"
 msgstr "Chybové čáry"
 
+#: jmvbar/options/naOmit.title
+#: jmvbox/options/naOmit.title
+#: jmvline/options/naOmit.title
+#, fuzzy
+msgid "Exclude cases listwise"
+msgstr "Vyloučit případy listwise"
+
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
 #, fuzzy
@@ -913,6 +920,13 @@ msgstr "Metoda"
 #, fuzzy
 msgid "Min"
 msgstr "Min"
+
+#: jmvbar/ui[1][0][1][1].label
+#: jmvbox/ui[1][0][1][1].label
+#: jmvline/ui[2][0][1][1].label
+#, fuzzy
+msgid "Missing Values"
+msgstr "Chybějící hodnoty"
 
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup

@@ -454,6 +454,13 @@ msgstr "أشرطة الخطأ"
 msgid "Error Bars"
 msgstr "أشرطة الخطأ"
 
+#: jmvbar/options/naOmit.title
+#: jmvbox/options/naOmit.title
+#: jmvline/options/naOmit.title
+#, fuzzy
+msgid "Exclude cases listwise"
+msgstr "استبعاد الحالات بالكامل"
+
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
 #, fuzzy
@@ -919,6 +926,13 @@ msgstr "طريقة"
 #, fuzzy
 msgid "Min"
 msgstr "الحد الأدنى"
+
+#: jmvbar/ui[1][0][1][1].label
+#: jmvbox/ui[1][0][1][1].label
+#: jmvline/ui[2][0][1][1].label
+#, fuzzy
+msgid "Missing Values"
+msgstr "قيم مفقودة"
 
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup

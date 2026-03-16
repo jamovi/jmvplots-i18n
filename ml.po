@@ -419,6 +419,13 @@ msgstr "എറർ ബാറുകൾ"
 msgid "Error Bars"
 msgstr "പിഴവ് ബാറുകൾ"
 
+#: jmvbar/options/naOmit.title
+#: jmvbox/options/naOmit.title
+#: jmvline/options/naOmit.title
+#, fuzzy
+msgid "Exclude cases listwise"
+msgstr "കേസുകളുടെ പട്ടിക ഒഴിവാക്കുക"
+
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
 msgid "Exploration"
@@ -866,6 +873,13 @@ msgstr "രീതി"
 #, fuzzy
 msgid "Min"
 msgstr "മിനിമം"
+
+#: jmvbar/ui[1][0][1][1].label
+#: jmvbox/ui[1][0][1][1].label
+#: jmvline/ui[2][0][1][1].label
+#, fuzzy
+msgid "Missing Values"
+msgstr "ഇല്ലാത്ത വിലകൾ"
 
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup

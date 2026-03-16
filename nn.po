@@ -446,6 +446,13 @@ msgstr "Fejlbarer"
 msgid "Error Bars"
 msgstr "Fejlbarer"
 
+#: jmvbar/options/naOmit.title
+#: jmvbox/options/naOmit.title
+#: jmvline/options/naOmit.title
+#, fuzzy
+msgid "Exclude cases listwise"
+msgstr "Exkluder sakene listvis"
+
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
 #, fuzzy
@@ -910,6 +917,13 @@ msgstr "Metode"
 #, fuzzy
 msgid "Min"
 msgstr "Minimum"
+
+#: jmvbar/ui[1][0][1][1].label
+#: jmvbox/ui[1][0][1][1].label
+#: jmvline/ui[2][0][1][1].label
+#, fuzzy
+msgid "Missing Values"
+msgstr "Manglande verdi"
 
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup

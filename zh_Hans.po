@@ -433,6 +433,13 @@ msgstr "误差线"
 msgid "Error Bars"
 msgstr "误差线"
 
+#: jmvbar/options/naOmit.title
+#: jmvbox/options/naOmit.title
+#: jmvline/options/naOmit.title
+#, fuzzy
+msgid "Exclude cases listwise"
+msgstr "举锁列表用给隔录"
+
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
 #, fuzzy
@@ -883,6 +890,13 @@ msgstr "方法"
 #: scat/options/xAxisRangeMin.title
 msgid "Min"
 msgstr "最小"
+
+#: jmvbar/ui[1][0][1][1].label
+#: jmvbox/ui[1][0][1][1].label
+#: jmvline/ui[2][0][1][1].label
+#, fuzzy
+msgid "Missing Values"
+msgstr "缺弹债"
 
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup

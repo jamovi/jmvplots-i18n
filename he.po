@@ -402,6 +402,13 @@ msgstr "עמודות שגיאה"
 msgid "Error Bars"
 msgstr "עמודות שגיאה"
 
+#: jmvbar/options/naOmit.title
+#: jmvbox/options/naOmit.title
+#: jmvline/options/naOmit.title
+#, fuzzy
+msgid "Exclude cases listwise"
+msgstr "הסר רשימת מקרים באופן ליסטווי"
+
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
 msgid "Exploration"
@@ -830,6 +837,13 @@ msgstr "שיטה"
 #: scat/options/xAxisRangeMin.title
 msgid "Min"
 msgstr "מינימום"
+
+#: jmvbar/ui[1][0][1][1].label
+#: jmvbox/ui[1][0][1][1].label
+#: jmvline/ui[2][0][1][1].label
+#, fuzzy
+msgid "Missing Values"
+msgstr "ערכים חסרים"
 
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup

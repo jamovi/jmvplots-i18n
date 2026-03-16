@@ -448,6 +448,13 @@ msgstr "Ράβδοι σφάλματος"
 msgid "Error Bars"
 msgstr "Μπάρες σφάλματος"
 
+#: jmvbar/options/naOmit.title
+#: jmvbox/options/naOmit.title
+#: jmvline/options/naOmit.title
+#, fuzzy
+msgid "Exclude cases listwise"
+msgstr "Αποκλείστε τις περιπτώσεις κατά λίστα"
+
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
 #, fuzzy
@@ -913,6 +920,13 @@ msgstr "Μέθοδος"
 #, fuzzy
 msgid "Min"
 msgstr "Ελάχιστο"
+
+#: jmvbar/ui[1][0][1][1].label
+#: jmvbox/ui[1][0][1][1].label
+#: jmvline/ui[2][0][1][1].label
+#, fuzzy
+msgid "Missing Values"
+msgstr "Ελλιπείς Τιμές"
 
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup

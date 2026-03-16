@@ -403,6 +403,13 @@ msgstr "誤差線"
 msgid "Error Bars"
 msgstr "誤差線"
 
+#: jmvbar/options/naOmit.title
+#: jmvbox/options/naOmit.title
+#: jmvline/options/naOmit.title
+#, fuzzy
+msgid "Exclude cases listwise"
+msgstr "ケースをリストワイズに除外"
+
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
 msgid "Exploration"
@@ -828,6 +835,13 @@ msgstr "方法"
 #: scat/options/xAxisRangeMin.title
 msgid "Min"
 msgstr "最小値"
+
+#: jmvbar/ui[1][0][1][1].label
+#: jmvbox/ui[1][0][1][1].label
+#: jmvline/ui[2][0][1][1].label
+#, fuzzy
+msgid "Missing Values"
+msgstr "欠損値"
 
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup

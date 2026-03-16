@@ -400,6 +400,13 @@ msgstr "Słupki błędów"
 msgid "Error Bars"
 msgstr "Słupki błędów"
 
+#: jmvbar/options/naOmit.title
+#: jmvbox/options/naOmit.title
+#: jmvline/options/naOmit.title
+#, fuzzy
+msgid "Exclude cases listwise"
+msgstr "Wyklucz przypadki listwise"
+
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
 msgid "Exploration"
@@ -828,6 +835,13 @@ msgstr "Metoda"
 #: scat/options/xAxisRangeMin.title
 msgid "Min"
 msgstr "Minimum"
+
+#: jmvbar/ui[1][0][1][1].label
+#: jmvbox/ui[1][0][1][1].label
+#: jmvline/ui[2][0][1][1].label
+#, fuzzy
+msgid "Missing Values"
+msgstr "Brakujące wartości"
 
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup

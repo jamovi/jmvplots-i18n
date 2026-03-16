@@ -447,6 +447,13 @@ msgstr "میله های خطا"
 msgid "Error Bars"
 msgstr "میله های خطا"
 
+#: jmvbar/options/naOmit.title
+#: jmvbox/options/naOmit.title
+#: jmvline/options/naOmit.title
+#, fuzzy
+msgid "Exclude cases listwise"
+msgstr "لیست موارد را به صورت کلی حذف کن"
+
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
 #, fuzzy
@@ -912,6 +919,13 @@ msgstr "روش"
 #, fuzzy
 msgid "Min"
 msgstr "حداقل"
+
+#: jmvbar/ui[1][0][1][1].label
+#: jmvbox/ui[1][0][1][1].label
+#: jmvline/ui[2][0][1][1].label
+#, fuzzy
+msgid "Missing Values"
+msgstr "مقادیر از دست رفته"
 
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup
