@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-03-03 01:09+0000\n"
+"PO-Revision-Date: 2026-03-17 12:09+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/jmvplots-"
 "i18n/hr/>\n"
@@ -407,9 +407,8 @@ msgstr "Stupci greške"
 #: jmvbar/options/naOmit.title
 #: jmvbox/options/naOmit.title
 #: jmvline/options/naOmit.title
-#, fuzzy
 msgid "Exclude cases listwise"
-msgstr "Izključi slučajeve listwise"
+msgstr "Isključi slučajeve prema popisu"
 
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
@@ -840,7 +839,6 @@ msgstr "Min."
 #: jmvbar/ui[1][0][1][1].label
 #: jmvbox/ui[1][0][1][1].label
 #: jmvline/ui[2][0][1][1].label
-#, fuzzy
 msgid "Missing Values"
 msgstr "Nedostajuće vrijednosti"
 
