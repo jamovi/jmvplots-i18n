@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-03-04 08:09+0000\n"
+"PO-Revision-Date: 2026-03-17 12:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jmvplots-i18n/zh_Hant/>\n"
@@ -406,9 +406,8 @@ msgstr "誤差長條"
 #: jmvbar/options/naOmit.title
 #: jmvbox/options/naOmit.title
 #: jmvline/options/naOmit.title
-#, fuzzy
 msgid "Exclude cases listwise"
-msgstr "举少列表格式"
+msgstr "在所有分析中排除 (完全排除)"
 
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
@@ -839,9 +838,8 @@ msgstr "最小"
 #: jmvbar/ui[1][0][1][1].label
 #: jmvbox/ui[1][0][1][1].label
 #: jmvline/ui[2][0][1][1].label
-#, fuzzy
 msgid "Missing Values"
-msgstr "突是倱"
+msgstr "缺失值"
 
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup
