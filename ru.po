@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-03-04 08:09+0000\n"
+"PO-Revision-Date: 2026-03-22 01:09+0000\n"
 "Last-Translator: Yuri Smolyakov <smolyakov@rambler.ru>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/jamovi/jmvplots-"
 "i18n/ru/>\n"
@@ -407,7 +407,6 @@ msgstr "Планки ошибок"
 #: jmvbar/options/naOmit.title
 #: jmvbox/options/naOmit.title
 #: jmvline/options/naOmit.title
-#, fuzzy
 msgid "Exclude cases listwise"
 msgstr "Исключить случаи списком"
 
@@ -840,7 +839,6 @@ msgstr "Мин"
 #: jmvbar/ui[1][0][1][1].label
 #: jmvbox/ui[1][0][1][1].label
 #: jmvline/ui[2][0][1][1].label
-#, fuzzy
 msgid "Missing Values"
 msgstr "Пропущенные значения"
 
