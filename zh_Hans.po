@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-03-09 01:09+0000\n"
-"Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
+"PO-Revision-Date: 2026-03-24 07:09+0000\n"
+"Last-Translator: yeyeye <m15658453017@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jmvplots-i18n/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -126,7 +126,6 @@ msgstr "柱状图"
 #: jmvbar/options.title
 #: jmvbar/ui.title
 #: jmvbar/results.title
-#, fuzzy
 msgid "Bar Plot"
 msgstr "条形图"
 
@@ -136,7 +135,6 @@ msgid "Bar type"
 msgstr "条形图类型"
 
 #: jmvbar/ui[2][0][0][0].label
-#, fuzzy
 msgid "Bar Type"
 msgstr "条形图类型"
 
@@ -266,7 +264,6 @@ msgstr "箱元素"
 #: jmvbox/options.title
 #: jmvbox/ui.title
 #: jmvbox/results.title
-#, fuzzy
 msgid "Box Plot"
 msgstr "箱线图"
 
@@ -347,7 +344,6 @@ msgstr "计数"
 
 #: pareto/options/counts.title
 #: pareto/ui[0][1].label
-#, fuzzy
 msgid "Counts (optional)"
 msgstr "计数（可选）"
 
@@ -371,9 +367,8 @@ msgid "Density"
 msgstr "概率密度"
 
 #: jmvhist/options/densityOpacity.title
-#, fuzzy
 msgid "Density opacity"
-msgstr "密度不透明度"
+msgstr "核密度透明度"
 
 #: jmvline/options/groupColor.title
 #, fuzzy
@@ -485,9 +480,8 @@ msgstr "翻转轴"
 #: scat/options/captionFontFace.title
 #: scat/options/xLabelFontFace.title
 #: scat/options/yLabelFontFace.title
-#, fuzzy
 msgid "Font face"
-msgstr "字体"
+msgstr "字体样式"
 
 #: jmvbar/options/titleFontSize.title
 #: jmvbar/options/subtitleFontSize.title
@@ -519,7 +513,6 @@ msgstr "字体"
 #: scat/options/captionFontSize.title
 #: scat/options/xLabelFontSize.title
 #: scat/options/yLabelFontSize.title
-#, fuzzy
 msgid "Font size"
 msgstr "字体大小"
 
@@ -732,7 +725,6 @@ msgstr "标签字体大小"
 #: pareto/options/xAxisLabelRotation.title
 #: scat/options/yAxisLabelRotation.title
 #: scat/options/xAxisLabelRotation.title
-#, fuzzy
 msgid "Label rotation"
 msgstr "标签旋转"
 
@@ -815,7 +807,6 @@ msgstr "图例样式"
 #: jmvhist/ui[4][0][0][0].label
 #: jmvline/ui[6][0][0][0].label
 #: scat/ui[4][0][0][0].label
-#, fuzzy
 msgid "Legend Title"
 msgstr "图例标题"
 
@@ -840,9 +831,8 @@ msgstr "线图"
 #: jmvhist/options/lineSize.title
 #: jmvhist/options/densityLineSize.title
 #: jmvline/options/lineSize.title
-#, fuzzy
 msgid "Line size"
-msgstr "线大小"
+msgstr "线条粗细"
 
 #: scat/options/lineMethod/lm.title
 msgid "Linear"
@@ -1041,9 +1031,8 @@ msgstr "点错位"
 
 #: jmvline/options/pointSize.title
 #: scat/options/pointSize.title
-#, fuzzy
 msgid "Point size"
-msgstr "点大小"
+msgstr "散点大小"
 
 #: jmvbar/options/legendPosition.title
 #: jmvbox/options/legendPosition.title
@@ -1064,7 +1053,6 @@ msgid "Range"
 msgstr "全距"
 
 #: scat/ui[1][0][0][1].label
-#, fuzzy
 msgid "Regression Line"
 msgstr "回归线"
 
@@ -1133,7 +1121,6 @@ msgstr "散点图"
 #: scat/options.title
 #: scat/ui.title
 #: scat/results.title
-#, fuzzy
 msgid "Scatter Plot"
 msgstr "散点图"
 
@@ -1143,38 +1130,31 @@ msgid "Show bins"
 msgstr "显示箱"
 
 #: jmvhist/options/density.title
-#, fuzzy
 msgid "Show density"
 msgstr "显示密度"
 
 #: jmvhist/options/line.title
 #: scat/options/regLine.title
-#, fuzzy
 msgid "Show line"
 msgstr "显示线"
 
 #: jmvline/options/line.title
-#, fuzzy
 msgid "Show lines"
 msgstr "显示线"
 
 #: jmvbox/options/outliers.title
-#, fuzzy
 msgid "Show outliers"
-msgstr "显示异常值"
+msgstr "显示离群值"
 
 #: jmvline/options/point.title
-#, fuzzy
 msgid "Show points"
-msgstr "显示点"
+msgstr "显示数据点"
 
 #: scat/options/lineMethod/loess.title
-#, fuzzy
 msgid "Smooth"
 msgstr "平滑"
 
 #: jmvbar/options/groupBarType/stacked.title
-#, fuzzy
 msgid "Stacked"
 msgstr "堆叠"
 
@@ -1267,7 +1247,6 @@ msgstr "标题文本"
 #: jmvline/options/legendJustification/top.title
 #: scat/options/legendPosition/top.title
 #: scat/options/legendJustification/top.title
-#, fuzzy
 msgid "Top"
 msgstr "顶部"
 
@@ -1280,7 +1259,6 @@ msgstr "值标签"
 #: jmvbox/ui[0][0].label
 #: jmvhist/options/var.title
 #: jmvhist/ui[0][0].label
-#, fuzzy
 msgid "Variable"
 msgstr "变量"
 
@@ -1303,7 +1281,6 @@ msgstr "垂直"
 #: jmvbox/options/boxWidth.title
 #: jmvline/options/ciWidth.title
 #: pareto/options/barWidth.title
-#, fuzzy
 msgid "Width"
 msgstr "宽度"
 
@@ -1319,15 +1296,13 @@ msgstr "宽度"
 #: scat/options/x.title
 #: scat/ui[0][0].label
 #: scat/ui[3][0][0][0].label
-#, fuzzy
 msgid "X-Axis"
-msgstr "X轴"
+msgstr "X 轴"
 
 #: jmvhist/options/xAxisRangeType.title
 #: scat/options/xAxisRangeType.title
-#, fuzzy
 msgid "X-Axis Range"
-msgstr "X轴范围"
+msgstr "X 轴范围"
 
 #: jmvbar/options/titleType/xTitle.title
 #: jmvbox/options/titleType/xTitle.title
@@ -1358,18 +1333,16 @@ msgstr "X位置"
 #: scat/options/y.title
 #: scat/ui[0][1].label
 #: scat/ui[3][0][1][0].label
-#, fuzzy
 msgid "Y-Axis"
-msgstr "Y轴"
+msgstr "Y 轴"
 
 #: jmvbar/options/yAxisRangeType.title
 #: jmvbox/options/yAxisRangeType.title
 #: jmvhist/options/yAxisRangeType.title
 #: jmvline/options/yAxisRangeType.title
 #: scat/options/yAxisRangeType.title
-#, fuzzy
 msgid "Y-Axis Range"
-msgstr "Y轴范围"
+msgstr "Y 轴范围"
 
 #: jmvbar/options/titleType/yTitle.title
 #: jmvbox/options/titleType/yTitle.title
