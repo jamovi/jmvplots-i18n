@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-03-17 12:09+0000\n"
+"PO-Revision-Date: 2026-04-04 01:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jmvplots-i18n/zh_Hant/>\n"
@@ -15,7 +15,7 @@ msgstr ""
 
 #: R/jmvbar.b.R
 msgid "{var} (mean{error})"
-msgstr "{var} (平均{error})"
+msgstr "{var} (平均 {error})"
 
 #: jmvbar/ui/mode/continuous[1][0][0][0]/yAxisRangeType_ci/ciWidth.suffix
 #: jmvline/ui/mode/aggregate[0][1][0]/yAxisRangeType_ci/ciWidth.suffix
