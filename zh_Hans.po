@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-03-24 07:09+0000\n"
-"Last-Translator: yeyeye <m15658453017@163.com>\n"
+"PO-Revision-Date: 2026-04-05 02:09+0000\n"
+"Last-Translator: konno_he <h3114931694@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jmvplots-i18n/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -19,7 +19,6 @@ msgstr "{var} (平均 {error})"
 
 #: jmvbar/ui/mode/continuous[1][0][0][0]/yAxisRangeType_ci/ciWidth.suffix
 #: jmvline/ui/mode/aggregate[0][1][0]/yAxisRangeType_ci/ciWidth.suffix
-#, fuzzy
 msgid "%"
 msgstr "%"
 
@@ -29,19 +28,16 @@ msgstr "排列图"
 
 #: jmvline/options/aggregateType.title
 #: jmvline/ui/mode/aggregate[0][0][0][0].label
-#, fuzzy
 msgid "Aggregate"
-msgstr "聚合"
+msgstr "汇总"
 
 #: jmvline/ui/mode/aggregate[0].label
-#, fuzzy
 msgid "Aggregate Options"
-msgstr "聚合选项"
+msgstr "汇总方式设定"
 
 #: jmvline/options/mode/aggregate.title
-#, fuzzy
 msgid "Aggregated data"
-msgstr "聚合数据"
+msgstr "汇总计算值"
 
 #: jmvbar/options/titleAlign.title
 #: jmvbar/options/subtitleAlign.title
@@ -78,7 +74,7 @@ msgstr "对齐"
 
 #: jmvbar/results/plot.description
 msgid "an image containing the bar plot"
-msgstr "包含柱状图的图像"
+msgstr "包含条形图的图像"
 
 #: jmvbox/results/plot.description
 msgid "an image containing the box plot"
@@ -1176,9 +1172,8 @@ msgstr "标准误差"
 #: R/jmvline.b.R
 #: R/pareto.b.R
 #: R/scat.b.R
-#, fuzzy
 msgid "Syntax mode for plots is not yet available."
-msgstr "绘图的语法模式尚不可用"
+msgstr "绘图的语法模式尚不可用。"
 
 #: jmvbar/options/legendTitleFontFace.title
 #: jmvbox/options/legendTitleFontFace.title
