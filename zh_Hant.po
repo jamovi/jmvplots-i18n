@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-04-05 09:34+0000\n"
+"PO-Revision-Date: 2026-04-05 11:47+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jmvplots-i18n/zh_Hant/>\n"
@@ -247,7 +247,7 @@ msgstr "底部"
 
 #: jmvbox/ui[1][0][0][0].label
 msgid "Box Element"
-msgstr "箱型圖元素"
+msgstr "盒狀圖元素"
 
 #: package/analyses/jmvbox.title
 #: package/analyses/jmvbox.menuTitle
@@ -968,7 +968,7 @@ msgstr "點"
 
 #: jmvline/ui[3][0][1][0].label
 msgid "Point Dodging"
-msgstr "點位置閃避"
+msgstr "點位置錯開"
 
 #: jmvline/options/pointSize.title
 #: scat/options/pointSize.title
@@ -1064,7 +1064,7 @@ msgstr "散布圖"
 
 #: jmvhist/options/bins.title
 msgid "Show bins"
-msgstr "顯示組距"
+msgstr "顯示區間"
 
 #: jmvhist/options/density.title
 msgid "Show density"
