@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-04-04 01:09+0000\n"
+"PO-Revision-Date: 2026-04-05 09:34+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jmvplots-i18n/zh_Hant/>\n"
@@ -78,7 +78,7 @@ msgstr "包含長條圖的圖像"
 
 #: jmvbox/results/plot.description
 msgid "an image containing the box plot"
-msgstr "包含箱形圖的圖像"
+msgstr "包含盒狀圖的圖像"
 
 #: jmvhist/results/plot.description
 msgid "an image containing the histogram"
@@ -90,7 +90,7 @@ msgstr "包含折線圖的圖像"
 
 #: scat/results/plot.description
 msgid "an image containing the scatter plot"
-msgstr "包含散佈圖的圖像"
+msgstr "包含散布圖的圖像"
 
 #: jmvbar/options/yAxisRangeType/auto.title
 #: jmvbox/options/yAxisRangeType/auto.title
@@ -255,7 +255,7 @@ msgstr "箱型圖元素"
 #: jmvbox/ui.title
 #: jmvbox/results.title
 msgid "Box Plot"
-msgstr "箱形圖"
+msgstr "盒狀圖"
 
 #: jmvbar/options/mode/categorical.title
 msgid "Categorical"
@@ -420,7 +420,7 @@ msgstr "探索"
 #: jmvline/options/flipAxes.title
 #: scat/options/flipAxes.title
 msgid "Flip axes"
-msgstr "翻轉座標軸"
+msgstr "翻轉坐標軸"
 
 #: jmvbar/options/titleFontFace.title
 #: jmvbar/options/subtitleFontFace.title
@@ -1052,7 +1052,7 @@ msgstr "scatr"
 
 #: scat/ui[1][0][0][0].label
 msgid "Scatter"
-msgstr "散佈"
+msgstr "散布"
 
 #: package/analyses/scat.title
 #: package/analyses/scat.menuTitle
@@ -1060,7 +1060,7 @@ msgstr "散佈"
 #: scat/ui.title
 #: scat/results.title
 msgid "Scatter Plot"
-msgstr "散佈圖"
+msgstr "散布圖"
 
 #: jmvhist/options/bins.title
 msgid "Show bins"
