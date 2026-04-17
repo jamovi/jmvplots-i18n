@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-04-05 11:47+0000\n"
-"Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
+"PO-Revision-Date: 2026-04-18 16:09+0000\n"
+"Last-Translator: Shun Wang <shuonwang@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jmvplots-i18n/zh_Hans/>\n"
 "Language: zh-cn\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.17-dev\n"
+"X-Generator: Weblate 5.17.1-dev\n"
 
 #: R/jmvbar.b.R
 msgid "{var} (mean{error})"
@@ -126,27 +126,23 @@ msgid "Bar Plot"
 msgstr "条形图"
 
 #: jmvbar/options/groupBarType.title
-#, fuzzy
 msgid "Bar type"
-msgstr "条形图类型"
+msgstr "条形类型"
 
 #: jmvbar/ui[2][0][0][0].label
 msgid "Bar Type"
 msgstr "条形图类型"
 
 #: jmvhist/options/binOpacity.title
-#, fuzzy
 msgid "Bin opacity"
-msgstr "箱不透明度"
+msgstr "箱体不透明度"
 
 #: jmvhist/options/binWidth.title
-#, fuzzy
 msgid "Bin width"
 msgstr "箱宽"
 
 #: jmvhist/options/binWidthType.title
 #: jmvhist/ui[1][0][0][0].label
-#, fuzzy
 msgid "Bin Width"
 msgstr "箱宽"
 
@@ -190,7 +186,6 @@ msgstr "箱宽"
 #: scat/options/yLabelFontFace/bold.title
 #: scat/options/legendTitleFontFace/bold.title
 #: scat/options/legendLabelFontFace/bold.title
-#, fuzzy
 msgid "Bold"
 msgstr "粗体"
 
@@ -251,7 +246,6 @@ msgid "Bottom"
 msgstr "底部"
 
 #: jmvbox/ui[1][0][0][0].label
-#, fuzzy
 msgid "Box Element"
 msgstr "箱元素"
 
