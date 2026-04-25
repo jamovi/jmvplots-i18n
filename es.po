@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-04-04 01:09+0000\n"
-"Last-Translator: \"Francisco J. Miguel Quesada\" <fxmiguel@gmail.com>\n"
+"PO-Revision-Date: 2026-04-26 14:09+0000\n"
+"Last-Translator: Francisco Serrador <fserrador@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/jmvplots-"
 "i18n/es/>\n"
 "Language: es\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.17-dev\n"
+"X-Generator: Weblate 5.17.1-dev\n"
 
 #: R/jmvbar.b.R
 msgid "{var} (mean{error})"
@@ -70,7 +70,7 @@ msgstr "Datos agregados"
 #: scat/options/xLabelAlign.title
 #: scat/options/yLabelAlign.title
 msgid "Align"
-msgstr "Alinear"
+msgstr "Alineación"
 
 #: jmvbar/results/plot.description
 msgid "an image containing the bar plot"
@@ -123,7 +123,7 @@ msgstr "Barra"
 #: jmvbar/ui.title
 #: jmvbar/results.title
 msgid "Bar Plot"
-msgstr "Gráfico de Barras"
+msgstr "Trama de Barra"
 
 #: jmvbar/options/groupBarType.title
 msgid "Bar type"
@@ -255,7 +255,7 @@ msgstr "Elemento de la caja"
 #: jmvbox/ui.title
 #: jmvbox/results.title
 msgid "Box Plot"
-msgstr "Gráfico de Caja"
+msgstr "Trama de caja"
 
 #: jmvbar/options/mode/categorical.title
 msgid "Categorical"
@@ -523,7 +523,7 @@ msgstr "Agrupado"
 #: scat/options/group.title
 #: scat/ui[0][2].label
 msgid "Grouping Variable"
-msgstr "Variable de Agrupación"
+msgstr "Agrupar Variable"
 
 #: jmvbar/options/congroup1.title
 #: jmvbar/ui/mode/continuous[0][1].label
@@ -1230,7 +1230,7 @@ msgstr "Eje X"
 #: jmvhist/options/xAxisRangeType.title
 #: scat/options/xAxisRangeType.title
 msgid "X-Axis Range"
-msgstr "Rango del eje X"
+msgstr "Intervalo del eje X"
 
 #: jmvbar/options/titleType/xTitle.title
 #: jmvbox/options/titleType/xTitle.title
@@ -1268,7 +1268,7 @@ msgstr "Eje Y"
 #: jmvline/options/yAxisRangeType.title
 #: scat/options/yAxisRangeType.title
 msgid "Y-Axis Range"
-msgstr "Rango del eje Y"
+msgstr "Intervalo del eje Y"
 
 #: jmvbar/options/titleType/yTitle.title
 #: jmvbox/options/titleType/yTitle.title
