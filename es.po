@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-04-26 14:09+0000\n"
-"Last-Translator: Francisco Serrador <fserrador@gmail.com>\n"
+"PO-Revision-Date: 2026-05-18 07:11+0000\n"
+"Last-Translator: José Ángel Iranzo Sanz <joseani@unizar.es>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/jmvplots-"
 "i18n/es/>\n"
 "Language: es\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.17.1-dev\n"
+"X-Generator: Weblate 2026.6.dev0\n"
 
 #: R/jmvbar.b.R
 msgid "{var} (mean{error})"
@@ -123,7 +123,7 @@ msgstr "Barra"
 #: jmvbar/ui.title
 #: jmvbar/results.title
 msgid "Bar Plot"
-msgstr "Trama de Barra"
+msgstr "Gráfico de barras"
 
 #: jmvbar/options/groupBarType.title
 msgid "Bar type"
@@ -255,7 +255,7 @@ msgstr "Elemento de la caja"
 #: jmvbox/ui.title
 #: jmvbox/results.title
 msgid "Box Plot"
-msgstr "Trama de caja"
+msgstr "Gráfico de caja"
 
 #: jmvbar/options/mode/categorical.title
 msgid "Categorical"
