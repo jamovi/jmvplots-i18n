@@ -1,12 +1,17 @@
 #
 msgid ""
-msgstr "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2021-07-29 16:59:59+01000\n"
+msgstr ""
+"POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
+"PO-Revision-Date: 2026-05-20 21:11+0000\n"
+"Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
+"Language-Team: Indonesian <https://hosted.weblate.org/projects/jamovi/"
+"jmvplots-i18n/id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2026.6.dev0\n"
 
 #: R/jmvbar.b.R
 #, fuzzy
@@ -131,9 +136,8 @@ msgstr "Bar"
 #: jmvbar/options.title
 #: jmvbar/ui.title
 #: jmvbar/results.title
-#, fuzzy
 msgid "Bar Plot"
-msgstr "Plot Bar"
+msgstr "Plot Batang"
 
 #: jmvbar/options/groupBarType.title
 #, fuzzy
@@ -141,7 +145,6 @@ msgid "Bar type"
 msgstr "Tipe bar"
 
 #: jmvbar/ui[2][0][0][0].label
-#, fuzzy
 msgid "Bar Type"
 msgstr "Tipe Bar"
 
@@ -330,7 +333,6 @@ msgstr "Tengah"
 #: jmvbar/options/errorBars/ci.title
 #: jmvline/options/errorBars/ci.title
 #: scat/options/lineSE.title
-#, fuzzy
 msgid "Confidence interval"
 msgstr "Interval kepercayaan"
 
@@ -353,15 +355,13 @@ msgstr "Variabel Kontinu"
 #: jmvbar/options/mode/counts.title
 #: jmvbar/options/counts.title
 #: jmvbar/ui/mode/counts[0][0].label
-#, fuzzy
 msgid "Counts"
-msgstr "Jumlah"
+msgstr "Frekuensi"
 
 #: pareto/options/counts.title
 #: pareto/ui[0][1].label
-#, fuzzy
 msgid "Counts (optional)"
-msgstr "Jumlah (opsional)"
+msgstr "Frekuensi (opsional)"
 
 #: package.description
 #, fuzzy
@@ -379,9 +379,8 @@ msgid "Data display"
 msgstr "Tampilan Data"
 
 #: jmvhist/ui[1][0][1][0].label
-#, fuzzy
 msgid "Density"
-msgstr "Kepadatan"
+msgstr "Kerapatan"
 
 #: jmvhist/options/densityOpacity.title
 #, fuzzy
@@ -437,9 +436,8 @@ msgstr "Lebar batang galat"
 
 #: jmvbar/options/errorBars.title
 #: jmvline/options/errorBars.title
-#, fuzzy
 msgid "Error bars"
-msgstr "Batang galat"
+msgstr "Batas kesalahan"
 
 #: jmvbar/ui/mode/continuous[1][0][0][0].label
 #: jmvline/ui/mode/aggregate[0][1][0].label
@@ -450,9 +448,8 @@ msgstr "Bilah kesalahan"
 #: jmvbar/options/naOmit.title
 #: jmvbox/options/naOmit.title
 #: jmvline/options/naOmit.title
-#, fuzzy
 msgid "Exclude cases listwise"
-msgstr "Tidak masuk daftar kasus secara menyeluruh"
+msgstr "Kecualikan kasus secara menyeluruh"
 
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
@@ -550,7 +547,6 @@ msgstr "Frekuensi (N)"
 #: jmvline/ui[2].label
 #: pareto/ui[1].label
 #: scat/ui[1].label
-#, fuzzy
 msgid "General Options"
 msgstr "Opsi Umum"
 
@@ -575,9 +571,8 @@ msgstr "Dikelompokkan"
 #: jmvline/ui[0][2].label
 #: scat/options/group.title
 #: scat/ui[0][2].label
-#, fuzzy
 msgid "Grouping Variable"
-msgstr "Variabel Pengelompokan"
+msgstr "Variabel pengelompokan"
 
 #: jmvbar/options/congroup1.title
 #: jmvbar/ui/mode/continuous[0][1].label
@@ -610,7 +605,6 @@ msgstr "Sembunyikan"
 #: jmvhist/ui.title
 #: jmvhist/ui[1][0][0][1].label
 #: jmvhist/results.title
-#, fuzzy
 msgid "Histogram"
 msgstr "Histogram"
 
@@ -890,22 +884,18 @@ msgstr "Manual"
 #: jmvline/options/yAxisRangeMax.title
 #: scat/options/yAxisRangeMax.title
 #: scat/options/xAxisRangeMax.title
-#, fuzzy
 msgid "Max"
 msgstr "Maks"
 
 #: jmvline/options/aggregateType/mean.title
-#, fuzzy
 msgid "Mean"
-msgstr "Rata-rata"
+msgstr "Mean"
 
 #: jmvline/options/aggregateType/median.title
-#, fuzzy
 msgid "Median"
 msgstr "Median"
 
 #: scat/options/lineMethod.title
-#, fuzzy
 msgid "Method"
 msgstr "Metode"
 
@@ -916,16 +906,14 @@ msgstr "Metode"
 #: jmvline/options/yAxisRangeMin.title
 #: scat/options/yAxisRangeMin.title
 #: scat/options/xAxisRangeMin.title
-#, fuzzy
 msgid "Min"
 msgstr "Min"
 
 #: jmvbar/ui[1][0][1][1].label
 #: jmvbox/ui[1][0][1][1].label
 #: jmvline/ui[2][0][1][1].label
-#, fuzzy
 msgid "Missing Values"
-msgstr "Nilai yang Hilang"
+msgstr "Missing Values"
 
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup
@@ -1092,9 +1080,8 @@ msgstr "Posisi"
 #: jmvline/ui[5][0][1][1].label
 #: scat/ui[3][0][0][1].label
 #: scat/ui[3][0][1][1].label
-#, fuzzy
 msgid "Range"
-msgstr "Rentang"
+msgstr "Range"
 
 #: scat/ui[1][0][0][1].label
 #, fuzzy
@@ -1208,21 +1195,18 @@ msgid "Smooth"
 msgstr "Halus"
 
 #: jmvbar/options/groupBarType/stacked.title
-#, fuzzy
 msgid "Stacked"
-msgstr "Tumpuk"
+msgstr "Bertumpuk"
 
 #: jmvbar/options/errorBars/sd.title
 #: jmvline/options/errorBars/sd.title
-#, fuzzy
 msgid "Standard deviation"
-msgstr "Standar deviasi"
+msgstr "Simpangan baku"
 
 #: jmvbar/options/errorBars/se.title
 #: jmvline/options/errorBars/se.title
-#, fuzzy
 msgid "Standard error"
-msgstr "Galat standar"
+msgstr "Kesalahan baku"
 
 #: R/jmvbar.b.R
 #: R/jmvbox.b.R
@@ -1314,7 +1298,6 @@ msgstr "Label nilai"
 #: jmvbox/ui[0][0].label
 #: jmvhist/options/var.title
 #: jmvhist/ui[0][0].label
-#, fuzzy
 msgid "Variable"
 msgstr "Variabel"
 
@@ -1353,9 +1336,8 @@ msgstr "Lebar"
 #: scat/options/x.title
 #: scat/ui[0][0].label
 #: scat/ui[3][0][0][0].label
-#, fuzzy
 msgid "X-Axis"
-msgstr "Sumbu X"
+msgstr "X‑Axis"
 
 #: jmvhist/options/xAxisRangeType.title
 #: scat/options/xAxisRangeType.title
@@ -1392,9 +1374,8 @@ msgstr "Posisi X"
 #: scat/options/y.title
 #: scat/ui[0][1].label
 #: scat/ui[3][0][1][0].label
-#, fuzzy
 msgid "Y-Axis"
-msgstr "Sumbu Y"
+msgstr "Y‑Axis"
 
 #: jmvbar/options/yAxisRangeType.title
 #: jmvbox/options/yAxisRangeType.title
