@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-04-18 16:09+0000\n"
-"Last-Translator: Shun Wang <shuonwang@gmail.com>\n"
+"PO-Revision-Date: 2026-05-24 12:11+0000\n"
+"Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jmvplots-i18n/zh_Hans/>\n"
 "Language: zh-cn\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.17.1-dev\n"
+"X-Generator: Weblate 2026.6.dev0\n"
 
 #: R/jmvbar.b.R
 msgid "{var} (mean{error})"
@@ -263,7 +263,6 @@ msgstr "分类"
 
 #: jmvbar/options/catvar.title
 #: jmvbar/ui/mode/categorical[0][0].label
-#, fuzzy
 msgid "Categorical Variable"
 msgstr "分类变量"
 
@@ -316,13 +315,11 @@ msgid "Continuous"
 msgstr "连续"
 
 #: jmvbar/ui/mode/continuous[1].label
-#, fuzzy
 msgid "Continuous Options"
 msgstr "连续选项"
 
 #: jmvbar/options/convar.title
 #: jmvbar/ui/mode/continuous[0][0].label
-#, fuzzy
 msgid "Continuous Variable"
 msgstr "连续变量"
 
@@ -338,17 +335,14 @@ msgid "Counts (optional)"
 msgstr "计数（可选）"
 
 #: package.description
-#, fuzzy
 msgid "Create elegant and interactive plots built on 'ggplot2'. The package is designed to provide a convenience layer to 'ggplot2' within jamovi."
 msgstr "创建基于'ggplot2'的优雅交互式图表。该包旨在为jamovi中的'ggplot2'提供便利层。"
 
 #: R/pareto.b.R
-#, fuzzy
 msgid "Cumulative Percentage"
 msgstr "累计百分比"
 
 #: jmvline/options/mode.title
-#, fuzzy
 msgid "Data display"
 msgstr "数据显示"
 
@@ -361,17 +355,14 @@ msgid "Density opacity"
 msgstr "核密度透明度"
 
 #: jmvline/options/groupColor.title
-#, fuzzy
 msgid "Different colors"
 msgstr "不同颜色"
 
 #: jmvline/options/groupLineType.title
-#, fuzzy
 msgid "Different line types"
 msgstr "不同线类型"
 
 #: jmvline/options/groupPointType.title
-#, fuzzy
 msgid "Different point types"
 msgstr "不同点类型"
 
@@ -384,50 +375,42 @@ msgid "Direction"
 msgstr "方向"
 
 #: jmvline/options/groupPositionDodge.title
-#, fuzzy
 msgid "Dodge width"
 msgstr "错位宽度"
 
 #: jmvbar/options/errorBarSize.title
 #: jmvline/options/errorBarSize.title
-#, fuzzy
 msgid "Error bar line size"
 msgstr "误差线大小"
 
 #: jmvbar/ui/mode/continuous[1][1][0].label
 #: jmvline/ui/mode/aggregate[0][1][1].label
-#, fuzzy
 msgid "Error Bar Styling"
 msgstr "误差棒样式"
 
 #: jmvbar/options/errorBarWidth.title
 #: jmvline/options/errorBarWidth.title
-#, fuzzy
 msgid "Error bar width"
 msgstr "误差线宽度"
 
 #: jmvbar/options/errorBars.title
 #: jmvline/options/errorBars.title
-#, fuzzy
 msgid "Error bars"
 msgstr "误差线"
 
 #: jmvbar/ui/mode/continuous[1][0][0][0].label
 #: jmvline/ui/mode/aggregate[0][1][0].label
-#, fuzzy
 msgid "Error Bars"
 msgstr "误差线"
 
 #: jmvbar/options/naOmit.title
 #: jmvbox/options/naOmit.title
 #: jmvline/options/naOmit.title
-#, fuzzy
 msgid "Exclude cases listwise"
-msgstr "举锁列表用给隔录"
+msgstr "按样本删除缺失值"
 
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
-#, fuzzy
 msgid "Exploration"
 msgstr "探索"
 
@@ -436,7 +419,6 @@ msgstr "探索"
 #: jmvhist/options/flipAxes.title
 #: jmvline/options/flipAxes.title
 #: scat/options/flipAxes.title
-#, fuzzy
 msgid "Flip axes"
 msgstr "翻转轴"
 
@@ -509,7 +491,6 @@ msgstr "字体大小"
 #: R/jmvbar.b.R
 #: R/jmvhist.b.R
 #: R/pareto.b.R
-#, fuzzy
 msgid "Frequency (N)"
 msgstr "频率（N）"
 
@@ -519,13 +500,11 @@ msgstr "频率（N）"
 #: jmvline/ui[2].label
 #: pareto/ui[1].label
 #: scat/ui[1].label
-#, fuzzy
 msgid "General Options"
 msgstr "常规选项"
 
 #: jmvbar/ui[2].label
 #: jmvline/ui[3].label
-#, fuzzy
 msgid "Group Options"
 msgstr "组选项"
 
@@ -550,7 +529,6 @@ msgstr "分组变量"
 #: jmvbar/ui/mode/continuous[0][1].label
 #: jmvbox/options/group1.title
 #: jmvbox/ui[0][1].label
-#, fuzzy
 msgid "Grouping Variable 1"
 msgstr "分组变量1"
 
@@ -558,7 +536,6 @@ msgstr "分组变量1"
 #: jmvbar/ui/mode/continuous[0][2].label
 #: jmvbox/options/group2.title
 #: jmvbox/ui[0][2].label
-#, fuzzy
 msgid "Grouping Variable 2"
 msgstr "分组变量2"
 
@@ -567,7 +544,6 @@ msgstr "分组变量2"
 #: jmvhist/options/legenPositionType/hide.title
 #: jmvline/options/legenPositionType/hide.title
 #: scat/options/legenPositionType/hide.title
-#, fuzzy
 msgid "Hide"
 msgstr "隐藏"
 
@@ -585,12 +561,10 @@ msgstr "直方图"
 #: jmvhist/options/legendDirection/horizontal.title
 #: jmvline/options/legendDirection/horizontal.title
 #: scat/options/legendDirection/horizontal.title
-#, fuzzy
 msgid "Horizontal"
 msgstr "水平"
 
 #: jmvline/options/mode/individual.title
-#, fuzzy
 msgid "Individual points"
 msgstr "个别点"
 
@@ -599,7 +573,6 @@ msgstr "个别点"
 #: jmvhist/options/legenPositionType/inside.title
 #: jmvline/options/legenPositionType/inside.title
 #: scat/options/legenPositionType/inside.title
-#, fuzzy
 msgid "Inside"
 msgstr "内部"
 
@@ -643,7 +616,6 @@ msgstr "内部"
 #: scat/options/yLabelFontFace/italic.title
 #: scat/options/legendTitleFontFace/italic.title
 #: scat/options/legendLabelFontFace/italic.title
-#, fuzzy
 msgid "Italic"
 msgstr "斜体"
 
@@ -652,7 +624,6 @@ msgstr "斜体"
 #: jmvhist/options/legendJustification.title
 #: jmvline/options/legendJustification.title
 #: scat/options/legendJustification.title
-#, fuzzy
 msgid "Justification"
 msgstr "对齐方式"
 
@@ -661,7 +632,6 @@ msgstr "对齐方式"
 #: jmvhist/options/legendKeyHeight.title
 #: jmvline/options/legendKeyHeight.title
 #: scat/options/legendKeyHeight.title
-#, fuzzy
 msgid "Key height"
 msgstr "键高"
 
@@ -670,7 +640,6 @@ msgstr "键高"
 #: jmvhist/options/legendKeyWidth.title
 #: jmvline/options/legendKeyWidth.title
 #: scat/options/legendKeyWidth.title
-#, fuzzy
 msgid "Key width"
 msgstr "键宽"
 
@@ -679,7 +648,6 @@ msgstr "键宽"
 #: jmvhist/options/legendLabelFontFace.title
 #: jmvline/options/legendLabelFontFace.title
 #: scat/options/legendLabelFontFace.title
-#, fuzzy
 msgid "Label font face"
 msgstr "标签字体"
 
@@ -779,7 +747,6 @@ msgstr "图例"
 #: jmvhist/ui[4][0][1][0].label
 #: jmvline/ui[6][0][1][0].label
 #: scat/ui[4][0][1][0].label
-#, fuzzy
 msgid "Legend Position"
 msgstr "图例位置"
 
@@ -788,7 +755,6 @@ msgstr "图例位置"
 #: jmvhist/ui[4][0][0][1].label
 #: jmvline/ui[6][0][0][1].label
 #: scat/ui[4][0][0][1].label
-#, fuzzy
 msgid "Legend Style"
 msgstr "图例样式"
 
@@ -805,7 +771,6 @@ msgid "Line"
 msgstr "线"
 
 #: jmvline/ui[3][0][0][0].label
-#, fuzzy
 msgid "Line & Point Style"
 msgstr "线和点样式"
 
@@ -814,7 +779,6 @@ msgstr "线和点样式"
 #: jmvline/options.title
 #: jmvline/ui.title
 #: jmvline/results.title
-#, fuzzy
 msgid "Line Plot"
 msgstr "线图"
 
@@ -879,7 +843,6 @@ msgstr "缺失值"
 
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup
-#, fuzzy
 msgid "More"
 msgstr "更多"
 
@@ -889,7 +852,6 @@ msgid "None"
 msgstr "无"
 
 #: jmvbox/options/notch.title
-#, fuzzy
 msgid "Notch"
 msgstr "凹槽"
 
@@ -898,7 +860,6 @@ msgstr "凹槽"
 #: jmvhist/options/legenPositionType/outside.title
 #: jmvline/options/legenPositionType/outside.title
 #: scat/options/legenPositionType/outside.title
-#, fuzzy
 msgid "Outside"
 msgstr "外部"
 
@@ -907,7 +868,6 @@ msgstr "外部"
 #: pareto/options.title
 #: pareto/ui.title
 #: pareto/results.title
-#, fuzzy
 msgid "Pareto Plot"
 msgstr "帕累托图"
 
@@ -960,7 +920,6 @@ msgstr "标准"
 #: jmvline/ui[4].label
 #: pareto/ui[2].label
 #: scat/ui[2].label
-#, fuzzy
 msgid "Plot & Axis Titles"
 msgstr "图表和轴标题"
 
@@ -970,7 +929,6 @@ msgstr "图表和轴标题"
 #: jmvline/options/titleType/caption.title
 #: pareto/options/titleType/caption.title
 #: scat/options/titleType/caption.title
-#, fuzzy
 msgid "Plot Caption"
 msgstr "图表标题"
 
@@ -979,7 +937,6 @@ msgstr "图表标题"
 #: jmvhist/ui[1][0][1][1].label
 #: jmvline/ui[2][0][1][0].label
 #: scat/ui[1][0][1][0].label
-#, fuzzy
 msgid "Plot Orientation"
 msgstr "图表方向"
 
@@ -989,7 +946,6 @@ msgstr "图表方向"
 #: jmvline/options/titleType/subtitle.title
 #: pareto/options/titleType/subtitle.title
 #: scat/options/titleType/subtitle.title
-#, fuzzy
 msgid "Plot Subtitle"
 msgstr "图表子标题"
 
@@ -999,12 +955,10 @@ msgstr "图表子标题"
 #: jmvline/options/titleType/title.title
 #: pareto/options/titleType/title.title
 #: scat/options/titleType/title.title
-#, fuzzy
 msgid "Plot Title"
 msgstr "图表标题"
 
 #: package.title
-#, fuzzy
 msgid "Plots bundled with jamovi"
 msgstr "与jamovi捆绑的图表"
 
@@ -1013,7 +967,6 @@ msgid "Point"
 msgstr "点"
 
 #: jmvline/ui[3][0][1][0].label
-#, fuzzy
 msgid "Point Dodging"
 msgstr "点错位"
 
@@ -1046,7 +999,6 @@ msgstr "回归线"
 
 #: jmvbar/options/xAxisLabelFontSizeRevLabels.title
 #: jmvbox/options/xAxisLabelFontSizeRevLabels.title
-#, fuzzy
 msgid "Reverse labels"
 msgstr "反转标签"
 
@@ -1095,12 +1047,10 @@ msgstr "右"
 
 #: package/analyses/scat.menuSubgroup
 #: package/analyses/pareto.menuSubgroup
-#, fuzzy
 msgid "scatr"
 msgstr "scatr"
 
 #: scat/ui[1][0][0][0].label
-#, fuzzy
 msgid "Scatter"
 msgstr "散点图"
 
@@ -1113,7 +1063,6 @@ msgid "Scatter Plot"
 msgstr "散点图"
 
 #: jmvhist/options/bins.title
-#, fuzzy
 msgid "Show bins"
 msgstr "显示箱"
 
@@ -1148,13 +1097,11 @@ msgstr "堆叠"
 
 #: jmvbar/options/errorBars/sd.title
 #: jmvline/options/errorBars/sd.title
-#, fuzzy
 msgid "Standard deviation"
 msgstr "标准差"
 
 #: jmvbar/options/errorBars/se.title
 #: jmvline/options/errorBars/se.title
-#, fuzzy
 msgid "Standard error"
 msgstr "标准误差"
 
@@ -1172,7 +1119,6 @@ msgstr "绘图的语法模式尚不可用。"
 #: jmvhist/options/legendTitleFontFace.title
 #: jmvline/options/legendTitleFontFace.title
 #: scat/options/legendTitleFontFace.title
-#, fuzzy
 msgid "Title font face"
 msgstr "标题字体"
 
@@ -1181,7 +1127,6 @@ msgstr "标题字体"
 #: jmvhist/options/legendTitleFontSize.title
 #: jmvline/options/legendTitleFontSize.title
 #: scat/options/legendTitleFontSize.title
-#, fuzzy
 msgid "Title font size"
 msgstr "标题字体大小"
 
@@ -1220,7 +1165,6 @@ msgstr "标题字体大小"
 #: scat/options/xLabel.title
 #: scat/options/yLabel.title
 #: scat/options/legendTitle.title
-#, fuzzy
 msgid "Title text"
 msgstr "标题文本"
 
@@ -1238,7 +1182,6 @@ msgid "Top"
 msgstr "顶部"
 
 #: jmvbar/options/valueLabels.title
-#, fuzzy
 msgid "Value labels"
 msgstr "值标签"
 
@@ -1250,7 +1193,6 @@ msgid "Variable"
 msgstr "变量"
 
 #: jmvbar/options/mode.title
-#, fuzzy
 msgid "Variable type"
 msgstr "变量类型"
 
@@ -1259,7 +1201,6 @@ msgstr "变量类型"
 #: jmvhist/options/legendDirection/vertical.title
 #: jmvline/options/legendDirection/vertical.title
 #: scat/options/legendDirection/vertical.title
-#, fuzzy
 msgid "Vertical"
 msgstr "垂直"
 
@@ -1297,7 +1238,6 @@ msgstr "X 轴范围"
 #: jmvline/options/titleType/xTitle.title
 #: pareto/options/titleType/xTitle.title
 #: scat/options/titleType/xTitle.title
-#, fuzzy
 msgid "X-Axis Title"
 msgstr "X轴标题"
 
@@ -1306,7 +1246,6 @@ msgstr "X轴标题"
 #: jmvhist/options/legendPositionX.title
 #: jmvline/options/legendPositionX.title
 #: scat/options/legendPositionX.title
-#, fuzzy
 msgid "X-position"
 msgstr "X位置"
 
@@ -1337,7 +1276,6 @@ msgstr "Y 轴范围"
 #: jmvline/options/titleType/yTitle.title
 #: pareto/options/titleType/yTitle.title
 #: scat/options/titleType/yTitle.title
-#, fuzzy
 msgid "Y-Axis Title"
 msgstr "Y轴标题"
 
@@ -1346,6 +1284,5 @@ msgstr "Y轴标题"
 #: jmvhist/options/legendPositionY.title
 #: jmvline/options/legendPositionY.title
 #: scat/options/legendPositionY.title
-#, fuzzy
 msgid "Y-position"
 msgstr "Y位置"
