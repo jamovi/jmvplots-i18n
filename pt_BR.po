@@ -4,11 +4,14 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2021-07-29 16:59:59+01000\n"
+"PO-Revision-Date: 2026-10-15 03:51+0000\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"Last-Translator: ALANA NUNENMACKER "
+"<anunenmacker@users.noreply.hosted.weblate.org>\n"
+"Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
+"jamovi/jmvplots-i18n/pt_BR/>\n"
+"X-Generator: Weblate 2026.11.dev0\n"
 
 #: R/jmvbar.b.R
 msgid "{var} (mean{error})"
@@ -17,7 +20,7 @@ msgstr ""
 #: jmvbar/ui/mode/continuous[1][0][0][0]/yAxisRangeType_ci/ciWidth.suffix
 #: jmvline/ui/mode/aggregate[0][1][0]/yAxisRangeType_ci/ciWidth.suffix
 msgid "%"
-msgstr ""
+msgstr "%"
 
 #: pareto/results/plot.description
 msgid "a Pareto chart"
@@ -120,7 +123,7 @@ msgstr ""
 #: jmvbar/ui.title
 #: jmvbar/results.title
 msgid "Bar Plot"
-msgstr ""
+msgstr "Gráfico de Barras"
 
 #: jmvbar/options/groupBarType.title
 msgid "Bar type"
@@ -128,7 +131,7 @@ msgstr ""
 
 #: jmvbar/ui[2][0][0][0].label
 msgid "Bar Type"
-msgstr ""
+msgstr "Tipo de Gráfico"
 
 #: jmvhist/options/binOpacity.title
 msgid "Bin opacity"
@@ -305,7 +308,7 @@ msgstr ""
 #: jmvline/options/errorBars/ci.title
 #: scat/options/lineSE.title
 msgid "Confidence interval"
-msgstr ""
+msgstr "Intervalo de confiança"
 
 #: jmvbar/options/mode/continuous.title
 msgid "Continuous"
@@ -324,12 +327,12 @@ msgstr ""
 #: jmvbar/options/counts.title
 #: jmvbar/ui/mode/counts[0][0].label
 msgid "Counts"
-msgstr ""
+msgstr "Contagem"
 
 #: pareto/options/counts.title
 #: pareto/ui[0][1].label
 msgid "Counts (optional)"
-msgstr ""
+msgstr "Contagem (opicional)"
 
 #: package.description
 msgid "Create elegant and interactive plots built on 'ggplot2'. The package is designed to provide a convenience layer to 'ggplot2' within jamovi."
@@ -345,7 +348,7 @@ msgstr ""
 
 #: jmvhist/ui[1][0][1][0].label
 msgid "Density"
-msgstr ""
+msgstr "Densidade"
 
 #: jmvhist/options/densityOpacity.title
 msgid "Density opacity"
@@ -393,7 +396,7 @@ msgstr ""
 #: jmvbar/options/errorBars.title
 #: jmvline/options/errorBars.title
 msgid "Error bars"
-msgstr ""
+msgstr "Barra de erro"
 
 #: jmvbar/ui/mode/continuous[1][0][0][0].label
 #: jmvline/ui/mode/aggregate[0][1][0].label
@@ -404,12 +407,12 @@ msgstr ""
 #: jmvbox/options/naOmit.title
 #: jmvline/options/naOmit.title
 msgid "Exclude cases listwise"
-msgstr ""
+msgstr "Excluir casos por lista"
 
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
 msgid "Exploration"
-msgstr ""
+msgstr "Exploração"
 
 #: jmvbar/options/flipAxes.title
 #: jmvbox/options/flipAxes.title
@@ -498,7 +501,7 @@ msgstr ""
 #: pareto/ui[1].label
 #: scat/ui[1].label
 msgid "General Options"
-msgstr ""
+msgstr "Opções Gerais"
 
 #: jmvbar/ui[2].label
 #: jmvline/ui[3].label
@@ -520,7 +523,7 @@ msgstr ""
 #: scat/options/group.title
 #: scat/ui[0][2].label
 msgid "Grouping Variable"
-msgstr ""
+msgstr "Variável de agrupamento"
 
 #: jmvbar/options/congroup1.title
 #: jmvbar/ui/mode/continuous[0][1].label
@@ -551,7 +554,7 @@ msgstr ""
 #: jmvhist/ui[1][0][0][1].label
 #: jmvhist/results.title
 msgid "Histogram"
-msgstr ""
+msgstr "Histograma"
 
 #: jmvbar/options/legendDirection/horizontal.title
 #: jmvbox/options/legendDirection/horizontal.title
