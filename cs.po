@@ -1,34 +1,35 @@
 #
 msgid ""
-msgstr "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2021-07-29 16:59:59+01000\n"
+msgstr ""
+"POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
+"PO-Revision-Date: 2026-10-15 03:51+0000\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"Last-Translator: Michal Várady <majkl82@users.noreply.hosted.weblate.org>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/jamovi/jmvplots-"
+"i18n/cs/>\n"
+"X-Generator: Weblate 2026.11.dev0\n"
 
 #: R/jmvbar.b.R
-#, fuzzy
 msgid "{var} (mean{error})"
 msgstr "{var} (průměr{error})"
 
 #: jmvbar/ui/mode/continuous[1][0][0][0]/yAxisRangeType_ci/ciWidth.suffix
 #: jmvline/ui/mode/aggregate[0][1][0]/yAxisRangeType_ci/ciWidth.suffix
-#, fuzzy
 msgid "%"
 msgstr "%"
 
 #: pareto/results/plot.description
-#, fuzzy
 msgid "a Pareto chart"
-msgstr "Paretoův diagram"
+msgstr "Paretův diagram"
 
 #: jmvline/options/aggregateType.title
 #: jmvline/ui/mode/aggregate[0][0][0][0].label
-#, fuzzy
 msgid "Aggregate"
-msgstr "Agregovat"
+msgstr "Agregace"
 
 #: jmvline/ui/mode/aggregate[0].label
 #, fuzzy
@@ -80,24 +81,20 @@ msgid "an image containing the bar plot"
 msgstr "obrázek obsahující sloupcový graf"
 
 #: jmvbox/results/plot.description
-#, fuzzy
 msgid "an image containing the box plot"
-msgstr "obrázek obsahující boxový graf"
+msgstr "obrázek obsahující krabicový graf"
 
 #: jmvhist/results/plot.description
-#, fuzzy
 msgid "an image containing the histogram"
 msgstr "obrázek obsahující histogram"
 
 #: jmvline/results/plot.description
-#, fuzzy
 msgid "an image containing the line plot"
-msgstr "obrázek obsahující graf linie"
+msgstr "obrázek obsahující spojnicový graf"
 
 #: scat/results/plot.description
-#, fuzzy
 msgid "an image containing the scatter plot"
-msgstr "obrázek obsahující rozptylový graf"
+msgstr "obrázek obsahující bodový graf"
 
 #: jmvbar/options/yAxisRangeType/auto.title
 #: jmvbox/options/yAxisRangeType/auto.title
@@ -107,7 +104,6 @@ msgstr "obrázek obsahující rozptylový graf"
 #: jmvline/options/yAxisRangeType/auto.title
 #: scat/options/yAxisRangeType/auto.title
 #: scat/options/xAxisRangeType/auto.title
-#, fuzzy
 msgid "Auto"
 msgstr "Automaticky"
 
@@ -117,13 +113,11 @@ msgstr "Automaticky"
 #: jmvline/ui[5].label
 #: pareto/ui[3].label
 #: scat/ui[3].label
-#, fuzzy
 msgid "Axes"
 msgstr "Osy"
 
 #: jmvbar/ui[1][0][0][0].label
 #: pareto/ui[1][0][0][0].label
-#, fuzzy
 msgid "Bar"
 msgstr "Sloupec"
 
@@ -132,35 +126,29 @@ msgstr "Sloupec"
 #: jmvbar/options.title
 #: jmvbar/ui.title
 #: jmvbar/results.title
-#, fuzzy
 msgid "Bar Plot"
-msgstr "Graf baru"
+msgstr "Sloupcový graf"
 
 #: jmvbar/options/groupBarType.title
-#, fuzzy
 msgid "Bar type"
-msgstr "Typ baru"
+msgstr "Typ sloupců"
 
 #: jmvbar/ui[2][0][0][0].label
-#, fuzzy
 msgid "Bar Type"
-msgstr "Typ sloupce"
+msgstr "Typ sloupců"
 
 #: jmvhist/options/binOpacity.title
-#, fuzzy
 msgid "Bin opacity"
-msgstr "Průhlednost binu"
+msgstr "Neprůhlednost tříd"
 
 #: jmvhist/options/binWidth.title
-#, fuzzy
 msgid "Bin width"
-msgstr "Šířka intervalu"
+msgstr "Šířka tříd"
 
 #: jmvhist/options/binWidthType.title
 #: jmvhist/ui[1][0][0][0].label
-#, fuzzy
 msgid "Bin Width"
-msgstr "Šířka intervalu"
+msgstr "Šířka tříd"
 
 #: jmvbar/options/titleFontFace/bold.title
 #: jmvbar/options/subtitleFontFace/bold.title
@@ -202,9 +190,8 @@ msgstr "Šířka intervalu"
 #: scat/options/yLabelFontFace/bold.title
 #: scat/options/legendTitleFontFace/bold.title
 #: scat/options/legendLabelFontFace/bold.title
-#, fuzzy
 msgid "Bold"
-msgstr "Tučné"
+msgstr "Tučný"
 
 #: jmvbar/options/titleFontFace/bold-italic.title
 #: jmvbar/options/subtitleFontFace/bold-italic.title
@@ -246,9 +233,8 @@ msgstr "Tučné"
 #: scat/options/yLabelFontFace/bold-italic.title
 #: scat/options/legendTitleFontFace/bold-italic.title
 #: scat/options/legendLabelFontFace/bold-italic.title
-#, fuzzy
 msgid "Bold Italic"
-msgstr "Tučné kurzíva"
+msgstr "Tučná kurzíva"
 
 #: jmvbar/options/legendPosition/bottom.title
 #: jmvbar/options/legendJustification/bottom.title
@@ -260,32 +246,27 @@ msgstr "Tučné kurzíva"
 #: jmvline/options/legendJustification/bottom.title
 #: scat/options/legendPosition/bottom.title
 #: scat/options/legendJustification/bottom.title
-#, fuzzy
 msgid "Bottom"
 msgstr "Dole"
 
 #: jmvbox/ui[1][0][0][0].label
-#, fuzzy
 msgid "Box Element"
-msgstr "Prvek boxu"
+msgstr "Prvek krabice"
 
 #: package/analyses/jmvbox.title
 #: package/analyses/jmvbox.menuTitle
 #: jmvbox/options.title
 #: jmvbox/ui.title
 #: jmvbox/results.title
-#, fuzzy
 msgid "Box Plot"
-msgstr "Boxový graf"
+msgstr "Krabicový graf"
 
 #: jmvbar/options/mode/categorical.title
-#, fuzzy
 msgid "Categorical"
 msgstr "Kategoriální"
 
 #: jmvbar/options/catvar.title
 #: jmvbar/ui/mode/categorical[0][0].label
-#, fuzzy
 msgid "Categorical Variable"
 msgstr "Kategoriální proměnná"
 
@@ -324,83 +305,70 @@ msgstr "Kategoriální proměnná"
 #: scat/options/xLabelAlign/center.title
 #: scat/options/yLabelAlign/center.title
 #: scat/options/legendJustification/center.title
-#, fuzzy
 msgid "Center"
 msgstr "Střed"
 
 #: jmvbar/options/errorBars/ci.title
 #: jmvline/options/errorBars/ci.title
 #: scat/options/lineSE.title
-#, fuzzy
 msgid "Confidence interval"
 msgstr "Interval spolehlivosti"
 
 #: jmvbar/options/mode/continuous.title
-#, fuzzy
 msgid "Continuous"
-msgstr "Nepřetržitý"
+msgstr "Spojité"
 
 #: jmvbar/ui/mode/continuous[1].label
-#, fuzzy
 msgid "Continuous Options"
-msgstr "Možnosti nepřetržitých hodnot"
+msgstr "Možnosti spojitých proměnných"
 
 #: jmvbar/options/convar.title
 #: jmvbar/ui/mode/continuous[0][0].label
-#, fuzzy
 msgid "Continuous Variable"
-msgstr "Nepřetržitá proměnná"
+msgstr "Spojitá proměnná"
 
 #: jmvbar/options/mode/counts.title
 #: jmvbar/options/counts.title
 #: jmvbar/ui/mode/counts[0][0].label
-#, fuzzy
 msgid "Counts"
 msgstr "Počty"
 
 #: pareto/options/counts.title
 #: pareto/ui[0][1].label
-#, fuzzy
 msgid "Counts (optional)"
 msgstr "Počty (nepovinné)"
 
 #: package.description
-#, fuzzy
 msgid "Create elegant and interactive plots built on 'ggplot2'. The package is designed to provide a convenience layer to 'ggplot2' within jamovi."
-msgstr "Vytvořit elegantní a interaktivní grafy postavené na 'ggplot2'. Balíček je navržen tak, aby poskytoval vrstvu pohodlí pro 'ggplot2' v rámci jamovi."
+msgstr ""
+"Vytvářejte elegantní a interaktivní grafy založené na 'ggplot2'. Balíček "
+"usnadňuje používání 'ggplot2' v prostředí jamovi."
 
 #: R/pareto.b.R
-#, fuzzy
 msgid "Cumulative Percentage"
 msgstr "Kumulativní procento"
 
 #: jmvline/options/mode.title
-#, fuzzy
 msgid "Data display"
 msgstr "Zobrazení dat"
 
 #: jmvhist/ui[1][0][1][0].label
-#, fuzzy
 msgid "Density"
 msgstr "Hustota"
 
 #: jmvhist/options/densityOpacity.title
-#, fuzzy
 msgid "Density opacity"
-msgstr "Průhlednost hustoty"
+msgstr "Neprůhlednost hustoty"
 
 #: jmvline/options/groupColor.title
-#, fuzzy
 msgid "Different colors"
 msgstr "Různé barvy"
 
 #: jmvline/options/groupLineType.title
-#, fuzzy
 msgid "Different line types"
 msgstr "Různé typy čar"
 
 #: jmvline/options/groupPointType.title
-#, fuzzy
 msgid "Different point types"
 msgstr "Různé typy bodů"
 
@@ -409,55 +377,46 @@ msgstr "Různé typy bodů"
 #: jmvhist/options/legendDirection.title
 #: jmvline/options/legendDirection.title
 #: scat/options/legendDirection.title
-#, fuzzy
 msgid "Direction"
 msgstr "Směr"
 
 #: jmvline/options/groupPositionDodge.title
-#, fuzzy
 msgid "Dodge width"
 msgstr "Šířka posunutí"
 
 #: jmvbar/options/errorBarSize.title
 #: jmvline/options/errorBarSize.title
-#, fuzzy
 msgid "Error bar line size"
-msgstr "Velikost čáry čítače chyb"
+msgstr "Tloušťka čáry chybové úsečky"
 
 #: jmvbar/ui/mode/continuous[1][1][0].label
 #: jmvline/ui/mode/aggregate[0][1][1].label
-#, fuzzy
 msgid "Error Bar Styling"
-msgstr "Styl čítačů chyb"
+msgstr "Styl chybových úseček"
 
 #: jmvbar/options/errorBarWidth.title
 #: jmvline/options/errorBarWidth.title
-#, fuzzy
 msgid "Error bar width"
-msgstr "Šířka chybové čáry"
+msgstr "Šířka chybové úsečky"
 
 #: jmvbar/options/errorBars.title
 #: jmvline/options/errorBars.title
-#, fuzzy
 msgid "Error bars"
-msgstr "Čítače chyb"
+msgstr "Chybové úsečky"
 
 #: jmvbar/ui/mode/continuous[1][0][0][0].label
 #: jmvline/ui/mode/aggregate[0][1][0].label
-#, fuzzy
 msgid "Error Bars"
-msgstr "Chybové čáry"
+msgstr "Chybové úsečky"
 
 #: jmvbar/options/naOmit.title
 #: jmvbox/options/naOmit.title
 #: jmvline/options/naOmit.title
-#, fuzzy
 msgid "Exclude cases listwise"
-msgstr "Vyloučit případy listwise"
+msgstr "Vyloučit neúplné případy"
 
 #: package/analyses/scat.menuGroup
 #: package/analyses/pareto.menuGroup
-#, fuzzy
 msgid "Exploration"
 msgstr "Průzkum"
 
@@ -466,9 +425,8 @@ msgstr "Průzkum"
 #: jmvhist/options/flipAxes.title
 #: jmvline/options/flipAxes.title
 #: scat/options/flipAxes.title
-#, fuzzy
 msgid "Flip axes"
-msgstr "Převrátit osy"
+msgstr "Prohodit osy"
 
 #: jmvbar/options/titleFontFace.title
 #: jmvbar/options/subtitleFontFace.title
@@ -500,9 +458,8 @@ msgstr "Převrátit osy"
 #: scat/options/captionFontFace.title
 #: scat/options/xLabelFontFace.title
 #: scat/options/yLabelFontFace.title
-#, fuzzy
 msgid "Font face"
-msgstr "Písmo"
+msgstr "Řez písma"
 
 #: jmvbar/options/titleFontSize.title
 #: jmvbar/options/subtitleFontSize.title
@@ -534,16 +491,14 @@ msgstr "Písmo"
 #: scat/options/captionFontSize.title
 #: scat/options/xLabelFontSize.title
 #: scat/options/yLabelFontSize.title
-#, fuzzy
 msgid "Font size"
 msgstr "Velikost písma"
 
 #: R/jmvbar.b.R
 #: R/jmvhist.b.R
 #: R/pareto.b.R
-#, fuzzy
 msgid "Frequency (N)"
-msgstr "Frekvence (N)"
+msgstr "Četnost (N)"
 
 #: jmvbar/ui[1].label
 #: jmvbox/ui[1].label
@@ -551,18 +506,15 @@ msgstr "Frekvence (N)"
 #: jmvline/ui[2].label
 #: pareto/ui[1].label
 #: scat/ui[1].label
-#, fuzzy
 msgid "General Options"
 msgstr "Obecné možnosti"
 
 #: jmvbar/ui[2].label
 #: jmvline/ui[3].label
-#, fuzzy
 msgid "Group Options"
 msgstr "Možnosti seskupení"
 
 #: jmvbar/options/groupBarType/grouped.title
-#, fuzzy
 msgid "Grouped"
 msgstr "Seskupené"
 
@@ -576,15 +528,13 @@ msgstr "Seskupené"
 #: jmvline/ui[0][2].label
 #: scat/options/group.title
 #: scat/ui[0][2].label
-#, fuzzy
 msgid "Grouping Variable"
-msgstr "Skupinová proměnná"
+msgstr "Seskupovací proměnná"
 
 #: jmvbar/options/congroup1.title
 #: jmvbar/ui/mode/continuous[0][1].label
 #: jmvbox/options/group1.title
 #: jmvbox/ui[0][1].label
-#, fuzzy
 msgid "Grouping Variable 1"
 msgstr "Seskupovací proměnná 1"
 
@@ -592,7 +542,6 @@ msgstr "Seskupovací proměnná 1"
 #: jmvbar/ui/mode/continuous[0][2].label
 #: jmvbox/options/group2.title
 #: jmvbox/ui[0][2].label
-#, fuzzy
 msgid "Grouping Variable 2"
 msgstr "Seskupovací proměnná 2"
 
@@ -601,7 +550,6 @@ msgstr "Seskupovací proměnná 2"
 #: jmvhist/options/legenPositionType/hide.title
 #: jmvline/options/legenPositionType/hide.title
 #: scat/options/legenPositionType/hide.title
-#, fuzzy
 msgid "Hide"
 msgstr "Skrýt"
 
@@ -611,7 +559,6 @@ msgstr "Skrýt"
 #: jmvhist/ui.title
 #: jmvhist/ui[1][0][0][1].label
 #: jmvhist/results.title
-#, fuzzy
 msgid "Histogram"
 msgstr "Histogram"
 
@@ -620,12 +567,10 @@ msgstr "Histogram"
 #: jmvhist/options/legendDirection/horizontal.title
 #: jmvline/options/legendDirection/horizontal.title
 #: scat/options/legendDirection/horizontal.title
-#, fuzzy
 msgid "Horizontal"
 msgstr "Vodorovný"
 
 #: jmvline/options/mode/individual.title
-#, fuzzy
 msgid "Individual points"
 msgstr "Jednotlivé body"
 
@@ -634,7 +579,6 @@ msgstr "Jednotlivé body"
 #: jmvhist/options/legenPositionType/inside.title
 #: jmvline/options/legenPositionType/inside.title
 #: scat/options/legenPositionType/inside.title
-#, fuzzy
 msgid "Inside"
 msgstr "Uvnitř"
 
@@ -678,7 +622,6 @@ msgstr "Uvnitř"
 #: scat/options/yLabelFontFace/italic.title
 #: scat/options/legendTitleFontFace/italic.title
 #: scat/options/legendLabelFontFace/italic.title
-#, fuzzy
 msgid "Italic"
 msgstr "Kurzíva"
 
@@ -687,36 +630,32 @@ msgstr "Kurzíva"
 #: jmvhist/options/legendJustification.title
 #: jmvline/options/legendJustification.title
 #: scat/options/legendJustification.title
-#, fuzzy
 msgid "Justification"
-msgstr "Oprávnění"
+msgstr "Zarovnání"
 
 #: jmvbar/options/legendKeyHeight.title
 #: jmvbox/options/legendKeyHeight.title
 #: jmvhist/options/legendKeyHeight.title
 #: jmvline/options/legendKeyHeight.title
 #: scat/options/legendKeyHeight.title
-#, fuzzy
 msgid "Key height"
-msgstr "Výška klíče"
+msgstr "Výška symbolu"
 
 #: jmvbar/options/legendKeyWidth.title
 #: jmvbox/options/legendKeyWidth.title
 #: jmvhist/options/legendKeyWidth.title
 #: jmvline/options/legendKeyWidth.title
 #: scat/options/legendKeyWidth.title
-#, fuzzy
 msgid "Key width"
-msgstr "Šířka klíče"
+msgstr "Šířka symbolu"
 
 #: jmvbar/options/legendLabelFontFace.title
 #: jmvbox/options/legendLabelFontFace.title
 #: jmvhist/options/legendLabelFontFace.title
 #: jmvline/options/legendLabelFontFace.title
 #: scat/options/legendLabelFontFace.title
-#, fuzzy
 msgid "Label font face"
-msgstr "Písma popisků"
+msgstr "Řez písma popisků"
 
 #: jmvbar/options/yAxisLabelFontSize.title
 #: jmvbar/options/xAxisLabelFontSize.title
@@ -735,9 +674,8 @@ msgstr "Písma popisků"
 #: scat/options/yAxisLabelFontSize.title
 #: scat/options/xAxisLabelFontSize.title
 #: scat/options/legendLabelFontSize.title
-#, fuzzy
 msgid "Label font size"
-msgstr "Velikost písma popisků"
+msgstr "Velikost písma popisku"
 
 #: jmvbar/options/yAxisLabelRotation.title
 #: jmvbar/options/xAxisLabelRotation.title
@@ -751,13 +689,11 @@ msgstr "Velikost písma popisků"
 #: pareto/options/xAxisLabelRotation.title
 #: scat/options/yAxisLabelRotation.title
 #: scat/options/xAxisLabelRotation.title
-#, fuzzy
 msgid "Label rotation"
-msgstr "Otočení popisku"
+msgstr "Natočení popisků"
 
 #: jmvbar/options/countsLabels.title
 #: jmvbar/ui/mode/counts[0][1].label
-#, fuzzy
 msgid "Labels"
 msgstr "Popisky"
 
@@ -801,7 +737,6 @@ msgstr "Popisky"
 #: scat/options/yLabelAlign/left.title
 #: scat/options/legendPosition/left.title
 #: scat/options/legendJustification/left.title
-#, fuzzy
 msgid "Left"
 msgstr "Vlevo"
 
@@ -810,7 +745,6 @@ msgstr "Vlevo"
 #: jmvhist/ui[4].label
 #: jmvline/ui[6].label
 #: scat/ui[4].label
-#, fuzzy
 msgid "Legend"
 msgstr "Legenda"
 
@@ -819,16 +753,14 @@ msgstr "Legenda"
 #: jmvhist/ui[4][0][1][0].label
 #: jmvline/ui[6][0][1][0].label
 #: scat/ui[4][0][1][0].label
-#, fuzzy
 msgid "Legend Position"
-msgstr "Pozice legendy"
+msgstr "Poloha legendy"
 
 #: jmvbar/ui[5][0][0][1].label
 #: jmvbox/ui[4][0][0][1].label
 #: jmvhist/ui[4][0][0][1].label
 #: jmvline/ui[6][0][0][1].label
 #: scat/ui[4][0][0][1].label
-#, fuzzy
 msgid "Legend Style"
 msgstr "Styl legendy"
 
@@ -837,17 +769,14 @@ msgstr "Styl legendy"
 #: jmvhist/ui[4][0][0][0].label
 #: jmvline/ui[6][0][0][0].label
 #: scat/ui[4][0][0][0].label
-#, fuzzy
 msgid "Legend Title"
-msgstr "Titulek legendy"
+msgstr "Název legendy"
 
 #: jmvline/ui[2][0][0][0].label
-#, fuzzy
 msgid "Line"
 msgstr "Čára"
 
 #: jmvline/ui[3][0][0][0].label
-#, fuzzy
 msgid "Line & Point Style"
 msgstr "Styl čáry a bodu"
 
@@ -856,19 +785,16 @@ msgstr "Styl čáry a bodu"
 #: jmvline/options.title
 #: jmvline/ui.title
 #: jmvline/results.title
-#, fuzzy
 msgid "Line Plot"
-msgstr "Graf čáry"
+msgstr "Spojnicový graf"
 
 #: jmvhist/options/lineSize.title
 #: jmvhist/options/densityLineSize.title
 #: jmvline/options/lineSize.title
-#, fuzzy
 msgid "Line size"
-msgstr "Velikost čáry"
+msgstr "Tloušťka čáry"
 
 #: scat/options/lineMethod/lm.title
-#, fuzzy
 msgid "Linear"
 msgstr "Lineární"
 
@@ -880,7 +806,6 @@ msgstr "Lineární"
 #: jmvline/options/yAxisRangeType/manual.title
 #: scat/options/yAxisRangeType/manual.title
 #: scat/options/xAxisRangeType/manual.title
-#, fuzzy
 msgid "Manual"
 msgstr "Ruční"
 
@@ -891,22 +816,18 @@ msgstr "Ruční"
 #: jmvline/options/yAxisRangeMax.title
 #: scat/options/yAxisRangeMax.title
 #: scat/options/xAxisRangeMax.title
-#, fuzzy
 msgid "Max"
 msgstr "Max"
 
 #: jmvline/options/aggregateType/mean.title
-#, fuzzy
 msgid "Mean"
 msgstr "Průměr"
 
 #: jmvline/options/aggregateType/median.title
-#, fuzzy
 msgid "Median"
 msgstr "Medián"
 
 #: scat/options/lineMethod.title
-#, fuzzy
 msgid "Method"
 msgstr "Metoda"
 
@@ -917,51 +838,44 @@ msgstr "Metoda"
 #: jmvline/options/yAxisRangeMin.title
 #: scat/options/yAxisRangeMin.title
 #: scat/options/xAxisRangeMin.title
-#, fuzzy
 msgid "Min"
 msgstr "Min"
 
 #: jmvbar/ui[1][0][1][1].label
 #: jmvbox/ui[1][0][1][1].label
 #: jmvline/ui[2][0][1][1].label
-#, fuzzy
 msgid "Missing Values"
 msgstr "Chybějící hodnoty"
 
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup
-#, fuzzy
 msgid "More"
 msgstr "Více"
 
 #: jmvbar/options/errorBars/none.title
 #: jmvline/options/errorBars/none.title
-#, fuzzy
 msgid "None"
 msgstr "Žádné"
 
 #: jmvbox/options/notch.title
-#, fuzzy
 msgid "Notch"
-msgstr "Vykrojení"
+msgstr "Zářez"
 
 #: jmvbar/options/legenPositionType/outside.title
 #: jmvbox/options/legenPositionType/outside.title
 #: jmvhist/options/legenPositionType/outside.title
 #: jmvline/options/legenPositionType/outside.title
 #: scat/options/legenPositionType/outside.title
-#, fuzzy
 msgid "Outside"
-msgstr "Venku"
+msgstr "Vně"
 
 #: package/analyses/pareto.title
 #: package/analyses/pareto.menuTitle
 #: pareto/options.title
 #: pareto/ui.title
 #: pareto/results.title
-#, fuzzy
 msgid "Pareto Plot"
-msgstr "Paretoův graf"
+msgstr "Paretův graf"
 
 #: jmvbar/options/titleFontFace/plain.title
 #: jmvbar/options/subtitleFontFace/plain.title
@@ -1003,9 +917,8 @@ msgstr "Paretoův graf"
 #: scat/options/yLabelFontFace/plain.title
 #: scat/options/legendTitleFontFace/plain.title
 #: scat/options/legendLabelFontFace/plain.title
-#, fuzzy
 msgid "Plain"
-msgstr "Prostý"
+msgstr "Obyčejný"
 
 #: jmvbar/ui[3].label
 #: jmvbox/ui[2].label
@@ -1013,9 +926,8 @@ msgstr "Prostý"
 #: jmvline/ui[4].label
 #: pareto/ui[2].label
 #: scat/ui[2].label
-#, fuzzy
 msgid "Plot & Axis Titles"
-msgstr "Titulky a osy grafu"
+msgstr "Názvy grafu a os"
 
 #: jmvbar/options/titleType/caption.title
 #: jmvbox/options/titleType/caption.title
@@ -1023,7 +935,6 @@ msgstr "Titulky a osy grafu"
 #: jmvline/options/titleType/caption.title
 #: pareto/options/titleType/caption.title
 #: scat/options/titleType/caption.title
-#, fuzzy
 msgid "Plot Caption"
 msgstr "Popisek grafu"
 
@@ -1032,7 +943,6 @@ msgstr "Popisek grafu"
 #: jmvhist/ui[1][0][1][1].label
 #: jmvline/ui[2][0][1][0].label
 #: scat/ui[1][0][1][0].label
-#, fuzzy
 msgid "Plot Orientation"
 msgstr "Orientace grafu"
 
@@ -1042,9 +952,8 @@ msgstr "Orientace grafu"
 #: jmvline/options/titleType/subtitle.title
 #: pareto/options/titleType/subtitle.title
 #: scat/options/titleType/subtitle.title
-#, fuzzy
 msgid "Plot Subtitle"
-msgstr "Podtitul grafu"
+msgstr "Podnázev grafu"
 
 #: jmvbar/options/titleType/title.title
 #: jmvbox/options/titleType/title.title
@@ -1052,28 +961,23 @@ msgstr "Podtitul grafu"
 #: jmvline/options/titleType/title.title
 #: pareto/options/titleType/title.title
 #: scat/options/titleType/title.title
-#, fuzzy
 msgid "Plot Title"
-msgstr "Titulek grafu"
+msgstr "Název grafu"
 
 #: package.title
-#, fuzzy
 msgid "Plots bundled with jamovi"
-msgstr "Grafy zabalené s jamovi"
+msgstr "Grafy dodávané s jamovi"
 
 #: jmvline/ui[2][0][0][1].label
-#, fuzzy
 msgid "Point"
 msgstr "Bod"
 
 #: jmvline/ui[3][0][1][0].label
-#, fuzzy
 msgid "Point Dodging"
 msgstr "Posunutí bodů"
 
 #: jmvline/options/pointSize.title
 #: scat/options/pointSize.title
-#, fuzzy
 msgid "Point size"
 msgstr "Velikost bodu"
 
@@ -1082,9 +986,8 @@ msgstr "Velikost bodu"
 #: jmvhist/options/legendPosition.title
 #: jmvline/options/legendPosition.title
 #: scat/options/legendPosition.title
-#, fuzzy
 msgid "Position"
-msgstr "Pozice"
+msgstr "Poloha"
 
 #: jmvbar/ui[4][0][1][1].label
 #: jmvbox/ui[3][0][1][1].label
@@ -1093,18 +996,15 @@ msgstr "Pozice"
 #: jmvline/ui[5][0][1][1].label
 #: scat/ui[3][0][0][1].label
 #: scat/ui[3][0][1][1].label
-#, fuzzy
 msgid "Range"
 msgstr "Rozsah"
 
 #: scat/ui[1][0][0][1].label
-#, fuzzy
 msgid "Regression Line"
-msgstr "Regresní linie"
+msgstr "Regresní přímka"
 
 #: jmvbar/options/xAxisLabelFontSizeRevLabels.title
 #: jmvbox/options/xAxisLabelFontSizeRevLabels.title
-#, fuzzy
 msgid "Reverse labels"
 msgstr "Obrátit popisky"
 
@@ -1148,80 +1048,66 @@ msgstr "Obrátit popisky"
 #: scat/options/yLabelAlign/right.title
 #: scat/options/legendPosition/right.title
 #: scat/options/legendJustification/right.title
-#, fuzzy
 msgid "Right"
 msgstr "Vpravo"
 
 #: package/analyses/scat.menuSubgroup
 #: package/analyses/pareto.menuSubgroup
-#, fuzzy
 msgid "scatr"
 msgstr "scatr"
 
 #: scat/ui[1][0][0][0].label
-#, fuzzy
 msgid "Scatter"
-msgstr "Rozptyl"
+msgstr "Bodový graf"
 
 #: package/analyses/scat.title
 #: package/analyses/scat.menuTitle
 #: scat/options.title
 #: scat/ui.title
 #: scat/results.title
-#, fuzzy
 msgid "Scatter Plot"
-msgstr "Graf rozptylu"
+msgstr "Bodový graf"
 
 #: jmvhist/options/bins.title
-#, fuzzy
 msgid "Show bins"
-msgstr "Zobrazit intervaly"
+msgstr "Zobrazit třídy"
 
 #: jmvhist/options/density.title
-#, fuzzy
 msgid "Show density"
 msgstr "Zobrazit hustotu"
 
 #: jmvhist/options/line.title
 #: scat/options/regLine.title
-#, fuzzy
 msgid "Show line"
 msgstr "Zobrazit čáru"
 
 #: jmvline/options/line.title
-#, fuzzy
 msgid "Show lines"
 msgstr "Zobrazit čáry"
 
 #: jmvbox/options/outliers.title
-#, fuzzy
 msgid "Show outliers"
-msgstr "Zobrazit outliers"
+msgstr "Zobrazit odlehlé hodnoty"
 
 #: jmvline/options/point.title
-#, fuzzy
 msgid "Show points"
 msgstr "Zobrazit body"
 
 #: scat/options/lineMethod/loess.title
-#, fuzzy
 msgid "Smooth"
-msgstr "Plynulý"
+msgstr "Vyhlazená"
 
 #: jmvbar/options/groupBarType/stacked.title
-#, fuzzy
 msgid "Stacked"
-msgstr "Seskupený"
+msgstr "Skládaný"
 
 #: jmvbar/options/errorBars/sd.title
 #: jmvline/options/errorBars/sd.title
-#, fuzzy
 msgid "Standard deviation"
-msgstr "Průměrná odchylka"
+msgstr "Směrodatná odchylka"
 
 #: jmvbar/options/errorBars/se.title
 #: jmvline/options/errorBars/se.title
-#, fuzzy
 msgid "Standard error"
 msgstr "Standardní chyba"
 
@@ -1231,7 +1117,6 @@ msgstr "Standardní chyba"
 #: R/jmvline.b.R
 #: R/pareto.b.R
 #: R/scat.b.R
-#, fuzzy
 msgid "Syntax mode for plots is not yet available."
 msgstr "Režim syntaxe pro grafy ještě není k dispozici."
 
@@ -1240,18 +1125,16 @@ msgstr "Režim syntaxe pro grafy ještě není k dispozici."
 #: jmvhist/options/legendTitleFontFace.title
 #: jmvline/options/legendTitleFontFace.title
 #: scat/options/legendTitleFontFace.title
-#, fuzzy
 msgid "Title font face"
-msgstr "Písma titulku"
+msgstr "Řez písma názvu"
 
 #: jmvbar/options/legendTitleFontSize.title
 #: jmvbox/options/legendTitleFontSize.title
 #: jmvhist/options/legendTitleFontSize.title
 #: jmvline/options/legendTitleFontSize.title
 #: scat/options/legendTitleFontSize.title
-#, fuzzy
 msgid "Title font size"
-msgstr "Velikost písma titulu"
+msgstr "Velikost písma názvu"
 
 #: jmvbar/options/title.title
 #: jmvbar/options/subtitle.title
@@ -1288,9 +1171,8 @@ msgstr "Velikost písma titulu"
 #: scat/options/xLabel.title
 #: scat/options/yLabel.title
 #: scat/options/legendTitle.title
-#, fuzzy
 msgid "Title text"
-msgstr "Text titulku"
+msgstr "Text názvu"
 
 #: jmvbar/options/legendPosition/top.title
 #: jmvbar/options/legendJustification/top.title
@@ -1302,25 +1184,21 @@ msgstr "Text titulku"
 #: jmvline/options/legendJustification/top.title
 #: scat/options/legendPosition/top.title
 #: scat/options/legendJustification/top.title
-#, fuzzy
 msgid "Top"
-msgstr "Horní"
+msgstr "Nahoře"
 
 #: jmvbar/options/valueLabels.title
-#, fuzzy
 msgid "Value labels"
-msgstr "Štítky hodnot"
+msgstr "Popisky hodnot"
 
 #: jmvbox/options/var.title
 #: jmvbox/ui[0][0].label
 #: jmvhist/options/var.title
 #: jmvhist/ui[0][0].label
-#, fuzzy
 msgid "Variable"
 msgstr "Proměnná"
 
 #: jmvbar/options/mode.title
-#, fuzzy
 msgid "Variable type"
 msgstr "Typ proměnné"
 
@@ -1329,7 +1207,6 @@ msgstr "Typ proměnné"
 #: jmvhist/options/legendDirection/vertical.title
 #: jmvline/options/legendDirection/vertical.title
 #: scat/options/legendDirection/vertical.title
-#, fuzzy
 msgid "Vertical"
 msgstr "Svislý"
 
@@ -1338,7 +1215,6 @@ msgstr "Svislý"
 #: jmvbox/options/boxWidth.title
 #: jmvline/options/ciWidth.title
 #: pareto/options/barWidth.title
-#, fuzzy
 msgid "Width"
 msgstr "Šířka"
 
@@ -1354,13 +1230,11 @@ msgstr "Šířka"
 #: scat/options/x.title
 #: scat/ui[0][0].label
 #: scat/ui[3][0][0][0].label
-#, fuzzy
 msgid "X-Axis"
 msgstr "Osa X"
 
 #: jmvhist/options/xAxisRangeType.title
 #: scat/options/xAxisRangeType.title
-#, fuzzy
 msgid "X-Axis Range"
 msgstr "Rozsah osy X"
 
@@ -1370,7 +1244,6 @@ msgstr "Rozsah osy X"
 #: jmvline/options/titleType/xTitle.title
 #: pareto/options/titleType/xTitle.title
 #: scat/options/titleType/xTitle.title
-#, fuzzy
 msgid "X-Axis Title"
 msgstr "Název osy X"
 
@@ -1379,9 +1252,8 @@ msgstr "Název osy X"
 #: jmvhist/options/legendPositionX.title
 #: jmvline/options/legendPositionX.title
 #: scat/options/legendPositionX.title
-#, fuzzy
 msgid "X-position"
-msgstr "Pozice X"
+msgstr "Poloha X"
 
 #: jmvbar/ui[4][0][1][0].label
 #: jmvbox/ui[3][0][1][0].label
@@ -1393,7 +1265,6 @@ msgstr "Pozice X"
 #: scat/options/y.title
 #: scat/ui[0][1].label
 #: scat/ui[3][0][1][0].label
-#, fuzzy
 msgid "Y-Axis"
 msgstr "Osa Y"
 
@@ -1402,7 +1273,6 @@ msgstr "Osa Y"
 #: jmvhist/options/yAxisRangeType.title
 #: jmvline/options/yAxisRangeType.title
 #: scat/options/yAxisRangeType.title
-#, fuzzy
 msgid "Y-Axis Range"
 msgstr "Rozsah osy Y"
 
@@ -1412,15 +1282,13 @@ msgstr "Rozsah osy Y"
 #: jmvline/options/titleType/yTitle.title
 #: pareto/options/titleType/yTitle.title
 #: scat/options/titleType/yTitle.title
-#, fuzzy
 msgid "Y-Axis Title"
-msgstr "Titulek osy Y"
+msgstr "Název osy Y"
 
 #: jmvbar/options/legendPositionY.title
 #: jmvbox/options/legendPositionY.title
 #: jmvhist/options/legendPositionY.title
 #: jmvline/options/legendPositionY.title
 #: scat/options/legendPositionY.title
-#, fuzzy
 msgid "Y-position"
-msgstr "Pozice Y"
+msgstr "Poloha Y"
