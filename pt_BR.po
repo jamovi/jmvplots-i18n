@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-10-15 03:51+0000\n"
+"PO-Revision-Date: 2026-10-20 23:18+0000\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "Last-Translator: ALANA NUNENMACKER "
@@ -101,7 +101,7 @@ msgstr ""
 #: scat/options/yAxisRangeType/auto.title
 #: scat/options/xAxisRangeType/auto.title
 msgid "Auto"
-msgstr ""
+msgstr "Auto"
 
 #: jmvbar/ui[4].label
 #: jmvbox/ui[3].label
@@ -187,7 +187,7 @@ msgstr ""
 #: scat/options/legendTitleFontFace/bold.title
 #: scat/options/legendLabelFontFace/bold.title
 msgid "Bold"
-msgstr ""
+msgstr "Negrito"
 
 #: jmvbar/options/titleFontFace/bold-italic.title
 #: jmvbar/options/subtitleFontFace/bold-italic.title
@@ -312,7 +312,7 @@ msgstr "Intervalo de confiança"
 
 #: jmvbar/options/mode/continuous.title
 msgid "Continuous"
-msgstr ""
+msgstr "Contínuo"
 
 #: jmvbar/ui/mode/continuous[1].label
 msgid "Continuous Options"
@@ -545,7 +545,7 @@ msgstr ""
 #: jmvline/options/legenPositionType/hide.title
 #: scat/options/legenPositionType/hide.title
 msgid "Hide"
-msgstr ""
+msgstr "Esconder"
 
 #: package/analyses/jmvhist.title
 #: package/analyses/jmvhist.menuTitle
@@ -617,7 +617,7 @@ msgstr ""
 #: scat/options/legendTitleFontFace/italic.title
 #: scat/options/legendLabelFontFace/italic.title
 msgid "Italic"
-msgstr ""
+msgstr "Itálico"
 
 #: jmvbar/options/legendJustification.title
 #: jmvbox/options/legendJustification.title
@@ -839,7 +839,7 @@ msgstr ""
 #: jmvbox/ui[1][0][1][1].label
 #: jmvline/ui[2][0][1][1].label
 msgid "Missing Values"
-msgstr ""
+msgstr "Valores faltando"
 
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup
@@ -849,7 +849,7 @@ msgstr ""
 #: jmvbar/options/errorBars/none.title
 #: jmvline/options/errorBars/none.title
 msgid "None"
-msgstr ""
+msgstr "Nenhum"
 
 #: jmvbox/options/notch.title
 msgid "Notch"
