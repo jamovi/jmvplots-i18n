@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-10-15 03:51+0000\n"
+"PO-Revision-Date: 2026-10-20 23:18+0000\n"
 "Last-Translator: Arto Luoma <arto@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/jamovi/jmvplots-"
 "i18n/fi/>\n"
@@ -136,9 +136,8 @@ msgstr "Palkki"
 #: jmvbar/options.title
 #: jmvbar/ui.title
 #: jmvbar/results.title
-#, fuzzy
 msgid "Bar Plot"
-msgstr "Palkkikaavio"
+msgstr "Pylväskuvio"
 
 #: jmvbar/options/groupBarType.title
 #, fuzzy
@@ -146,9 +145,8 @@ msgid "Bar type"
 msgstr "Palkin tyyppi"
 
 #: jmvbar/ui[2][0][0][0].label
-#, fuzzy
 msgid "Bar Type"
-msgstr "Palkin tyyppi"
+msgstr "Pylväskuvion tyyppi"
 
 #: jmvhist/options/binOpacity.title
 #, fuzzy
