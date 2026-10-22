@@ -1,6 +1,6 @@
-#
 msgid ""
-msgstr "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
+msgstr ""
+"POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
 "PO-Revision-Date: 2021-07-29 16:59:59+01000\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
@@ -366,8 +366,13 @@ msgstr "Darabszám (nem kötelező)"
 
 #: package.description
 #, fuzzy
-msgid "Create elegant and interactive plots built on 'ggplot2'. The package is designed to provide a convenience layer to 'ggplot2' within jamovi."
-msgstr "Hozzon létre elegáns és interaktív diagramokat, amelyek az 'ggplot2' csomagon alapulnak. A csomag célja, hogy egy kényelmi réteget biztosítson az 'ggplot2' számára a jamovi-ban."
+msgid ""
+"Create elegant and interactive plots built on 'ggplot2'. The package is "
+"designed to provide a convenience layer to 'ggplot2' within jamovi."
+msgstr ""
+"Hozzon létre elegáns és interaktív diagramokat, amelyek az 'ggplot2' "
+"csomagon alapulnak. A csomag célja, hogy egy kényelmi réteget biztosítson az "
+"'ggplot2' számára a jamovi-ban."
 
 #: R/pareto.b.R
 #, fuzzy
@@ -1224,16 +1229,6 @@ msgstr "Standard deviáció"
 #, fuzzy
 msgid "Standard error"
 msgstr "Standard hiba"
-
-#: R/jmvbar.b.R
-#: R/jmvbox.b.R
-#: R/jmvhist.b.R
-#: R/jmvline.b.R
-#: R/pareto.b.R
-#: R/scat.b.R
-#, fuzzy
-msgid "Syntax mode for plots is not yet available."
-msgstr "A diagramok szintaxisa még nincs elérhető."
 
 #: jmvbar/options/legendTitleFontFace.title
 #: jmvbox/options/legendTitleFontFace.title

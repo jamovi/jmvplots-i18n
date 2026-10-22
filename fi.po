@@ -1,11 +1,10 @@
-#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
 "PO-Revision-Date: 2026-10-20 23:18+0000\n"
 "Last-Translator: Arto Luoma <arto@users.noreply.hosted.weblate.org>\n"
-"Language-Team: Finnish <https://hosted.weblate.org/projects/jamovi/jmvplots-"
-"i18n/fi/>\n"
+"Language-Team: Finnish "
+"<https://hosted.weblate.org/projects/jamovi/jmvplots-i18n/fi/>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -368,8 +367,13 @@ msgstr "Määrät (valinnainen)"
 
 #: package.description
 #, fuzzy
-msgid "Create elegant and interactive plots built on 'ggplot2'. The package is designed to provide a convenience layer to 'ggplot2' within jamovi."
-msgstr "Luo elegantteja ja interaktiivisia kaavioita, jotka perustuvat 'ggplot2':een. Paketti on suunniteltu tarjoamaan mukavuuskerroksen 'ggplot2':lle jamovissa."
+msgid ""
+"Create elegant and interactive plots built on 'ggplot2'. The package is "
+"designed to provide a convenience layer to 'ggplot2' within jamovi."
+msgstr ""
+"Luo elegantteja ja interaktiivisia kaavioita, jotka perustuvat "
+"'ggplot2':een. Paketti on suunniteltu tarjoamaan mukavuuskerroksen "
+"'ggplot2':lle jamovissa."
 
 #: R/pareto.b.R
 #, fuzzy
@@ -1225,16 +1229,6 @@ msgstr "Hajonta"
 #, fuzzy
 msgid "Standard error"
 msgstr "Standardipoikkeama"
-
-#: R/jmvbar.b.R
-#: R/jmvbox.b.R
-#: R/jmvhist.b.R
-#: R/jmvline.b.R
-#: R/pareto.b.R
-#: R/scat.b.R
-#, fuzzy
-msgid "Syntax mode for plots is not yet available."
-msgstr "Kaavioiden syntaksitila ei ole vielä saatavilla."
 
 #: jmvbar/options/legendTitleFontFace.title
 #: jmvbox/options/legendTitleFontFace.title

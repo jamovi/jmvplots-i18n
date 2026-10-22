@@ -1,6 +1,6 @@
-#
 msgid ""
-msgstr "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
+msgstr ""
+"POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
 "PO-Revision-Date: 2021-07-29 16:59:59+01000\n"
 "Language: ug\n"
 "MIME-Version: 1.0\n"
@@ -366,8 +366,12 @@ msgstr "گنتی (اختیاری)"
 
 #: package.description
 #, fuzzy
-msgid "Create elegant and interactive plots built on 'ggplot2'. The package is designed to provide a convenience layer to 'ggplot2' within jamovi."
-msgstr "'ggplot2' نىڭ ئىجتىمائىي قاتلىمىسىنى تەمىنلەيدىغان، jamovi ئىچىدە 'ggplot2' گە قۇلايلىق قاتلىمىسى بەرگەن پاكېت"
+msgid ""
+"Create elegant and interactive plots built on 'ggplot2'. The package is "
+"designed to provide a convenience layer to 'ggplot2' within jamovi."
+msgstr ""
+"'ggplot2' نىڭ ئىجتىمائىي قاتلىمىسىنى تەمىنلەيدىغان، jamovi ئىچىدە 'ggplot2' "
+"گە قۇلايلىق قاتلىمىسى بەرگەن پاكېت"
 
 #: R/pareto.b.R
 #, fuzzy
@@ -1224,16 +1228,6 @@ msgstr "ستاندېرت سەلەم"
 #, fuzzy
 msgid "Standard error"
 msgstr "ستاندېرت خاتالەش"
-
-#: R/jmvbar.b.R
-#: R/jmvbox.b.R
-#: R/jmvhist.b.R
-#: R/jmvline.b.R
-#: R/pareto.b.R
-#: R/scat.b.R
-#, fuzzy
-msgid "Syntax mode for plots is not yet available."
-msgstr "سۈرەتلەرنىڭ سىنتاكسى ھېلىقىچە ئېچىلىپ بېرىلمىدى"
 
 #: jmvbar/options/legendTitleFontFace.title
 #: jmvbox/options/legendTitleFontFace.title

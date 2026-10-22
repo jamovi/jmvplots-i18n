@@ -1,11 +1,10 @@
-#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
 "PO-Revision-Date: 2026-03-12 21:12+0000\n"
 "Last-Translator: Dib Radouane <dibradouane8@gmail.com>\n"
-"Language-Team: Arabic <https://hosted.weblate.org/projects/jamovi/jmvplots-"
-"i18n/ar/>\n"
+"Language-Team: Arabic "
+"<https://hosted.weblate.org/projects/jamovi/jmvplots-i18n/ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -372,8 +371,12 @@ msgstr "الأعداد (اختياري)"
 
 #: package.description
 #, fuzzy
-msgid "Create elegant and interactive plots built on 'ggplot2'. The package is designed to provide a convenience layer to 'ggplot2' within jamovi."
-msgstr "إنشاء رسومات أنيقة وتفاعلية مبنية على 'ggplot2'. تم تصميم الحزمة لتوفير طبقة راحة ل 'ggplot2' داخل jamovi."
+msgid ""
+"Create elegant and interactive plots built on 'ggplot2'. The package is "
+"designed to provide a convenience layer to 'ggplot2' within jamovi."
+msgstr ""
+"إنشاء رسومات أنيقة وتفاعلية مبنية على 'ggplot2'. تم تصميم الحزمة لتوفير طبقة "
+"راحة ل 'ggplot2' داخل jamovi."
 
 #: R/pareto.b.R
 #, fuzzy
@@ -1230,16 +1233,6 @@ msgstr "الانحراف المعياري"
 #, fuzzy
 msgid "Standard error"
 msgstr "خطأ معياري"
-
-#: R/jmvbar.b.R
-#: R/jmvbox.b.R
-#: R/jmvhist.b.R
-#: R/jmvline.b.R
-#: R/pareto.b.R
-#: R/scat.b.R
-#, fuzzy
-msgid "Syntax mode for plots is not yet available."
-msgstr "الوضع النحوي للرسومات ليس متاحًا بعد."
 
 #: jmvbar/options/legendTitleFontFace.title
 #: jmvbox/options/legendTitleFontFace.title

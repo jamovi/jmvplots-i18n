@@ -1,12 +1,13 @@
-#
 msgid ""
-msgstr "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
+msgstr ""
+"POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
 "PO-Revision-Date: 2021-07-29 16:59:59+01000\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
 
 #: R/jmvbar.b.R
 #, fuzzy
@@ -366,8 +367,12 @@ msgstr "Numărări (opțional)"
 
 #: package.description
 #, fuzzy
-msgid "Create elegant and interactive plots built on 'ggplot2'. The package is designed to provide a convenience layer to 'ggplot2' within jamovi."
-msgstr "Creează grafice elegante și interactive bazate pe 'ggplot2'. Pachetul este proiectat pentru a oferi un strat de confort 'ggplot2' înd cadrul jamovi."
+msgid ""
+"Create elegant and interactive plots built on 'ggplot2'. The package is "
+"designed to provide a convenience layer to 'ggplot2' within jamovi."
+msgstr ""
+"Creează grafice elegante și interactive bazate pe 'ggplot2'. Pachetul este "
+"proiectat pentru a oferi un strat de confort 'ggplot2' înd cadrul jamovi."
 
 #: R/pareto.b.R
 #, fuzzy
@@ -1224,16 +1229,6 @@ msgstr "Abatere standard"
 #, fuzzy
 msgid "Standard error"
 msgstr "Eroare standard"
-
-#: R/jmvbar.b.R
-#: R/jmvbox.b.R
-#: R/jmvhist.b.R
-#: R/jmvline.b.R
-#: R/pareto.b.R
-#: R/scat.b.R
-#, fuzzy
-msgid "Syntax mode for plots is not yet available."
-msgstr "Modul de sintaxă pentru diagrame nu este încă disponibil."
 
 #: jmvbar/options/legendTitleFontFace.title
 #: jmvbox/options/legendTitleFontFace.title

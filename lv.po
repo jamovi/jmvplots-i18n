@@ -333,7 +333,9 @@ msgid "Counts (optional)"
 msgstr ""
 
 #: package.description
-msgid "Create elegant and interactive plots built on 'ggplot2'. The package is designed to provide a convenience layer to 'ggplot2' within jamovi."
+msgid ""
+"Create elegant and interactive plots built on 'ggplot2'. The package is "
+"designed to provide a convenience layer to 'ggplot2' within jamovi."
 msgstr ""
 
 #: R/pareto.b.R
@@ -1101,15 +1103,6 @@ msgstr ""
 #: jmvbar/options/errorBars/se.title
 #: jmvline/options/errorBars/se.title
 msgid "Standard error"
-msgstr ""
-
-#: R/jmvbar.b.R
-#: R/jmvbox.b.R
-#: R/jmvhist.b.R
-#: R/jmvline.b.R
-#: R/pareto.b.R
-#: R/scat.b.R
-msgid "Syntax mode for plots is not yet available."
 msgstr ""
 
 #: jmvbar/options/legendTitleFontFace.title

@@ -1,11 +1,10 @@
-#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
 "PO-Revision-Date: 2026-10-10 13:57+0000\n"
 "Last-Translator: José Ángel Iranzo Sanz <joseani@unizar.es>\n"
-"Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/jmvplots-"
-"i18n/es/>\n"
+"Language-Team: Spanish "
+"<https://hosted.weblate.org/projects/jamovi/jmvplots-i18n/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -335,7 +334,9 @@ msgid "Counts (optional)"
 msgstr "Recuentos (opcional)"
 
 #: package.description
-msgid "Create elegant and interactive plots built on 'ggplot2'. The package is designed to provide a convenience layer to 'ggplot2' within jamovi."
+msgid ""
+"Create elegant and interactive plots built on 'ggplot2'. The package is "
+"designed to provide a convenience layer to 'ggplot2' within jamovi."
 msgstr ""
 "Crear gráficos elegantes e interactivos mediante 'ggplot2'. El paquete está "
 "diseñado para proporcionar una capa conveniente para el uso de 'ggplot2' "
@@ -1107,15 +1108,6 @@ msgstr "Desviación típica"
 #: jmvline/options/errorBars/se.title
 msgid "Standard error"
 msgstr "Error estándar"
-
-#: R/jmvbar.b.R
-#: R/jmvbox.b.R
-#: R/jmvhist.b.R
-#: R/jmvline.b.R
-#: R/pareto.b.R
-#: R/scat.b.R
-msgid "Syntax mode for plots is not yet available."
-msgstr "Modo 'sintaxis' todavía no disponible para gráficos."
 
 #: jmvbar/options/legendTitleFontFace.title
 #: jmvbox/options/legendTitleFontFace.title
