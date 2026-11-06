@@ -4,18 +4,18 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-10-30 22:52+0000\n"
+"PO-Revision-Date: 2026-11-17 23:46+0000\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "Last-Translator: ALANA NUNENMACKER "
 "<anunenmacker@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "jamovi/jmvplots-i18n/pt_BR/>\n"
-"X-Generator: Weblate 2026.11.dev0\n"
+"X-Generator: Weblate 2026.12.dev0\n"
 
 #: R/jmvbar.b.R
 msgid "{var} (mean{error})"
-msgstr ""
+msgstr "{var} (média{error})"
 
 #: jmvbar/ui/mode/continuous[1][0][0][0]/yAxisRangeType_ci/ciWidth.suffix
 #: jmvline/ui/mode/aggregate[0][1][0]/yAxisRangeType_ci/ciWidth.suffix
@@ -24,20 +24,20 @@ msgstr "%"
 
 #: pareto/results/plot.description
 msgid "a Pareto chart"
-msgstr ""
+msgstr "um gráfico de Pareto"
 
 #: jmvline/options/aggregateType.title
 #: jmvline/ui/mode/aggregate[0][0][0][0].label
 msgid "Aggregate"
-msgstr ""
+msgstr "Agregação"
 
 #: jmvline/ui/mode/aggregate[0].label
 msgid "Aggregate Options"
-msgstr ""
+msgstr "Opções de Agregação"
 
 #: jmvline/options/mode/aggregate.title
 msgid "Aggregated data"
-msgstr ""
+msgstr "Dados agregados"
 
 #: jmvbar/options/titleAlign.title
 #: jmvbar/options/subtitleAlign.title
@@ -70,27 +70,27 @@ msgstr ""
 #: scat/options/xLabelAlign.title
 #: scat/options/yLabelAlign.title
 msgid "Align"
-msgstr ""
+msgstr "Alinhar"
 
 #: jmvbar/results/plot.description
 msgid "an image containing the bar plot"
-msgstr ""
+msgstr "uma imagem contendo o gráfico de barras"
 
 #: jmvbox/results/plot.description
 msgid "an image containing the box plot"
-msgstr ""
+msgstr "uma imagem contendo o gráfico de caixa"
 
 #: jmvhist/results/plot.description
 msgid "an image containing the histogram"
-msgstr ""
+msgstr "uma imagem contendo o histograma"
 
 #: jmvline/results/plot.description
 msgid "an image containing the line plot"
-msgstr ""
+msgstr "uma imagem contendo o gráfico de linhas"
 
 #: scat/results/plot.description
 msgid "an image containing the scatter plot"
-msgstr ""
+msgstr "uma imagem contendo o gráfico de dispersão"
 
 #: jmvbar/options/yAxisRangeType/auto.title
 #: jmvbox/options/yAxisRangeType/auto.title
@@ -110,12 +110,12 @@ msgstr "Auto"
 #: pareto/ui[3].label
 #: scat/ui[3].label
 msgid "Axes"
-msgstr ""
+msgstr "Eixos"
 
 #: jmvbar/ui[1][0][0][0].label
 #: pareto/ui[1][0][0][0].label
 msgid "Bar"
-msgstr ""
+msgstr "Barra"
 
 #: package/analyses/jmvbar.title
 #: package/analyses/jmvbar.menuTitle
@@ -127,7 +127,7 @@ msgstr "Gráfico de Barras"
 
 #: jmvbar/options/groupBarType.title
 msgid "Bar type"
-msgstr ""
+msgstr "Tipo de barra"
 
 #: jmvbar/ui[2][0][0][0].label
 msgid "Bar Type"
@@ -135,16 +135,16 @@ msgstr "Tipo de Gráfico"
 
 #: jmvhist/options/binOpacity.title
 msgid "Bin opacity"
-msgstr ""
+msgstr "Opacidade das classes"
 
 #: jmvhist/options/binWidth.title
 msgid "Bin width"
-msgstr ""
+msgstr "Largura da classe"
 
 #: jmvhist/options/binWidthType.title
 #: jmvhist/ui[1][0][0][0].label
 msgid "Bin Width"
-msgstr ""
+msgstr "Largura da Classe"
 
 #: jmvbar/options/titleFontFace/bold.title
 #: jmvbar/options/subtitleFontFace/bold.title
@@ -230,7 +230,7 @@ msgstr "Negrito"
 #: scat/options/legendTitleFontFace/bold-italic.title
 #: scat/options/legendLabelFontFace/bold-italic.title
 msgid "Bold Italic"
-msgstr ""
+msgstr "Negrito Itálico"
 
 #: jmvbar/options/legendPosition/bottom.title
 #: jmvbar/options/legendJustification/bottom.title
@@ -243,11 +243,11 @@ msgstr ""
 #: scat/options/legendPosition/bottom.title
 #: scat/options/legendJustification/bottom.title
 msgid "Bottom"
-msgstr ""
+msgstr "Fundo"
 
 #: jmvbox/ui[1][0][0][0].label
 msgid "Box Element"
-msgstr ""
+msgstr "Elemento da Caixa"
 
 #: package/analyses/jmvbox.title
 #: package/analyses/jmvbox.menuTitle
@@ -255,16 +255,16 @@ msgstr ""
 #: jmvbox/ui.title
 #: jmvbox/results.title
 msgid "Box Plot"
-msgstr ""
+msgstr "Gráfico de Caixa"
 
 #: jmvbar/options/mode/categorical.title
 msgid "Categorical"
-msgstr ""
+msgstr "Categórico"
 
 #: jmvbar/options/catvar.title
 #: jmvbar/ui/mode/categorical[0][0].label
 msgid "Categorical Variable"
-msgstr ""
+msgstr "Variável Categórica"
 
 #: jmvbar/options/titleAlign/center.title
 #: jmvbar/options/subtitleAlign/center.title
@@ -302,7 +302,7 @@ msgstr ""
 #: scat/options/yLabelAlign/center.title
 #: scat/options/legendJustification/center.title
 msgid "Center"
-msgstr ""
+msgstr "Centro"
 
 #: jmvbar/options/errorBars/ci.title
 #: jmvline/options/errorBars/ci.title
@@ -316,12 +316,12 @@ msgstr "Contínuo"
 
 #: jmvbar/ui/mode/continuous[1].label
 msgid "Continuous Options"
-msgstr ""
+msgstr "Opções Contínuas"
 
 #: jmvbar/options/convar.title
 #: jmvbar/ui/mode/continuous[0][0].label
 msgid "Continuous Variable"
-msgstr ""
+msgstr "Variável Contínua"
 
 #: jmvbar/options/mode/counts.title
 #: jmvbar/options/counts.title
@@ -339,14 +339,17 @@ msgid ""
 "Create elegant and interactive plots built on 'ggplot2'. The package is "
 "designed to provide a convenience layer to 'ggplot2' within jamovi."
 msgstr ""
+"Crie gráficos elegantes e interativos baseados no 'ggplot2'. O pacote foi "
+"projetado para oferecer uma camada de conveniência para o 'ggplot2' dentro "
+"do jamovi."
 
 #: R/pareto.b.R
 msgid "Cumulative Percentage"
-msgstr ""
+msgstr "Porcentagem Acumulada"
 
 #: jmvline/options/mode.title
 msgid "Data display"
-msgstr ""
+msgstr "Exibição de dados"
 
 #: jmvhist/ui[1][0][1][0].label
 msgid "Density"
@@ -354,19 +357,19 @@ msgstr "Densidade"
 
 #: jmvhist/options/densityOpacity.title
 msgid "Density opacity"
-msgstr ""
+msgstr "Opacidade de densidade"
 
 #: jmvline/options/groupColor.title
 msgid "Different colors"
-msgstr ""
+msgstr "Cores diferentes"
 
 #: jmvline/options/groupLineType.title
 msgid "Different line types"
-msgstr ""
+msgstr "Diferentes tipos de linha"
 
 #: jmvline/options/groupPointType.title
 msgid "Different point types"
-msgstr ""
+msgstr "Diferentes tipos de pontos"
 
 #: jmvbar/options/legendDirection.title
 #: jmvbox/options/legendDirection.title
@@ -374,26 +377,26 @@ msgstr ""
 #: jmvline/options/legendDirection.title
 #: scat/options/legendDirection.title
 msgid "Direction"
-msgstr ""
+msgstr "Direção"
 
 #: jmvline/options/groupPositionDodge.title
 msgid "Dodge width"
-msgstr ""
+msgstr "Largura de desvio"
 
 #: jmvbar/options/errorBarSize.title
 #: jmvline/options/errorBarSize.title
 msgid "Error bar line size"
-msgstr ""
+msgstr "Tamanho da linha da barra de erro"
 
 #: jmvbar/ui/mode/continuous[1][1][0].label
 #: jmvline/ui/mode/aggregate[0][1][1].label
 msgid "Error Bar Styling"
-msgstr ""
+msgstr "Estilização de Barras de Erro"
 
 #: jmvbar/options/errorBarWidth.title
 #: jmvline/options/errorBarWidth.title
 msgid "Error bar width"
-msgstr ""
+msgstr "Largura da barra de erro"
 
 #: jmvbar/options/errorBars.title
 #: jmvline/options/errorBars.title
@@ -403,7 +406,7 @@ msgstr "Barra de erro"
 #: jmvbar/ui/mode/continuous[1][0][0][0].label
 #: jmvline/ui/mode/aggregate[0][1][0].label
 msgid "Error Bars"
-msgstr ""
+msgstr "Barras de Erro"
 
 #: jmvbar/options/naOmit.title
 #: jmvbox/options/naOmit.title
@@ -422,7 +425,7 @@ msgstr "Exploração"
 #: jmvline/options/flipAxes.title
 #: scat/options/flipAxes.title
 msgid "Flip axes"
-msgstr ""
+msgstr "Inverter eixos"
 
 #: jmvbar/options/titleFontFace.title
 #: jmvbar/options/subtitleFontFace.title
@@ -455,7 +458,7 @@ msgstr ""
 #: scat/options/xLabelFontFace.title
 #: scat/options/yLabelFontFace.title
 msgid "Font face"
-msgstr ""
+msgstr "Tipo de fonte"
 
 #: jmvbar/options/titleFontSize.title
 #: jmvbar/options/subtitleFontSize.title
@@ -488,13 +491,13 @@ msgstr ""
 #: scat/options/xLabelFontSize.title
 #: scat/options/yLabelFontSize.title
 msgid "Font size"
-msgstr ""
+msgstr "Tamanho da fonte"
 
 #: R/jmvbar.b.R
 #: R/jmvhist.b.R
 #: R/pareto.b.R
 msgid "Frequency (N)"
-msgstr ""
+msgstr "Frequência (N)"
 
 #: jmvbar/ui[1].label
 #: jmvbox/ui[1].label
@@ -508,11 +511,11 @@ msgstr "Opções Gerais"
 #: jmvbar/ui[2].label
 #: jmvline/ui[3].label
 msgid "Group Options"
-msgstr ""
+msgstr "Opções de Grupo"
 
 #: jmvbar/options/groupBarType/grouped.title
 msgid "Grouped"
-msgstr ""
+msgstr "Agrupado"
 
 #: jmvbar/options/catgroup.title
 #: jmvbar/options/countsgroup.title
@@ -532,14 +535,14 @@ msgstr "Variável de agrupamento"
 #: jmvbox/options/group1.title
 #: jmvbox/ui[0][1].label
 msgid "Grouping Variable 1"
-msgstr ""
+msgstr "Variável de Agrupamento 1"
 
 #: jmvbar/options/congroup2.title
 #: jmvbar/ui/mode/continuous[0][2].label
 #: jmvbox/options/group2.title
 #: jmvbox/ui[0][2].label
 msgid "Grouping Variable 2"
-msgstr ""
+msgstr "Variável de Agrupamento 2"
 
 #: jmvbar/options/legenPositionType/hide.title
 #: jmvbox/options/legenPositionType/hide.title
@@ -564,11 +567,11 @@ msgstr "Histograma"
 #: jmvline/options/legendDirection/horizontal.title
 #: scat/options/legendDirection/horizontal.title
 msgid "Horizontal"
-msgstr ""
+msgstr "Horizontal"
 
 #: jmvline/options/mode/individual.title
 msgid "Individual points"
-msgstr ""
+msgstr "Pontos individuais"
 
 #: jmvbar/options/legenPositionType/inside.title
 #: jmvbox/options/legenPositionType/inside.title
@@ -576,7 +579,7 @@ msgstr ""
 #: jmvline/options/legenPositionType/inside.title
 #: scat/options/legenPositionType/inside.title
 msgid "Inside"
-msgstr ""
+msgstr "Dentro"
 
 #: jmvbar/options/titleFontFace/italic.title
 #: jmvbar/options/subtitleFontFace/italic.title
@@ -627,7 +630,7 @@ msgstr "Itálico"
 #: jmvline/options/legendJustification.title
 #: scat/options/legendJustification.title
 msgid "Justification"
-msgstr ""
+msgstr "Justificação"
 
 #: jmvbar/options/legendKeyHeight.title
 #: jmvbox/options/legendKeyHeight.title
@@ -635,7 +638,7 @@ msgstr ""
 #: jmvline/options/legendKeyHeight.title
 #: scat/options/legendKeyHeight.title
 msgid "Key height"
-msgstr ""
+msgstr "Altura da tecla"
 
 #: jmvbar/options/legendKeyWidth.title
 #: jmvbox/options/legendKeyWidth.title
@@ -643,7 +646,7 @@ msgstr ""
 #: jmvline/options/legendKeyWidth.title
 #: scat/options/legendKeyWidth.title
 msgid "Key width"
-msgstr ""
+msgstr "Largura da tecla"
 
 #: jmvbar/options/legendLabelFontFace.title
 #: jmvbox/options/legendLabelFontFace.title
@@ -651,7 +654,7 @@ msgstr ""
 #: jmvline/options/legendLabelFontFace.title
 #: scat/options/legendLabelFontFace.title
 msgid "Label font face"
-msgstr ""
+msgstr "Tipo de fonte do rótulo"
 
 #: jmvbar/options/yAxisLabelFontSize.title
 #: jmvbar/options/xAxisLabelFontSize.title
@@ -671,7 +674,7 @@ msgstr ""
 #: scat/options/xAxisLabelFontSize.title
 #: scat/options/legendLabelFontSize.title
 msgid "Label font size"
-msgstr ""
+msgstr "Tamanho da fonte do rótulo"
 
 #: jmvbar/options/yAxisLabelRotation.title
 #: jmvbar/options/xAxisLabelRotation.title
@@ -686,12 +689,12 @@ msgstr ""
 #: scat/options/yAxisLabelRotation.title
 #: scat/options/xAxisLabelRotation.title
 msgid "Label rotation"
-msgstr ""
+msgstr "Rotação de rótulos"
 
 #: jmvbar/options/countsLabels.title
 #: jmvbar/ui/mode/counts[0][1].label
 msgid "Labels"
-msgstr ""
+msgstr "Rótulos"
 
 #: jmvbar/options/titleAlign/left.title
 #: jmvbar/options/subtitleAlign/left.title
@@ -734,7 +737,7 @@ msgstr ""
 #: scat/options/legendPosition/left.title
 #: scat/options/legendJustification/left.title
 msgid "Left"
-msgstr ""
+msgstr "Esquerda"
 
 #: jmvbar/ui[5].label
 #: jmvbox/ui[4].label
@@ -742,7 +745,7 @@ msgstr ""
 #: jmvline/ui[6].label
 #: scat/ui[4].label
 msgid "Legend"
-msgstr ""
+msgstr "Legenda"
 
 #: jmvbar/ui[5][0][1][0].label
 #: jmvbox/ui[4][0][1][0].label
@@ -750,7 +753,7 @@ msgstr ""
 #: jmvline/ui[6][0][1][0].label
 #: scat/ui[4][0][1][0].label
 msgid "Legend Position"
-msgstr ""
+msgstr "Posição da Legenda"
 
 #: jmvbar/ui[5][0][0][1].label
 #: jmvbox/ui[4][0][0][1].label
@@ -758,7 +761,7 @@ msgstr ""
 #: jmvline/ui[6][0][0][1].label
 #: scat/ui[4][0][0][1].label
 msgid "Legend Style"
-msgstr ""
+msgstr "Estilo da Legenda"
 
 #: jmvbar/ui[5][0][0][0].label
 #: jmvbox/ui[4][0][0][0].label
@@ -766,15 +769,15 @@ msgstr ""
 #: jmvline/ui[6][0][0][0].label
 #: scat/ui[4][0][0][0].label
 msgid "Legend Title"
-msgstr ""
+msgstr "Título da Legenda"
 
 #: jmvline/ui[2][0][0][0].label
 msgid "Line"
-msgstr ""
+msgstr "Linha"
 
 #: jmvline/ui[3][0][0][0].label
 msgid "Line & Point Style"
-msgstr ""
+msgstr "Estilo de Linha e Ponto"
 
 #: package/analyses/jmvline.title
 #: package/analyses/jmvline.menuTitle
@@ -782,17 +785,17 @@ msgstr ""
 #: jmvline/ui.title
 #: jmvline/results.title
 msgid "Line Plot"
-msgstr ""
+msgstr "Gráfico de Linhas"
 
 #: jmvhist/options/lineSize.title
 #: jmvhist/options/densityLineSize.title
 #: jmvline/options/lineSize.title
 msgid "Line size"
-msgstr ""
+msgstr "Tamanho da linha"
 
 #: scat/options/lineMethod/lm.title
 msgid "Linear"
-msgstr ""
+msgstr "Linear"
 
 #: jmvbar/options/yAxisRangeType/manual.title
 #: jmvbox/options/yAxisRangeType/manual.title
@@ -803,7 +806,7 @@ msgstr ""
 #: scat/options/yAxisRangeType/manual.title
 #: scat/options/xAxisRangeType/manual.title
 msgid "Manual"
-msgstr ""
+msgstr "Manual"
 
 #: jmvbar/options/yAxisRangeMax.title
 #: jmvbox/options/yAxisRangeMax.title
@@ -846,7 +849,7 @@ msgstr "Valores faltando"
 #: package/analyses/pareto.menuGroup
 #: pareto/options.menuGroup
 msgid "More"
-msgstr ""
+msgstr "Mais"
 
 #: jmvbar/options/errorBars/none.title
 #: jmvline/options/errorBars/none.title
@@ -855,7 +858,7 @@ msgstr "Nenhum"
 
 #: jmvbox/options/notch.title
 msgid "Notch"
-msgstr ""
+msgstr "Entalhe"
 
 #: jmvbar/options/legenPositionType/outside.title
 #: jmvbox/options/legenPositionType/outside.title
@@ -863,7 +866,7 @@ msgstr ""
 #: jmvline/options/legenPositionType/outside.title
 #: scat/options/legenPositionType/outside.title
 msgid "Outside"
-msgstr ""
+msgstr "Fora"
 
 #: package/analyses/pareto.title
 #: package/analyses/pareto.menuTitle
@@ -871,7 +874,7 @@ msgstr ""
 #: pareto/ui.title
 #: pareto/results.title
 msgid "Pareto Plot"
-msgstr ""
+msgstr "Gráfico de Pareto"
 
 #: jmvbar/options/titleFontFace/plain.title
 #: jmvbar/options/subtitleFontFace/plain.title
@@ -914,7 +917,7 @@ msgstr ""
 #: scat/options/legendTitleFontFace/plain.title
 #: scat/options/legendLabelFontFace/plain.title
 msgid "Plain"
-msgstr ""
+msgstr "Simples"
 
 #: jmvbar/ui[3].label
 #: jmvbox/ui[2].label
@@ -923,7 +926,7 @@ msgstr ""
 #: pareto/ui[2].label
 #: scat/ui[2].label
 msgid "Plot & Axis Titles"
-msgstr ""
+msgstr "Títulos do Gráfico e dos Eixos"
 
 #: jmvbar/options/titleType/caption.title
 #: jmvbox/options/titleType/caption.title
@@ -932,7 +935,7 @@ msgstr ""
 #: pareto/options/titleType/caption.title
 #: scat/options/titleType/caption.title
 msgid "Plot Caption"
-msgstr ""
+msgstr "Legenda do Gráfico"
 
 #: jmvbar/ui[1][0][1][0].label
 #: jmvbox/ui[1][0][1][0].label
@@ -940,7 +943,7 @@ msgstr ""
 #: jmvline/ui[2][0][1][0].label
 #: scat/ui[1][0][1][0].label
 msgid "Plot Orientation"
-msgstr ""
+msgstr "Orientação do Gráfico"
 
 #: jmvbar/options/titleType/subtitle.title
 #: jmvbox/options/titleType/subtitle.title
@@ -949,7 +952,7 @@ msgstr ""
 #: pareto/options/titleType/subtitle.title
 #: scat/options/titleType/subtitle.title
 msgid "Plot Subtitle"
-msgstr ""
+msgstr "Subtítulo do Gráfico"
 
 #: jmvbar/options/titleType/title.title
 #: jmvbox/options/titleType/title.title
@@ -958,24 +961,24 @@ msgstr ""
 #: pareto/options/titleType/title.title
 #: scat/options/titleType/title.title
 msgid "Plot Title"
-msgstr ""
+msgstr "Título do Gráfico"
 
 #: package.title
 msgid "Plots bundled with jamovi"
-msgstr ""
+msgstr "Gráficos incluídos no jamovi"
 
 #: jmvline/ui[2][0][0][1].label
 msgid "Point"
-msgstr ""
+msgstr "Pontos"
 
 #: jmvline/ui[3][0][1][0].label
 msgid "Point Dodging"
-msgstr ""
+msgstr "Deslocamento dos Pontos"
 
 #: jmvline/options/pointSize.title
 #: scat/options/pointSize.title
 msgid "Point size"
-msgstr ""
+msgstr "Tamanho dos pontos"
 
 #: jmvbar/options/legendPosition.title
 #: jmvbox/options/legendPosition.title
@@ -983,7 +986,7 @@ msgstr ""
 #: jmvline/options/legendPosition.title
 #: scat/options/legendPosition.title
 msgid "Position"
-msgstr ""
+msgstr "Posição"
 
 #: jmvbar/ui[4][0][1][1].label
 #: jmvbox/ui[3][0][1][1].label
@@ -993,16 +996,16 @@ msgstr ""
 #: scat/ui[3][0][0][1].label
 #: scat/ui[3][0][1][1].label
 msgid "Range"
-msgstr ""
+msgstr "Amplitude"
 
 #: scat/ui[1][0][0][1].label
 msgid "Regression Line"
-msgstr ""
+msgstr "Linha de Regressão"
 
 #: jmvbar/options/xAxisLabelFontSizeRevLabels.title
 #: jmvbox/options/xAxisLabelFontSizeRevLabels.title
 msgid "Reverse labels"
-msgstr ""
+msgstr "Etiquetas invertidas"
 
 #: jmvbar/options/titleAlign/right.title
 #: jmvbar/options/subtitleAlign/right.title
@@ -1045,16 +1048,16 @@ msgstr ""
 #: scat/options/legendPosition/right.title
 #: scat/options/legendJustification/right.title
 msgid "Right"
-msgstr ""
+msgstr "Direita"
 
 #: package/analyses/scat.menuSubgroup
 #: package/analyses/pareto.menuSubgroup
 msgid "scatr"
-msgstr ""
+msgstr "scatr"
 
 #: scat/ui[1][0][0][0].label
 msgid "Scatter"
-msgstr ""
+msgstr "Dispersão"
 
 #: package/analyses/scat.title
 #: package/analyses/scat.menuTitle
@@ -1062,50 +1065,50 @@ msgstr ""
 #: scat/ui.title
 #: scat/results.title
 msgid "Scatter Plot"
-msgstr ""
+msgstr "Gráfico de Dispersão"
 
 #: jmvhist/options/bins.title
 msgid "Show bins"
-msgstr ""
+msgstr "Mostrar classes"
 
 #: jmvhist/options/density.title
 msgid "Show density"
-msgstr ""
+msgstr "Mostrar densidade"
 
 #: jmvhist/options/line.title
 #: scat/options/regLine.title
 msgid "Show line"
-msgstr ""
+msgstr "Exibir linha"
 
 #: jmvline/options/line.title
 msgid "Show lines"
-msgstr ""
+msgstr "Exibir linhas"
 
 #: jmvbox/options/outliers.title
 msgid "Show outliers"
-msgstr ""
+msgstr "Exibir valores atípicos"
 
 #: jmvline/options/point.title
 msgid "Show points"
-msgstr ""
+msgstr "Exibir pontos"
 
 #: scat/options/lineMethod/loess.title
 msgid "Smooth"
-msgstr ""
+msgstr "Suave"
 
 #: jmvbar/options/groupBarType/stacked.title
 msgid "Stacked"
-msgstr ""
+msgstr "Empilhado"
 
 #: jmvbar/options/errorBars/sd.title
 #: jmvline/options/errorBars/sd.title
 msgid "Standard deviation"
-msgstr ""
+msgstr "Desvio-padrão"
 
 #: jmvbar/options/errorBars/se.title
 #: jmvline/options/errorBars/se.title
 msgid "Standard error"
-msgstr ""
+msgstr "Erro padrão"
 
 #: jmvbar/options/legendTitleFontFace.title
 #: jmvbox/options/legendTitleFontFace.title
@@ -1113,7 +1116,7 @@ msgstr ""
 #: jmvline/options/legendTitleFontFace.title
 #: scat/options/legendTitleFontFace.title
 msgid "Title font face"
-msgstr ""
+msgstr "Tipo de fonte para títulos"
 
 #: jmvbar/options/legendTitleFontSize.title
 #: jmvbox/options/legendTitleFontSize.title
@@ -1121,7 +1124,7 @@ msgstr ""
 #: jmvline/options/legendTitleFontSize.title
 #: scat/options/legendTitleFontSize.title
 msgid "Title font size"
-msgstr ""
+msgstr "Tamanho da fonte do título"
 
 #: jmvbar/options/title.title
 #: jmvbar/options/subtitle.title
@@ -1159,7 +1162,7 @@ msgstr ""
 #: scat/options/yLabel.title
 #: scat/options/legendTitle.title
 msgid "Title text"
-msgstr ""
+msgstr "Texto do título"
 
 #: jmvbar/options/legendPosition/top.title
 #: jmvbar/options/legendJustification/top.title
@@ -1172,22 +1175,22 @@ msgstr ""
 #: scat/options/legendPosition/top.title
 #: scat/options/legendJustification/top.title
 msgid "Top"
-msgstr ""
+msgstr "Superior"
 
 #: jmvbar/options/valueLabels.title
 msgid "Value labels"
-msgstr ""
+msgstr "Rótulos de valores"
 
 #: jmvbox/options/var.title
 #: jmvbox/ui[0][0].label
 #: jmvhist/options/var.title
 #: jmvhist/ui[0][0].label
 msgid "Variable"
-msgstr ""
+msgstr "Variável"
 
 #: jmvbar/options/mode.title
 msgid "Variable type"
-msgstr ""
+msgstr "Tipo de variável"
 
 #: jmvbar/options/legendDirection/vertical.title
 #: jmvbox/options/legendDirection/vertical.title
@@ -1195,7 +1198,7 @@ msgstr ""
 #: jmvline/options/legendDirection/vertical.title
 #: scat/options/legendDirection/vertical.title
 msgid "Vertical"
-msgstr ""
+msgstr "Vertical"
 
 #: jmvbar/options/barWidth.title
 #: jmvbar/options/ciWidth.title
@@ -1203,7 +1206,7 @@ msgstr ""
 #: jmvline/options/ciWidth.title
 #: pareto/options/barWidth.title
 msgid "Width"
-msgstr ""
+msgstr "Largura"
 
 #: jmvbar/ui[4][0][0][0].label
 #: jmvbox/ui[3][0][0][0].label
@@ -1218,12 +1221,12 @@ msgstr ""
 #: scat/ui[0][0].label
 #: scat/ui[3][0][0][0].label
 msgid "X-Axis"
-msgstr ""
+msgstr "Eixo X"
 
 #: jmvhist/options/xAxisRangeType.title
 #: scat/options/xAxisRangeType.title
 msgid "X-Axis Range"
-msgstr ""
+msgstr "Intervalo do Eixo X"
 
 #: jmvbar/options/titleType/xTitle.title
 #: jmvbox/options/titleType/xTitle.title
@@ -1232,7 +1235,7 @@ msgstr ""
 #: pareto/options/titleType/xTitle.title
 #: scat/options/titleType/xTitle.title
 msgid "X-Axis Title"
-msgstr ""
+msgstr "Título do Eixo X"
 
 #: jmvbar/options/legendPositionX.title
 #: jmvbox/options/legendPositionX.title
@@ -1240,7 +1243,7 @@ msgstr ""
 #: jmvline/options/legendPositionX.title
 #: scat/options/legendPositionX.title
 msgid "X-position"
-msgstr ""
+msgstr "Posição no eixo X"
 
 #: jmvbar/ui[4][0][1][0].label
 #: jmvbox/ui[3][0][1][0].label
@@ -1253,7 +1256,7 @@ msgstr ""
 #: scat/ui[0][1].label
 #: scat/ui[3][0][1][0].label
 msgid "Y-Axis"
-msgstr ""
+msgstr "Eixo Y"
 
 #: jmvbar/options/yAxisRangeType.title
 #: jmvbox/options/yAxisRangeType.title
@@ -1261,7 +1264,7 @@ msgstr ""
 #: jmvline/options/yAxisRangeType.title
 #: scat/options/yAxisRangeType.title
 msgid "Y-Axis Range"
-msgstr ""
+msgstr "Intervalo do Eixo Y"
 
 #: jmvbar/options/titleType/yTitle.title
 #: jmvbox/options/titleType/yTitle.title
@@ -1270,7 +1273,7 @@ msgstr ""
 #: pareto/options/titleType/yTitle.title
 #: scat/options/titleType/yTitle.title
 msgid "Y-Axis Title"
-msgstr ""
+msgstr "Título do Eixo Y"
 
 #: jmvbar/options/legendPositionY.title
 #: jmvbox/options/legendPositionY.title
@@ -1278,4 +1281,4 @@ msgstr ""
 #: jmvline/options/legendPositionY.title
 #: scat/options/legendPositionY.title
 msgid "Y-position"
-msgstr ""
+msgstr "Posição no eixo Y"
