@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-11-05 11:51+0000\n"
+"PO-Revision-Date: 2026-11-09 12:51+0000\n"
 "Last-Translator: Milo Ivir <milotype@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/jmvplots-"
 "i18n/hr/>\n"
@@ -312,7 +312,7 @@ msgstr "Interval pouzdanosti"
 
 #: jmvbar/options/mode/continuous.title
 msgid "Continuous"
-msgstr "Neprekidno"
+msgstr "Kontinuirano"
 
 #: jmvbar/ui/mode/continuous[1].label
 msgid "Continuous Options"
