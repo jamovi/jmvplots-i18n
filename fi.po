@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-10-30 22:52+0000\n"
+"PO-Revision-Date: 2026-11-17 23:46+0000\n"
 "Last-Translator: Arto Luoma <arto@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/jamovi/jmvplots-"
 "i18n/fi/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.11.dev0\n"
+"X-Generator: Weblate 2026.12.dev0\n"
 
 #: R/jmvbar.b.R
 #, fuzzy
@@ -552,9 +552,8 @@ msgstr "Taajama (N)"
 #: jmvline/ui[2].label
 #: pareto/ui[1].label
 #: scat/ui[1].label
-#, fuzzy
 msgid "General Options"
-msgstr "Yleiset vaihtoehdot"
+msgstr "Yleiset asetukset"
 
 #: jmvbar/ui[2].label
 #: jmvline/ui[3].label
@@ -611,7 +610,6 @@ msgstr "Piilota"
 #: jmvhist/ui.title
 #: jmvhist/ui[1][0][0][1].label
 #: jmvhist/results.title
-#, fuzzy
 msgid "Histogram"
 msgstr "Histogrammi"
 
@@ -891,12 +889,10 @@ msgstr "Manuaalinen"
 #: jmvline/options/yAxisRangeMax.title
 #: scat/options/yAxisRangeMax.title
 #: scat/options/xAxisRangeMax.title
-#, fuzzy
 msgid "Max"
-msgstr "Maks"
+msgstr "Max"
 
 #: jmvline/options/aggregateType/mean.title
-#, fuzzy
 msgid "Mean"
 msgstr "Keskiarvo"
 
